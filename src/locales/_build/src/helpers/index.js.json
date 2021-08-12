@@ -1,0 +1,10 @@
+{
+  "Uh oh, there's something bad happened": {
+    "origin": [
+      [
+        "src/helpers/index.js",
+        54
+      ]
+    ]
+  }
+}

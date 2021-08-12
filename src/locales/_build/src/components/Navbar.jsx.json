@@ -1,0 +1,154 @@
+{
+  "Hi, {0}": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        96
+      ]
+    ]
+  },
+  "You've made it!": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        112
+      ]
+    ]
+  },
+  "You're almost there": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        112
+      ]
+    ]
+  },
+  "Your profile is complete": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        113
+      ]
+    ]
+  },
+  "Complete your profile": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        113
+      ]
+    ]
+  },
+  "<0/>   Your profile": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        124
+      ]
+    ]
+  },
+  "<0/>   My Online Classes": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        134
+      ]
+    ]
+  },
+  "<0/>   Chats": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        143
+      ]
+    ]
+  },
+  "<0/>   Your assignments": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        151
+      ]
+    ]
+  },
+  "<0/>   Settings": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        159
+      ]
+    ]
+  },
+  "<0/>   Cudy updates": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        169
+      ]
+    ]
+  },
+  "<0/>   Booking List": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        175
+      ]
+    ]
+  },
+  "<0/>   Transaction List": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        182
+      ]
+    ]
+  },
+  "Logout": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        188
+      ]
+    ]
+  },
+  "Search for": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        247
+      ]
+    ]
+  },
+  "Cudy": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        256
+      ],
+      [
+        "src/components/Navbar.jsx",
+        262
+      ]
+    ]
+  },
+  "Login": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        360
+      ],
+      [
+        "src/components/Navbar.jsx",
+        369
+      ]
+    ]
+  },
+  "Sign up": {
+    "origin": [
+      [
+        "src/components/Navbar.jsx",
+        375
+      ]
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "The subject item has been updated": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        40
+      ],
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        69
+      ],
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        113
+      ]
+    ]
+  },
+  "The subject item has been added": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        50
+      ],
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        79
+      ]
+    ]
+  },
+  "The subject item has been deleted": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        60
+      ],
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        89
+      ],
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        104
+      ]
+    ]
+  },
+  "Academic": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        287
+      ]
+    ]
+  },
+  "This tutor didn't set any subjects yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        292
+      ],
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        325
+      ]
+    ]
+  },
+  "You haven't set any subjects yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        294
+      ],
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        327
+      ]
+    ]
+  },
+  "{symbol} {0} per hour": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        310
+      ],
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        342
+      ],
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        370
+      ]
+    ]
+  },
+  "Non-academic": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        320
+      ]
+    ]
+  },
+  "Counselling": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        352
+      ]
+    ]
+  },
+  "This tutor didn't set any counselling yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        357
+      ]
+    ]
+  },
+  "You haven't set any counselling yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        359
+      ]
+    ]
+  },
+  "You have to fill in your subject": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        403
+      ]
+    ]
+  },
+  "You have to fill in your level/curriculum": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        404
+      ]
+    ]
+  },
+  "Are you sure this is the right amount?": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Subjects.jsx",
+        405
+      ]
+    ]
+  }
+}

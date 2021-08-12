@@ -1,0 +1,90 @@
+{
+  "No assignment listings found": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/index.jsx",
+        73
+      ]
+    ]
+  },
+  "{0}": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/index.jsx",
+        86
+      ]
+    ]
+  },
+  "Active": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/index.jsx",
+        88
+      ]
+    ]
+  },
+  "Inactive": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/index.jsx",
+        88
+      ]
+    ]
+  },
+  "Subject": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/index.jsx",
+        96
+      ]
+    ]
+  },
+  "Curriculum": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/index.jsx",
+        99
+      ]
+    ]
+  },
+  "Preferred tutor experience": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/index.jsx",
+        104
+      ]
+    ]
+  },
+  "{0} years": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/index.jsx",
+        105
+      ]
+    ]
+  },
+  "Your assignments": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/index.jsx",
+        135
+      ]
+    ]
+  },
+  "The list of your posted assignments": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/index.jsx",
+        136
+      ]
+    ]
+  },
+  "Post new assignment": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/index.jsx",
+        143
+      ]
+    ]
+  }
+}

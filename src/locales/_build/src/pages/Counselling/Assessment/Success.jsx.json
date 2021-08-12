@@ -1,0 +1,42 @@
+{
+  "Great job! :)": {
+    "origin": [
+      [
+        "src/pages/Counselling/Assessment/Success.jsx",
+        59
+      ]
+    ]
+  },
+  "You've finished the test. And here's the result.": {
+    "origin": [
+      [
+        "src/pages/Counselling/Assessment/Success.jsx",
+        60
+      ]
+    ]
+  },
+  "Indicator": {
+    "origin": [
+      [
+        "src/pages/Counselling/Assessment/Success.jsx",
+        73
+      ]
+    ]
+  },
+  "Talk to our specialist today": {
+    "origin": [
+      [
+        "src/pages/Counselling/Assessment/Success.jsx",
+        86
+      ]
+    ]
+  },
+  "Back to Home": {
+    "origin": [
+      [
+        "src/pages/Counselling/Assessment/Success.jsx",
+        96
+      ]
+    ]
+  }
+}

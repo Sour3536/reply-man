@@ -1,0 +1,54 @@
+{
+  "Something Went Wrong": {
+    "origin": [
+      [
+        "src/components/common/ConditionalPage.jsx",
+        24
+      ]
+    ]
+  },
+  "We are working on fixing the problem<0/>Please try again later": {
+    "origin": [
+      [
+        "src/components/common/ConditionalPage.jsx",
+        26
+      ]
+    ]
+  },
+  "Back home": {
+    "origin": [
+      [
+        "src/components/common/ConditionalPage.jsx",
+        35
+      ],
+      [
+        "src/components/common/ConditionalPage.jsx",
+        71
+      ]
+    ]
+  },
+  "Maintenance": {
+    "origin": [
+      [
+        "src/components/common/ConditionalPage.jsx",
+        51
+      ]
+    ]
+  },
+  "Currently we are under maintenance. We'll get back to you very soon. Thanks! :)": {
+    "origin": [
+      [
+        "src/components/common/ConditionalPage.jsx",
+        52
+      ]
+    ]
+  },
+  "You're playing too far. It's time to turn around and go back home.": {
+    "origin": [
+      [
+        "src/components/common/ConditionalPage.jsx",
+        67
+      ]
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "This tutor didn't specify any certifications yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderCertifications.jsx",
+        13
+      ]
+    ]
+  },
+  "You haven't set any certifications yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderCertifications.jsx",
+        15
+      ]
+    ]
+  }
+}

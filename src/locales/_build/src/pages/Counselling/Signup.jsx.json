@@ -1,0 +1,154 @@
+{
+  "You are being referred by": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        101
+      ]
+    ]
+  },
+  "Be counsellor in <0>Cudy</0> today": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        159
+      ]
+    ]
+  },
+  "Join our e-counselling platform to start giving advices to those who in needs": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        163
+      ]
+    ]
+  },
+  "Your email": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        188
+      ]
+    ]
+  },
+  "Enter your email": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        188
+      ]
+    ]
+  },
+  "Your password": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        193
+      ]
+    ]
+  },
+  "Enter your password": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        193
+      ]
+    ]
+  },
+  "Repeat password": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        198
+      ]
+    ]
+  },
+  "Repeat your password": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        200
+      ]
+    ]
+  },
+  "Select your country": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        223
+      ]
+    ]
+  },
+  "Choose your preferred country": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        225
+      ]
+    ]
+  },
+  "<0>I have agreed to the <1>terms and conditions</1> and <2>privacy policy</2> of the site</0>": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        245
+      ]
+    ]
+  },
+  "Create account": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        261
+      ]
+    ]
+  },
+  "Login instead": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        266
+      ]
+    ]
+  },
+  "You have to tell your email": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        283
+      ]
+    ]
+  },
+  "Please provide a valid email address": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        284
+      ]
+    ]
+  },
+  "You have to fill in your password": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        287
+      ]
+    ]
+  },
+  "Eight characters minimum": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        288
+      ]
+    ]
+  },
+  "Password should match": {
+    "origin": [
+      [
+        "src/pages/Counselling/Signup.jsx",
+        292
+      ]
+    ]
+  }
+}

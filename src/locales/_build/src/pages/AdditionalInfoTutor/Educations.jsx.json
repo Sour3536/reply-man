@@ -1,0 +1,178 @@
+{
+  "The education item has been deleted": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        37
+      ]
+    ]
+  },
+  "The education has been updated": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        54
+      ]
+    ]
+  },
+  "E.g. Nanyang Polytechnic": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        78
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        139
+      ]
+    ]
+  },
+  "Your school/college": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        79
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        140
+      ]
+    ]
+  },
+  "I'm currently studying here": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        84
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        145
+      ]
+    ]
+  },
+  "From": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        93
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        151
+      ]
+    ]
+  },
+  "Choose the date": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        94
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        103
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        151
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        158
+      ]
+    ]
+  },
+  "To": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        102
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        157
+      ]
+    ]
+  },
+  "Save this education": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        110
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        114
+      ]
+    ]
+  },
+  "Save changes": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        164
+      ]
+    ]
+  },
+  "Delete this education?": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        167
+      ]
+    ]
+  },
+  "Delete": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        169
+      ]
+    ]
+  },
+  "Educational background": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        185
+      ]
+    ]
+  },
+  "Please fill in your educational background": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        186
+      ]
+    ]
+  },
+  "Add a new education": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        196
+      ]
+    ]
+  },
+  "<0/> Back to Subjects": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        209
+      ]
+    ]
+  },
+  "Go to Experiences <0/>": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Educations.jsx",
+        216
+      ]
+    ]
+  }
+}

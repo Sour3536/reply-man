@@ -1,0 +1,34 @@
+{
+  "Oops! No data found for now": {
+    "origin": [
+      [
+        "src/pages/StudyPlaces/Places.jsx",
+        58
+      ]
+    ]
+  },
+  "E.g. Study places in Bandung": {
+    "origin": [
+      [
+        "src/pages/StudyPlaces/Places.jsx",
+        118
+      ]
+    ]
+  },
+  "Places to study": {
+    "origin": [
+      [
+        "src/pages/StudyPlaces/Places.jsx",
+        129
+      ]
+    ]
+  },
+  "School is not the only place to study. The list below proves it": {
+    "origin": [
+      [
+        "src/pages/StudyPlaces/Places.jsx",
+        130
+      ]
+    ]
+  }
+}

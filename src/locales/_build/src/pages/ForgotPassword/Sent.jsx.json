@@ -1,0 +1,58 @@
+{
+  "The email has been sent once again.": {
+    "origin": [
+      [
+        "src/pages/ForgotPassword/Sent.jsx",
+        17
+      ]
+    ]
+  },
+  "Instructions sent!": {
+    "origin": [
+      [
+        "src/pages/ForgotPassword/Sent.jsx",
+        42
+      ]
+    ]
+  },
+  "Great! Now please take a look at your inbox. We've sent you a detail on how to reset your password.": {
+    "origin": [
+      [
+        "src/pages/ForgotPassword/Sent.jsx",
+        44
+      ]
+    ]
+  },
+  "Don't forget to check your spam/junk folder too :)": {
+    "origin": [
+      [
+        "src/pages/ForgotPassword/Sent.jsx",
+        50
+      ]
+    ]
+  },
+  "Send another copy of email?": {
+    "origin": [
+      [
+        "src/pages/ForgotPassword/Sent.jsx",
+        54
+      ]
+    ]
+  },
+  "I didn't get the email": {
+    "origin": [
+      [
+        "src/pages/ForgotPassword/Sent.jsx",
+        56
+      ]
+    ]
+  },
+  "Back to Home": {
+    "origin": [
+      [
+        "src/pages/ForgotPassword/Sent.jsx",
+        63
+      ]
+    ]
+  }
+}

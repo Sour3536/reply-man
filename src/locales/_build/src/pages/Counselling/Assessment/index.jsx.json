@@ -1,0 +1,18 @@
+{
+  "Are you sure want to start over the assessment?": {
+    "origin": [
+      [
+        "src/pages/Counselling/Assessment/index.jsx",
+        176
+      ]
+    ]
+  },
+  "Start over...": {
+    "origin": [
+      [
+        "src/pages/Counselling/Assessment/index.jsx",
+        180
+      ]
+    ]
+  }
+}

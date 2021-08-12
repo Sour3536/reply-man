@@ -1,0 +1,122 @@
+{
+  "Basic profile": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Basic.jsx",
+        76
+      ]
+    ]
+  },
+  "Tell us some of your details": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Basic.jsx",
+        79
+      ]
+    ]
+  },
+  "Date of birth": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Basic.jsx",
+        100
+      ]
+    ]
+  },
+  "Your date of birth...": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Basic.jsx",
+        101
+      ]
+    ]
+  },
+  "Your mobile": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Basic.jsx",
+        108
+      ]
+    ]
+  },
+  "E.g. 87888788": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Basic.jsx",
+        109
+      ]
+    ]
+  },
+  "Your location...": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Basic.jsx",
+        131
+      ]
+    ]
+  },
+  "Your location": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Basic.jsx",
+        132
+      ]
+    ]
+  },
+  "Gender": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Basic.jsx",
+        140
+      ]
+    ]
+  },
+  "Male": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Basic.jsx",
+        142
+      ]
+    ]
+  },
+  "Female": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Basic.jsx",
+        143
+      ]
+    ]
+  },
+  "Short description about you": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Basic.jsx",
+        153
+      ]
+    ]
+  },
+  "E.g. I am Jenny Ang, a professional tutor from Singapore with more than 3-year teaching experience, etc": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Basic.jsx",
+        155
+      ]
+    ]
+  },
+  "<0>Back</0>": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Basic.jsx",
+        164
+      ]
+    ]
+  },
+  "Next <0/>": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Basic.jsx",
+        172
+      ]
+    ]
+  }
+}

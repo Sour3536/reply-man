@@ -1,0 +1,74 @@
+{
+  "Please wait a second...": {
+    "origin": [
+      [
+        "src/pages/ForgotPassword/index.jsx",
+        21
+      ]
+    ]
+  },
+  "Forgot password": {
+    "origin": [
+      [
+        "src/pages/ForgotPassword/index.jsx",
+        50
+      ]
+    ]
+  },
+  "Forgot your password? Don't panic. Just tell us your email here.": {
+    "origin": [
+      [
+        "src/pages/ForgotPassword/index.jsx",
+        51
+      ]
+    ]
+  },
+  "Your email": {
+    "origin": [
+      [
+        "src/pages/ForgotPassword/index.jsx",
+        60
+      ]
+    ]
+  },
+  "Enter the email you used to access Cudy": {
+    "origin": [
+      [
+        "src/pages/ForgotPassword/index.jsx",
+        61
+      ]
+    ]
+  },
+  "Recover my password": {
+    "origin": [
+      [
+        "src/pages/ForgotPassword/index.jsx",
+        65
+      ]
+    ]
+  },
+  "<0/>   Back to Home": {
+    "origin": [
+      [
+        "src/pages/ForgotPassword/index.jsx",
+        74
+      ]
+    ]
+  },
+  "Please enter your email address": {
+    "origin": [
+      [
+        "src/pages/ForgotPassword/index.jsx",
+        88
+      ]
+    ]
+  },
+  "Please provide a valid email address": {
+    "origin": [
+      [
+        "src/pages/ForgotPassword/index.jsx",
+        89
+      ]
+    ]
+  }
+}

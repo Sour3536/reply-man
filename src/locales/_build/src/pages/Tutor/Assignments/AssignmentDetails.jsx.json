@@ -1,0 +1,162 @@
+{
+  "Hey tutor, check out this assignment by {0} {1}. Do you think you fit? Then just apply for it at Cudy. Cudy Marketplace is a marketplace for you to find best tutors around Indonesia, Singapore, Malaysia, Philippines, India, Sri Lanka, to teach you anything": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        46
+      ]
+    ]
+  },
+  "No friends joining": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        120
+      ]
+    ]
+  },
+  "This assignment is not available in your country": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        136
+      ]
+    ]
+  },
+  "Back": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        145
+      ]
+    ]
+  },
+  "Assignment by": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        151
+      ]
+    ]
+  },
+  "Active": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        157
+      ]
+    ]
+  },
+  "Inactive": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        157
+      ]
+    ]
+  },
+  "Share this assignment": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        160
+      ]
+    ]
+  },
+  "No tutor accepts the assignment yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        176
+      ]
+    ]
+  },
+  "accepts the assignment": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        189
+      ]
+    ]
+  },
+  "rejects the assignment": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        189
+      ]
+    ]
+  },
+  "Subject": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        217
+      ]
+    ]
+  },
+  "Curriculum": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        220
+      ]
+    ]
+  },
+  "Preferred tutor experience": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        225
+      ]
+    ]
+  },
+  "{0} years": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        226
+      ]
+    ]
+  },
+  "Preferred gender": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        233
+      ]
+    ]
+  },
+  "Location": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        236
+      ]
+    ]
+  },
+  "Your friends": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        239
+      ]
+    ]
+  },
+  "Price range": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        247
+      ]
+    ]
+  },
+  "Additional notes": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/AssignmentDetails.jsx",
+        252
+      ]
+    ]
+  }
+}

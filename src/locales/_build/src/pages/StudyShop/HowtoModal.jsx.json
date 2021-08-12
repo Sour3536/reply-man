@@ -1,0 +1,90 @@
+{
+  "Sign in": {
+    "origin": [
+      [
+        "src/pages/StudyShop/HowtoModal.jsx",
+        18
+      ]
+    ]
+  },
+  "Sign in to your Cudy account": {
+    "origin": [
+      [
+        "src/pages/StudyShop/HowtoModal.jsx",
+        19
+      ]
+    ]
+  },
+  "Browse items": {
+    "origin": [
+      [
+        "src/pages/StudyShop/HowtoModal.jsx",
+        25
+      ]
+    ]
+  },
+  "Browse by featured items or e-commerce sites.": {
+    "origin": [
+      [
+        "src/pages/StudyShop/HowtoModal.jsx",
+        26
+      ]
+    ]
+  },
+  "Click on the item or e-commerce site you wish to make a purchase": {
+    "origin": [
+      [
+        "src/pages/StudyShop/HowtoModal.jsx",
+        33
+      ]
+    ]
+  },
+  "E-commerce site": {
+    "origin": [
+      [
+        "src/pages/StudyShop/HowtoModal.jsx",
+        39
+      ]
+    ]
+  },
+  "You will be redirected to the e-commerce page with a tracked URL": {
+    "origin": [
+      [
+        "src/pages/StudyShop/HowtoModal.jsx",
+        40
+      ]
+    ]
+  },
+  "Buy": {
+    "origin": [
+      [
+        "src/pages/StudyShop/HowtoModal.jsx",
+        46
+      ]
+    ]
+  },
+  "Make your purchase using your e-commerce site personal account": {
+    "origin": [
+      [
+        "src/pages/StudyShop/HowtoModal.jsx",
+        47
+      ]
+    ]
+  },
+  "Done!": {
+    "origin": [
+      [
+        "src/pages/StudyShop/HowtoModal.jsx",
+        53
+      ]
+    ]
+  },
+  "Your purchase will be tracked and rebate will be credited to your Cudy account in a few weeks": {
+    "origin": [
+      [
+        "src/pages/StudyShop/HowtoModal.jsx",
+        54
+      ]
+    ]
+  }
+}

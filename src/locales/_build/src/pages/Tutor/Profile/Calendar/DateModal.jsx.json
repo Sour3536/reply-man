@@ -1,0 +1,294 @@
+{
+  "30 Minutes": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        39
+      ]
+    ]
+  },
+  "1 Hour": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        40
+      ]
+    ]
+  },
+  "1 Hour 30 Minutes": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        41
+      ]
+    ]
+  },
+  "2 Hour": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        42
+      ]
+    ]
+  },
+  "2 Hour 30 Minutes": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        43
+      ]
+    ]
+  },
+  "3 Hour": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        44
+      ]
+    ]
+  },
+  "3 Hour 30 Minutes": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        45
+      ]
+    ]
+  },
+  "4 Hour": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        46
+      ]
+    ]
+  },
+  "4 Hour 30 Minutes": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        47
+      ]
+    ]
+  },
+  "5 Hour": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        48
+      ]
+    ]
+  },
+  "5 Hour 30 Minutes": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        49
+      ]
+    ]
+  },
+  "6 Hour": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        50
+      ]
+    ]
+  },
+  "Successfully add booking": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        61
+      ]
+    ]
+  },
+  "{error}": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        71
+      ],
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        108
+      ]
+    ]
+  },
+  "Academic": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        178
+      ]
+    ]
+  },
+  "This tutor didn't set any subjects yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        183
+      ],
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        203
+      ]
+    ]
+  },
+  "You haven't set any subjects yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        185
+      ],
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        205
+      ]
+    ]
+  },
+  "Subject": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        192
+      ],
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        214
+      ],
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        240
+      ]
+    ]
+  },
+  "Select Subject": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        193
+      ],
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        241
+      ]
+    ]
+  },
+  "Non-academic": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        198
+      ]
+    ]
+  },
+  "Subject name": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        213
+      ]
+    ]
+  },
+  "Counselling": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        226
+      ]
+    ]
+  },
+  "This tutor didn't set any counselling yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        231
+      ]
+    ]
+  },
+  "You haven't set any counselling yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        233
+      ]
+    ]
+  },
+  "Your location...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        261
+      ]
+    ]
+  },
+  "Your location": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        262
+      ]
+    ]
+  },
+  "Start typing some characters to show place options": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        264
+      ]
+    ]
+  },
+  "Start Time": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        272
+      ]
+    ]
+  },
+  "Duration": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        280
+      ]
+    ]
+  },
+  "Select Duration": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        281
+      ]
+    ]
+  },
+  "No schedule in this date": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        308
+      ],
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        357
+      ]
+    ]
+  },
+  "Book this date": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        347
+      ]
+    ]
+  },
+  "Schedule": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/DateModal.jsx",
+        421
+      ]
+    ]
+  }
+}

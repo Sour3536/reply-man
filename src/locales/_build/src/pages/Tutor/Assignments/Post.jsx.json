@@ -1,0 +1,234 @@
+{
+  "> 1 year": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        49
+      ]
+    ]
+  },
+  "> 2 year": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        50
+      ]
+    ]
+  },
+  "> 3 year": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        51
+      ]
+    ]
+  },
+  "> 5 year": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        52
+      ]
+    ]
+  },
+  "You can only post an assignment in": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        124
+      ]
+    ]
+  },
+  "Switch to {0}?": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        126
+      ]
+    ]
+  },
+  "Post an assignment": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        150
+      ]
+    ]
+  },
+  "Need to get tutors fast for your needs? Post an assignment, and they'll notice": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        151
+      ]
+    ]
+  },
+  "E.g. Urgently need a mathematic tutor of Primary 4": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        170
+      ]
+    ]
+  },
+  "Title of the assignment": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        171
+      ]
+    ]
+  },
+  "Select curriculum": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        175
+      ],
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        176
+      ]
+    ]
+  },
+  "Select subject": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        181
+      ],
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        182
+      ]
+    ]
+  },
+  "Preferred price": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        188
+      ]
+    ]
+  },
+  "Suggestion price to set": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        191
+      ]
+    ]
+  },
+  "Preferred gender": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        213
+      ]
+    ]
+  },
+  "Male": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        215
+      ]
+    ]
+  },
+  "Female": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        216
+      ]
+    ]
+  },
+  "Tutor's experience": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        219
+      ]
+    ]
+  },
+  "Choose your preferred location...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        226
+      ]
+    ]
+  },
+  "Preferred location": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        227
+      ]
+    ]
+  },
+  "You have to tell your preferred location": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        229
+      ]
+    ]
+  },
+  "Allow others to join": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        232
+      ]
+    ]
+  },
+  "Allow heheh": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        233
+      ]
+    ]
+  },
+  "Enter your friends' name": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        239
+      ]
+    ]
+  },
+  "Post this assignment to": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        244
+      ]
+    ]
+  },
+  "Some special notes regarding this assignment": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        249
+      ]
+    ]
+  },
+  "Additional notes": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        250
+      ]
+    ]
+  },
+  "Post the assignment now": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Post.jsx",
+        254
+      ]
+    ]
+  }
+}

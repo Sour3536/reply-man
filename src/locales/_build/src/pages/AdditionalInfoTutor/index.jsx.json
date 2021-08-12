@@ -1,0 +1,42 @@
+{
+  "Skip this?": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/index.jsx",
+        272
+      ]
+    ]
+  },
+  "Are you sure want to skip this at the moment?": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/index.jsx",
+        273
+      ]
+    ]
+  },
+  "You are almost done": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/index.jsx",
+        295
+      ]
+    ]
+  },
+  "A better profile is the one that has a lot of informations to dig in. Therefore, it's recommended for you, as a tutor, to fill out additional informations you might have to complete your profile.": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/index.jsx",
+        297
+      ]
+    ]
+  },
+  "Let me fill out everything later <0/>": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/index.jsx",
+        422
+      ]
+    ]
+  }
+}

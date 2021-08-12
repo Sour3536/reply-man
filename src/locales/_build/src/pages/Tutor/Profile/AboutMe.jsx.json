@@ -1,0 +1,94 @@
+{
+  "Your details has been updated": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AboutMe.jsx",
+        30
+      ]
+    ]
+  },
+  "/ 700 characters allowed": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AboutMe.jsx",
+        49
+      ]
+    ]
+  },
+  "Your location...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AboutMe.jsx",
+        94
+      ]
+    ]
+  },
+  "Your location": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AboutMe.jsx",
+        95
+      ]
+    ]
+  },
+  "Short description": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AboutMe.jsx",
+        106
+      ],
+      [
+        "src/pages/Tutor/Profile/AboutMe.jsx",
+        138
+      ]
+    ]
+  },
+  "Short description about me": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AboutMe.jsx",
+        110
+      ]
+    ]
+  },
+  "Save changes": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AboutMe.jsx",
+        117
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AboutMe.jsx",
+        121
+      ]
+    ]
+  },
+  "Location": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AboutMe.jsx",
+        132
+      ]
+    ]
+  },
+  "This tutor didn't set their description yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AboutMe.jsx",
+        142
+      ]
+    ]
+  },
+  "You haven't set your description yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AboutMe.jsx",
+        144
+      ]
+    ]
+  }
+}

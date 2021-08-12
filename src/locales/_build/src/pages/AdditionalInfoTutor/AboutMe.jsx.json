@@ -1,0 +1,122 @@
+{
+  "About me": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/AboutMe.jsx",
+        76
+      ]
+    ]
+  },
+  "<0>Tell us some of your details</0>": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/AboutMe.jsx",
+        78
+      ]
+    ]
+  },
+  "Date of birth": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/AboutMe.jsx",
+        103
+      ]
+    ]
+  },
+  "Your mobile": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/AboutMe.jsx",
+        111
+      ]
+    ]
+  },
+  "E.g. 87888788": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/AboutMe.jsx",
+        112
+      ]
+    ]
+  },
+  "Your location...": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/AboutMe.jsx",
+        133
+      ]
+    ]
+  },
+  "Your location": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/AboutMe.jsx",
+        134
+      ]
+    ]
+  },
+  "Start typing some characters to show place options": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/AboutMe.jsx",
+        136
+      ]
+    ]
+  },
+  "Gender": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/AboutMe.jsx",
+        143
+      ]
+    ]
+  },
+  "Male": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/AboutMe.jsx",
+        145
+      ]
+    ]
+  },
+  "Female": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/AboutMe.jsx",
+        146
+      ]
+    ]
+  },
+  "Short description about you": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/AboutMe.jsx",
+        156
+      ]
+    ]
+  },
+  "E.g. I am Jenny Ang, a 24-year old professional English tutor. I have 6-year experiences tutoring, both in freelance and worked under agency.": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/AboutMe.jsx",
+        158
+      ]
+    ]
+  },
+  "Back": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/AboutMe.jsx",
+        167
+      ]
+    ]
+  },
+  "Next <0/>": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/AboutMe.jsx",
+        172
+      ]
+    ]
+  }
+}

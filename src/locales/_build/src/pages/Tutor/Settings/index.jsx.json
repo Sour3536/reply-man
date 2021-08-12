@@ -1,0 +1,458 @@
+{
+  "I have specific reason": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        176
+      ]
+    ]
+  },
+  "I registered with wrong role": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        179
+      ]
+    ]
+  },
+  "I have no longer been active in education": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        182
+      ]
+    ]
+  },
+  "Please wait...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        236
+      ]
+    ]
+  },
+  "Your curriculum has been updated": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        274
+      ]
+    ]
+  },
+  "Your profile has been updated": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        281
+      ]
+    ]
+  },
+  "Resetting your password...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        288
+      ]
+    ]
+  },
+  "Your password has been changed": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        289
+      ]
+    ]
+  },
+  "Final warning": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        316
+      ]
+    ]
+  },
+  "This action will deactivate your Cudy account forever. Are you sure you want to do this?": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        317
+      ]
+    ]
+  },
+  "Yes, I'd like to delete my account now": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        319
+      ]
+    ]
+  },
+  "No, cancel this": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        320
+      ]
+    ]
+  },
+  "Basic": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        356
+      ],
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        359
+      ]
+    ]
+  },
+  "Your basic profile details": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        360
+      ]
+    ]
+  },
+  "<0/>   You are a<1>{0} {1} {2}</1>": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        363
+      ]
+    ]
+  },
+  "First name": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        394
+      ],
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        395
+      ]
+    ]
+  },
+  "Last name": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        396
+      ],
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        396
+      ]
+    ]
+  },
+  "Gender": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        399
+      ]
+    ]
+  },
+  "Male": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        401
+      ]
+    ]
+  },
+  "Female": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        402
+      ]
+    ]
+  },
+  "DOB": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        405
+      ],
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        407
+      ]
+    ]
+  },
+  "Your date of birth": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        406
+      ]
+    ]
+  },
+  "Mobile number": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        417
+      ],
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        418
+      ]
+    ]
+  },
+  "<0>Save changes</0>": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        423
+      ],
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        516
+      ]
+    ]
+  },
+  "Profile Picure": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        435
+      ],
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        438
+      ]
+    ]
+  },
+  "Your profile Picure": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        439
+      ]
+    ]
+  },
+  "Upload profile picture": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        459
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        463
+      ],
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        600
+      ]
+    ]
+  },
+  "Upload...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        481
+      ]
+    ]
+  },
+  "Change profile picture": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        488
+      ]
+    ]
+  },
+  "Education": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        498
+      ],
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        500
+      ]
+    ]
+  },
+  "Some educational details of you": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        502
+      ]
+    ]
+  },
+  "Curriculum and level": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        511
+      ]
+    ]
+  },
+  "Select one...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        512
+      ]
+    ]
+  },
+  "Change password": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        528
+      ],
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        530
+      ]
+    ]
+  },
+  "If you don't satisfy with your current password": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        532
+      ]
+    ]
+  },
+  "Your new password...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        541
+      ]
+    ]
+  },
+  "Your new password": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        542
+      ]
+    ]
+  },
+  "Repeat your new password...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        547
+      ]
+    ]
+  },
+  "Repeat password": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        548
+      ]
+    ]
+  },
+  "Your old password...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        553
+      ]
+    ]
+  },
+  "Your old password": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        554
+      ]
+    ]
+  },
+  "Save changes": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        558
+      ]
+    ]
+  },
+  "<0/> Danger zone": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        569
+      ]
+    ]
+  },
+  "Danger zone": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        575
+      ]
+    ]
+  },
+  "If for some reasons you would like to delete your Cudy account, you can use this section": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        577
+      ]
+    ]
+  },
+  "Tell us the reason": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        586
+      ]
+    ]
+  },
+  "Write down your specific reason...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        592
+      ]
+    ]
+  },
+  "Delete my account": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        596
+      ]
+    ]
+  },
+  "Delete your account?": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        608
+      ]
+    ]
+  },
+  "Only proceed if you are completely sure of what you are doing": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        609
+      ]
+    ]
+  },
+  "Proceed <0/>": {
+    "origin": [
+      [
+        "src/pages/Tutor/Settings/index.jsx",
+        614
+      ]
+    ]
+  }
+}

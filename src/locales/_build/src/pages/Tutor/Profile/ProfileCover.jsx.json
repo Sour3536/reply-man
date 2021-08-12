@@ -1,0 +1,50 @@
+{
+  "Changing your profile banner...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/ProfileCover.jsx",
+        104
+      ]
+    ]
+  },
+  "Please wait...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/ProfileCover.jsx",
+        112
+      ]
+    ]
+  },
+  "Upload profile banner": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/ProfileCover.jsx",
+        124
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/ProfileCover.jsx",
+        128
+      ]
+    ]
+  },
+  "Upload...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/ProfileCover.jsx",
+        134
+      ]
+    ]
+  },
+  "Change your profile banner": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/ProfileCover.jsx",
+        139
+      ]
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "Amount": {
+    "origin": [
+      [
+        "src/components/Payments/index.jsx",
+        75
+      ],
+      [
+        "src/components/Payments/index.jsx",
+        98
+      ],
+      [
+        "src/components/Payments/index.jsx",
+        122
+      ]
+    ]
+  },
+  "Transaction fee 2.9%": {
+    "origin": [
+      [
+        "src/components/Payments/index.jsx",
+        79
+      ]
+    ]
+  },
+  "Credit Card": {
+    "origin": [
+      [
+        "src/components/Payments/index.jsx",
+        88
+      ]
+    ]
+  },
+  "Transaction fee": {
+    "origin": [
+      [
+        "src/components/Payments/index.jsx",
+        102
+      ],
+      [
+        "src/components/Payments/index.jsx",
+        126
+      ]
+    ]
+  },
+  "Bank Transfer": {
+    "origin": [
+      [
+        "src/components/Payments/index.jsx",
+        111
+      ]
+    ]
+  },
+  "APayLater": {
+    "origin": [
+      [
+        "src/components/Payments/index.jsx",
+        135
+      ]
+    ]
+  },
+  "Booking Success": {
+    "origin": [
+      [
+        "src/components/Payments/index.jsx",
+        213
+      ]
+    ]
+  },
+  "Cannot process to payment with different country": {
+    "origin": [
+      [
+        "src/components/Payments/index.jsx",
+        223
+      ]
+    ]
+  },
+  "Your balance is": {
+    "origin": [
+      [
+        "src/components/Payments/index.jsx",
+        234
+      ]
+    ]
+  },
+  "This is your first time for making a payment for tutoring. You will be charged": {
+    "origin": [
+      [
+        "src/components/Payments/index.jsx",
+        240
+      ]
+    ]
+  },
+  "for 8 lessons in advance, which will be stored as balance in your account": {
+    "origin": [
+      [
+        "src/components/Payments/index.jsx",
+        242
+      ]
+    ]
+  },
+  "If you only wish to have less than 8 lessons by this tutor, you may use your stored balance to make bookings with other tutors or services on the platform": {
+    "origin": [
+      [
+        "src/components/Payments/index.jsx",
+        245
+      ]
+    ]
+  },
+  "Please click button below to proces the payments": {
+    "origin": [
+      [
+        "src/components/Payments/index.jsx",
+        254
+      ]
+    ]
+  }
+}

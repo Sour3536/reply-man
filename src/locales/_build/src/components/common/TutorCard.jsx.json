@@ -1,0 +1,50 @@
+{
+  "No experience yet": {
+    "origin": [
+      [
+        "src/components/common/TutorCard.jsx",
+        76
+      ]
+    ]
+  },
+  "{experienceYears} y exp": {
+    "origin": [
+      [
+        "src/components/common/TutorCard.jsx",
+        76
+      ]
+    ]
+  },
+  "No location specified": {
+    "origin": [
+      [
+        "src/components/common/TutorCard.jsx",
+        80
+      ]
+    ]
+  },
+  "Amount of testimonials received": {
+    "origin": [
+      [
+        "src/components/common/TutorCard.jsx",
+        125
+      ]
+    ]
+  },
+  "Price for a lesson per hour": {
+    "origin": [
+      [
+        "src/components/common/TutorCard.jsx",
+        131
+      ]
+    ]
+  },
+  "See profile": {
+    "origin": [
+      [
+        "src/components/common/TutorCard.jsx",
+        141
+      ]
+    ]
+  }
+}

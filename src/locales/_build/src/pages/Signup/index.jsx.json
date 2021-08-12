@@ -1,0 +1,186 @@
+{
+  "You are being referred by": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        100
+      ]
+    ]
+  },
+  "Join Cudy today": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        157
+      ]
+    ]
+  },
+  "Join our learning platform to get more than just family": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        158
+      ]
+    ]
+  },
+  "Your email": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        208
+      ]
+    ]
+  },
+  "Enter your email": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        211
+      ]
+    ]
+  },
+  "Your password": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        219
+      ]
+    ]
+  },
+  "Enter your password": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        221
+      ]
+    ]
+  },
+  "Repeat password": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        227
+      ]
+    ]
+  },
+  "Repeat your password": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        229
+      ]
+    ]
+  },
+  "Select your role": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        237
+      ]
+    ]
+  },
+  "Please choose your role": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        239
+      ]
+    ]
+  },
+  "Tutor / Coach / Counsellor": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        244
+      ]
+    ]
+  },
+  "Student / Parent": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        245
+      ]
+    ]
+  },
+  "Select your country": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        252
+      ]
+    ]
+  },
+  "Choose your preferred country": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        254
+      ]
+    ]
+  },
+  "<0>I have agreed to the <1>terms and conditions</1> and <2>privacy policy</2> of the site</0>": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        274
+      ]
+    ]
+  },
+  "Create account": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        296
+      ]
+    ]
+  },
+  "Login instead": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        301
+      ]
+    ]
+  },
+  "You have to tell your email": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        318
+      ]
+    ]
+  },
+  "Please provide a valid email address": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        319
+      ]
+    ]
+  },
+  "You have to fill in your password": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        322
+      ]
+    ]
+  },
+  "Eight characters minimum": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        323
+      ]
+    ]
+  },
+  "Password should match": {
+    "origin": [
+      [
+        "src/pages/Signup/index.jsx",
+        327
+      ]
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "Please wait...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        60
+      ],
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        77
+      ]
+    ]
+  },
+  "Your testimonial has been sent": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        60
+      ]
+    ]
+  },
+  "One more step...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        93
+      ]
+    ]
+  },
+  "We need a few details about yourself": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        94
+      ]
+    ]
+  },
+  "Your first name": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        109
+      ],
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        110
+      ]
+    ]
+  },
+  "Your last name": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        116
+      ],
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        117
+      ]
+    ]
+  },
+  "E.g. jennysalim@example.com": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        126
+      ]
+    ]
+  },
+  "Your email": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        127
+      ]
+    ]
+  },
+  "I have read and agreed to the <0>terms and conditions</0>, as well as the <1>privacy policy</1> of the site.": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        130
+      ]
+    ]
+  },
+  "Register and add testimonial": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        145
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        149
+      ]
+    ]
+  },
+  "Please check your email inbox to activate the testimonial once submitted": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        157
+      ]
+    ]
+  },
+  "Add testimonials": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        166
+      ]
+    ]
+  },
+  "Say what you'd like to say about the tutor": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        167
+      ]
+    ]
+  },
+  "Subject they teached": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        179
+      ]
+    ]
+  },
+  "Choose subject they teached": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        180
+      ]
+    ]
+  },
+  "Select one option...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        181
+      ]
+    ]
+  },
+  "Rate your experience with the tutor": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        183
+      ]
+    ]
+  },
+  "Your testimonials": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        189
+      ]
+    ]
+  },
+  "Please be good, and give them a good comment/review": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        190
+      ]
+    ]
+  },
+  "Add your testimonial": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        194
+      ]
+    ]
+  },
+  "Cancel and go to Home": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        202
+      ]
+    ]
+  },
+  "You have to choose the subject": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        214
+      ]
+    ]
+  },
+  "Don't forget the rating": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        215
+      ]
+    ]
+  },
+  "Don't forget the review": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        216
+      ]
+    ]
+  },
+  "Don't forget your first name": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        224
+      ]
+    ]
+  },
+  "Don't forget your last name": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        225
+      ]
+    ]
+  },
+  "Don't forget the email": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AddTestimonials.jsx",
+        226
+      ]
+    ]
+  }
+}

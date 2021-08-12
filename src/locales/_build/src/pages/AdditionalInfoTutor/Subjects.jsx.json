@@ -1,0 +1,294 @@
+{
+  "The subject item has been added": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        67
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        90
+      ]
+    ]
+  },
+  "The subject item has been updated": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        75
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        99
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        123
+      ]
+    ]
+  },
+  "The subject item has been deleted": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        83
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        107
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        114
+      ]
+    ]
+  },
+  "Subject name": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        262
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        300
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        336
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        409
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        457
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        505
+      ]
+    ]
+  },
+  "Subject": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        263
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        301
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        337
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        410
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        458
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        506
+      ]
+    ]
+  },
+  "Price per hour": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        271
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        309
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        354
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        418
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        466
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        525
+      ]
+    ]
+  },
+  "Your price per hour...": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        272
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        310
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        419
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        467
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        526
+      ]
+    ]
+  },
+  "Save this subject": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        278
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        316
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        361
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        282
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        320
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        365
+      ]
+    ]
+  },
+  "Curriculum": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        346
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        347
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        515
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        516
+      ]
+    ]
+  },
+  "Update": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        425
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        473
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        532
+      ]
+    ]
+  },
+  "Delete this subject?": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        428
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        476
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        535
+      ]
+    ]
+  },
+  "Delete": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        430
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        478
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        537
+      ]
+    ]
+  },
+  "Subjects": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        555
+      ]
+    ]
+  },
+  "Please fill the subjects you are teaching": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        556
+      ]
+    ]
+  },
+  "Add a new subject": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        566
+      ]
+    ]
+  },
+  "<0/> Back to About me": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        576
+      ]
+    ]
+  },
+  "Go to Educations <0/>": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Subjects.jsx",
+        583
+      ]
+    ]
+  }
+}

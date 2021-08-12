@@ -1,0 +1,34 @@
+{
+  "Oops! No data found for now": {
+    "origin": [
+      [
+        "src/pages/StudyPlaces/StudyCenter/index.jsx",
+        69
+      ]
+    ]
+  },
+  "E.g. Study center in Bandung": {
+    "origin": [
+      [
+        "src/pages/StudyPlaces/StudyCenter/index.jsx",
+        110
+      ]
+    ]
+  },
+  "Tuition center": {
+    "origin": [
+      [
+        "src/pages/StudyPlaces/StudyCenter/index.jsx",
+        118
+      ]
+    ]
+  },
+  "List of tuition center": {
+    "origin": [
+      [
+        "src/pages/StudyPlaces/StudyCenter/index.jsx",
+        119
+      ]
+    ]
+  }
+}

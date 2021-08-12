@@ -1,0 +1,18 @@
+{
+  "Places": {
+    "origin": [
+      [
+        "src/pages/StudyPlaces/index.jsx",
+        88
+      ]
+    ]
+  },
+  "Tuition center": {
+    "origin": [
+      [
+        "src/pages/StudyPlaces/index.jsx",
+        89
+      ]
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "You're all set!": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Thankyou.jsx",
+        25
+      ]
+    ]
+  },
+  "That's a great step! Now {0} to get started.": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Thankyou.jsx",
+        27
+      ]
+    ]
+  },
+  "find our best tutors": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Thankyou.jsx",
+        29
+      ]
+    ]
+  },
+  "go to your profile": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Thankyou.jsx",
+        29
+      ]
+    ]
+  },
+  "{0}": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Thankyou.jsx",
+        38
+      ]
+    ]
+  },
+  "Find tutors now": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Thankyou.jsx",
+        38
+      ]
+    ]
+  },
+  "Go to your Profile": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Thankyou.jsx",
+        38
+      ]
+    ]
+  }
+}

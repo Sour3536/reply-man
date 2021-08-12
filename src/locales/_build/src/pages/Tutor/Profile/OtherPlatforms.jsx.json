@@ -1,0 +1,166 @@
+{
+  "The platform item has been {0}": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        95
+      ]
+    ]
+  },
+  "The platform item has been deleted": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        104
+      ]
+    ]
+  },
+  "This tutor is exclusive to Cudy": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        111
+      ]
+    ]
+  },
+  "See my profile ↗": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        123
+      ],
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        151
+      ]
+    ]
+  },
+  "You haven't set any platforms yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        135
+      ]
+    ]
+  },
+  "Add one": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        137
+      ]
+    ]
+  },
+  "Name of platform": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        183
+      ],
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        184
+      ],
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        213
+      ],
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        214
+      ]
+    ]
+  },
+  "Profile's URL": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        191
+      ],
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        221
+      ]
+    ]
+  },
+  "Your profile's URL": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        192
+      ],
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        222
+      ]
+    ]
+  },
+  "Save this platform": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        195
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        199
+      ],
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        242
+      ]
+    ]
+  },
+  "Update": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        226
+      ]
+    ]
+  },
+  "Delete this platform?": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        229
+      ]
+    ]
+  },
+  "Delete": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        231
+      ]
+    ]
+  },
+  "Add a new platform": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        239
+      ]
+    ]
+  },
+  "You have to fill in the URL link": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        255
+      ]
+    ]
+  },
+  "This section is not meant to fill in your social media accounts": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/OtherPlatforms.jsx",
+        263
+      ]
+    ]
+  }
+}

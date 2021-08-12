@@ -1,0 +1,122 @@
+{
+  "We help students to prepare for examinations in <0><1>Singapore</1><2>Indonesia</2><3>Malaysia</3><4>India</4><5>Vietnam</5><6>Philippines</6><7>Sri Lanka</7></0>": {
+    "origin": [
+      [
+        "src/pages/Home/index.jsx",
+        160
+      ]
+    ]
+  },
+  "It's easy to find your best tutors on Cudy. Try it today!": {
+    "origin": [
+      [
+        "src/pages/Home/index.jsx",
+        174
+      ]
+    ]
+  },
+  "Start by searching for subjects, e.g. English": {
+    "origin": [
+      [
+        "src/pages/Home/index.jsx",
+        182
+      ]
+    ]
+  },
+  "Find <0>best tutors</0>": {
+    "origin": [
+      [
+        "src/pages/Home/index.jsx",
+        228
+      ]
+    ]
+  },
+  "See the tutors that match your criteria, and make an assignment": {
+    "origin": [
+      [
+        "src/pages/Home/index.jsx",
+        233
+      ]
+    ]
+  },
+  "in different subject": {
+    "origin": [
+      [
+        "src/pages/Home/index.jsx",
+        245
+      ]
+    ]
+  },
+  "Featured tutors from": {
+    "origin": [
+      [
+        "src/pages/Home/index.jsx",
+        259
+      ]
+    ]
+  },
+  "No featured tutors yet": {
+    "origin": [
+      [
+        "src/pages/Home/index.jsx",
+        263
+      ]
+    ]
+  },
+  "Get to know our tutors from": {
+    "origin": [
+      [
+        "src/pages/Home/index.jsx",
+        287
+      ]
+    ]
+  },
+  "No introduction videos yet": {
+    "origin": [
+      [
+        "src/pages/Home/index.jsx",
+        291
+      ]
+    ]
+  },
+  "Find subjects that are suitable the most to you": {
+    "origin": [
+      [
+        "src/pages/Home/index.jsx",
+        327
+      ]
+    ]
+  },
+  "Not sure where/how to begin?": {
+    "origin": [
+      [
+        "src/pages/Home/index.jsx",
+        351
+      ]
+    ]
+  },
+  "We have expert consultants in your area ready to help you": {
+    "origin": [
+      [
+        "src/pages/Home/index.jsx",
+        352
+      ]
+    ]
+  },
+  "{0}": {
+    "origin": [
+      [
+        "src/pages/Home/index.jsx",
+        368
+      ]
+    ]
+  },
+  "Hi {0}! I'd like to ask you something regarding the Cudy Marketplace": {
+    "origin": [
+      [
+        "src/pages/Home/index.jsx",
+        373
+      ]
+    ]
+  }
+}

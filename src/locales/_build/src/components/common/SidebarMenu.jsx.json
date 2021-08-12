@@ -1,0 +1,98 @@
+{
+  "<0/>  <1>Dashboard</1>": {
+    "origin": [
+      [
+        "src/components/common/SidebarMenu.jsx",
+        31
+      ]
+    ]
+  },
+  "<0/>  <1>View profile</1>": {
+    "origin": [
+      [
+        "src/components/common/SidebarMenu.jsx",
+        35
+      ]
+    ]
+  },
+  "<0/>  <1>Manage classes</1>": {
+    "origin": [
+      [
+        "src/components/common/SidebarMenu.jsx",
+        39
+      ]
+    ]
+  },
+  "<0/>  <1>Create class</1>": {
+    "origin": [
+      [
+        "src/components/common/SidebarMenu.jsx",
+        43
+      ]
+    ]
+  },
+  "<0/>  <1>Reviews</1>": {
+    "origin": [
+      [
+        "src/components/common/SidebarMenu.jsx",
+        47
+      ]
+    ]
+  },
+  "<0/>  <1>Resources</1>": {
+    "origin": [
+      [
+        "src/components/common/SidebarMenu.jsx",
+        51
+      ]
+    ]
+  },
+  "<0/>  <1>Analytics</1>": {
+    "origin": [
+      [
+        "src/components/common/SidebarMenu.jsx",
+        55
+      ]
+    ]
+  },
+  "<0/>  <1>Payout</1>": {
+    "origin": [
+      [
+        "src/components/common/SidebarMenu.jsx",
+        59
+      ]
+    ]
+  },
+  "<0/>  <1>Referral</1>": {
+    "origin": [
+      [
+        "src/components/common/SidebarMenu.jsx",
+        63
+      ]
+    ]
+  },
+  "<0/>  <1>Feedback</1>": {
+    "origin": [
+      [
+        "src/components/common/SidebarMenu.jsx",
+        67
+      ]
+    ]
+  },
+  "<0/>  <1>Cloud storage</1>": {
+    "origin": [
+      [
+        "src/components/common/SidebarMenu.jsx",
+        72
+      ]
+    ]
+  },
+  "<0/>  <1>Social media rewards</1>": {
+    "origin": [
+      [
+        "src/components/common/SidebarMenu.jsx",
+        76
+      ]
+    ]
+  }
+}

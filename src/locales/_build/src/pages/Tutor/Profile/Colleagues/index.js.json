@@ -1,0 +1,26 @@
+{
+  "Recommend your friends": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Colleagues/index.js",
+        16
+      ]
+    ]
+  },
+  "Please give us 3 names of your friends you think they might join Cudy as well. If you are giving us their details with email and contact number, we'd much appreciate it. But only names surely will do.": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Colleagues/index.js",
+        18
+      ]
+    ]
+  },
+  "Skip and create account": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Colleagues/index.js",
+        30
+      ]
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "Welcome back!": {
+    "origin": [
+      [
+        "src/pages/Signin/index.jsx",
+        83
+      ]
+    ]
+  },
+  "Please login into your account to continue using Cudy": {
+    "origin": [
+      [
+        "src/pages/Signin/index.jsx",
+        84
+      ]
+    ]
+  },
+  "Your email": {
+    "origin": [
+      [
+        "src/pages/Signin/index.jsx",
+        114
+      ]
+    ]
+  },
+  "Enter your email": {
+    "origin": [
+      [
+        "src/pages/Signin/index.jsx",
+        114
+      ]
+    ]
+  },
+  "Your password": {
+    "origin": [
+      [
+        "src/pages/Signin/index.jsx",
+        118
+      ]
+    ]
+  },
+  "Enter your password": {
+    "origin": [
+      [
+        "src/pages/Signin/index.jsx",
+        120
+      ]
+    ]
+  },
+  "<0>It looks like your account is not verified yet. <1>Send me another email verification</1></0>": {
+    "origin": [
+      [
+        "src/pages/Signin/index.jsx",
+        127
+      ]
+    ]
+  },
+  "Forgot you password?": {
+    "origin": [
+      [
+        "src/pages/Signin/index.jsx",
+        141
+      ]
+    ]
+  },
+  "Login now": {
+    "origin": [
+      [
+        "src/pages/Signin/index.jsx",
+        147
+      ]
+    ]
+  },
+  "Sign up instead": {
+    "origin": [
+      [
+        "src/pages/Signin/index.jsx",
+        161
+      ]
+    ]
+  },
+  "This is required": {
+    "origin": [
+      [
+        "src/pages/Signin/index.jsx",
+        178
+      ],
+      [
+        "src/pages/Signin/index.jsx",
+        180
+      ]
+    ]
+  },
+  "Please enter a valid email": {
+    "origin": [
+      [
+        "src/pages/Signin/index.jsx",
+        179
+      ]
+    ]
+  }
+}

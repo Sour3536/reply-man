@@ -1,0 +1,146 @@
+{
+  "This tutor haven't set their education yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        66
+      ]
+    ]
+  },
+  "You haven't set your education yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        68
+      ]
+    ]
+  },
+  "School/college": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        100
+      ],
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        155
+      ]
+    ]
+  },
+  "Your school/college": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        101
+      ],
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        156
+      ]
+    ]
+  },
+  "I'm currently studying here": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        107
+      ],
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        162
+      ]
+    ]
+  },
+  "Date joined": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        116
+      ],
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        172
+      ]
+    ]
+  },
+  "Until": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        124
+      ],
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        180
+      ]
+    ]
+  },
+  "Save this education": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        131
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        135
+      ],
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        215
+      ]
+    ]
+  },
+  "Update": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        189
+      ]
+    ]
+  },
+  "Delete this education?": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        193
+      ]
+    ]
+  },
+  "Delete": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        197
+      ]
+    ]
+  },
+  "Add a new education": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        212
+      ]
+    ]
+  },
+  "Your education has been updated": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        230
+      ]
+    ]
+  },
+  "Your education has been deleted": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Education.jsx",
+        234
+      ]
+    ]
+  }
+}

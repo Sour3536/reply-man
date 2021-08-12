@@ -1,0 +1,42 @@
+{
+  "Well done!": {
+    "origin": [
+      [
+        "src/pages/AccountActive.jsx",
+        31
+      ]
+    ]
+  },
+  "Your account is active. Now start logging in to browse best tutors around us.": {
+    "origin": [
+      [
+        "src/pages/AccountActive.jsx",
+        32
+      ]
+    ]
+  },
+  "Go to login": {
+    "origin": [
+      [
+        "src/pages/AccountActive.jsx",
+        37
+      ]
+    ]
+  },
+  "Something wrong happened. you might want to go back to the Home page": {
+    "origin": [
+      [
+        "src/pages/AccountActive.jsx",
+        45
+      ]
+    ]
+  },
+  "Go to Home": {
+    "origin": [
+      [
+        "src/pages/AccountActive.jsx",
+        50
+      ]
+    ]
+  }
+}

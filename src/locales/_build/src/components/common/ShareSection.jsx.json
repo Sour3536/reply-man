@@ -1,0 +1,18 @@
+{
+  "Hey, I've just created an account in Cudy Marketplace. Cudy Marketplace is a marketplace for you to find best tutors around Indonesia, Singapore, Malaysia, Philippines, India, Sri Lanka, to teach you anything": {
+    "origin": [
+      [
+        "src/components/common/ShareSection.jsx",
+        74
+      ]
+    ]
+  },
+  "Hey, check out {0} {1}'s profile on Cudy Marketplace. Cudy Marketplace is a marketplace for you to find best tutors around Indonesia, Singapore, Malaysia, Philippines, India, Sri Lanka, to teach you anything": {
+    "origin": [
+      [
+        "src/components/common/ShareSection.jsx",
+        78
+      ]
+    ]
+  }
+}

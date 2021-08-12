@@ -1,0 +1,50 @@
+{
+  "Not enough ratings": {
+    "origin": [
+      [
+        "src/pages/StudyPlaces/PlaceDetails.jsx",
+        156
+      ]
+    ]
+  },
+  "({0} reviews)": {
+    "origin": [
+      [
+        "src/pages/StudyPlaces/PlaceDetails.jsx",
+        159
+      ]
+    ]
+  },
+  "(No reviews yet)": {
+    "origin": [
+      [
+        "src/pages/StudyPlaces/PlaceDetails.jsx",
+        161
+      ]
+    ]
+  },
+  "<0/> Back to places": {
+    "origin": [
+      [
+        "src/pages/StudyPlaces/PlaceDetails.jsx",
+        210
+      ]
+    ]
+  },
+  "Opening hours": {
+    "origin": [
+      [
+        "src/pages/StudyPlaces/PlaceDetails.jsx",
+        307
+      ]
+    ]
+  },
+  "Reviews {reviewCount}": {
+    "origin": [
+      [
+        "src/pages/StudyPlaces/PlaceDetails.jsx",
+        327
+      ]
+    ]
+  }
+}

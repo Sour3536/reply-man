@@ -1,0 +1,126 @@
+{
+  "Your comment has been added": {
+    "origin": [
+      [
+        "src/pages/Home/Feeds.jsx",
+        150
+      ]
+    ]
+  },
+  "You've {0} this comment": {
+    "origin": [
+      [
+        "src/pages/Home/Feeds.jsx",
+        160
+      ]
+    ]
+  },
+  "Reply has been sent": {
+    "origin": [
+      [
+        "src/pages/Home/Feeds.jsx",
+        170
+      ]
+    ]
+  },
+  "Feeds": {
+    "origin": [
+      [
+        "src/pages/Home/Feeds.jsx",
+        207
+      ],
+      [
+        "src/pages/Home/Feeds.jsx",
+        242
+      ]
+    ]
+  },
+  "Oops! You are not logged in": {
+    "origin": [
+      [
+        "src/pages/Home/Feeds.jsx",
+        212
+      ]
+    ]
+  },
+  "Login first": {
+    "origin": [
+      [
+        "src/pages/Home/Feeds.jsx",
+        217
+      ]
+    ]
+  },
+  "Any thought on mind?": {
+    "origin": [
+      [
+        "src/pages/Home/Feeds.jsx",
+        252
+      ]
+    ]
+  },
+  "Send feed": {
+    "origin": [
+      [
+        "src/pages/Home/Feeds.jsx",
+        257
+      ]
+    ]
+  },
+  "Reset": {
+    "origin": [
+      [
+        "src/pages/Home/Feeds.jsx",
+        261
+      ]
+    ]
+  },
+  "Your feeds": {
+    "origin": [
+      [
+        "src/pages/Home/Feeds.jsx",
+        272
+      ]
+    ]
+  },
+  "{0} entries": {
+    "origin": [
+      [
+        "src/pages/Home/Feeds.jsx",
+        279
+      ]
+    ]
+  },
+  "No feed entries found": {
+    "origin": [
+      [
+        "src/pages/Home/Feeds.jsx",
+        287
+      ]
+    ]
+  },
+  "Like": {
+    "origin": [
+      [
+        "src/pages/Home/Feeds.jsx",
+        298
+      ]
+    ]
+  },
+  "Dislike": {
+    "origin": [
+      [
+        "src/pages/Home/Feeds.jsx",
+        308
+      ]
+    ]
+  },
+  "Reply to": {
+    "origin": [
+      [
+        "src/pages/Home/Feeds.jsx",
+        318
+      ]
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Share {0}'s profile": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/ShareModal.jsx",
+        17
+      ]
+    ]
+  },
+  "Share profile...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/ShareModal.jsx",
+        27
+      ]
+    ]
+  },
+  "Copy the profile's URL": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/ShareModal.jsx",
+        30
+      ]
+    ]
+  },
+  "Share to": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/ShareModal.jsx",
+        37
+      ]
+    ]
+  }
+}

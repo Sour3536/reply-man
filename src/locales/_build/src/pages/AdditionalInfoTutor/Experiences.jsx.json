@@ -1,0 +1,234 @@
+{
+  "The experience item has been added": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        40
+      ]
+    ]
+  },
+  "The experience item has been updated": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        58
+      ]
+    ]
+  },
+  "The experience item has been deleted": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        69
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        86
+      ]
+    ]
+  },
+  "Tutoring experiences": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        205
+      ]
+    ]
+  },
+  "Please fill in your tutoring experiences": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        206
+      ]
+    ]
+  },
+  "Add a new experience": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        221
+      ]
+    ]
+  },
+  "<0/> Back to Educations": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        231
+      ]
+    ]
+  },
+  "Go to Certifications <0/>": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        238
+      ]
+    ]
+  },
+  "Tuition's name": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        264
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        265
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        368
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        369
+      ]
+    ]
+  },
+  "Subject": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        273
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        274
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        377
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        378
+      ]
+    ]
+  },
+  "Curriculum": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        283
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        284
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        387
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        388
+      ]
+    ]
+  },
+  "Date joined": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        295
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        296
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        400
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        401
+      ]
+    ]
+  },
+  "Date resigned": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        305
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        306
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        410
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        411
+      ]
+    ]
+  },
+  "I was a private tutor": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        314
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        419
+      ]
+    ]
+  },
+  "I'm currently working here": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        321
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        424
+      ]
+    ]
+  },
+  "Save this experience": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        326
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        330
+      ]
+    ]
+  },
+  "Update": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        429
+      ]
+    ]
+  },
+  "Delete this experience?": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        432
+      ]
+    ]
+  },
+  "Delete": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Experiences.jsx",
+        434
+      ]
+    ]
+  }
+}
