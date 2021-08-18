@@ -187,7 +187,7 @@ const menu = (
 	</StyledMenu>
 );
 
-function Navbar({ i18n, isUserLoggedIn = false, forLogin, forSignUp }) {
+function Navbar({ i18n, isUserLoggedIn = true, forLogin, forSignUp }) {
 	const history = useHistory();
 	const [isMenuVisible, setIsMenuVisible] = useState(false);
 	const showMenuDrawer = () => {
