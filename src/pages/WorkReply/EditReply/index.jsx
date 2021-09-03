@@ -1,5 +1,6 @@
-/* eslint-disable no-debugger */
-import React, { useContext, useEffect, useState } from 'react';
+import React, { useContext, useMemo, useEffect, useState, useCallback, useRef } from 'react';
+import { createEditor, Transforms } from 'slate';
+import { Slate, Editable, withReact, withMarkdownShortcuts, withEmojis } from 'slate-react';
 import { LinkOutlined, FolderOutlined, RollbackOutlined, SaveOutlined } from '@ant-design/icons';
 import { withRouter } from 'react-router';
 import { Layout, Section, Heading, InputSearch, Card } from 'components';
@@ -47,11 +48,61 @@ const StyledCollapse = styled(Collapse)`
 	}
 `;
 
-function EditReply({ history, language }) {
+function EditReply({ language }) {
+	const editor = useMemo(() => withReact(createEditor()), []);
+	const [value, setValue] = useState([
+		{
+			type: 'paragraph',
+			children: [
+				{
+					text: 'Text with a link '
+				},
+				{
+					type: 'variable',
+					children: [
+						{
+							text: 'Your First Name'
+						}
+					]
+				},
+				{
+					text: 'here'
+				}
+			]
+		},
+		{
+			type: 'paragraph',
+			children: [
+				{
+					text: ''
+				}
+			]
+		},
+		{
+			type: 'paragraph',
+			children: [
+				{
+					text: 'Here you can make replies that may help you.'
+				}
+			]
+		}
+	]);
 	const [titleVal, setTitleVal] = useState(replies.General[0].title);
 	const setTitle = (e) => {
 		setTitleVal(e.target.value);
 	};
+	const renderElement = useCallback(({ attributes, children, element }) => {
+		switch (element.type) {
+			case 'variable':
+				return (
+					<StyledTag {...attributes} icon={<LinkOutlined />} contentEditable={false}>
+						{children}
+					</StyledTag>
+				);
+			default:
+				return <p {...attributes}>{children}</p>;
+		}
+	}, []);
 	return (
 		<Layout breadcrumb={false} language={language}>
 			<BackTop />
@@ -77,7 +128,20 @@ function EditReply({ history, language }) {
 										/>
 									</Col>
 									<Col lg={6}>
-										<Button type="primary" style={{ height: '50px', fontSize: '20px', width: '100%' }}>
+										<Button
+											type="primary"
+											style={{ height: '50px', fontSize: '20px', width: '100%' }}
+											onClick={() => {
+												console.log(editor);
+												if (editor.selection !== null && editor.selection.anchor !== null) {
+													console.log(editor.children[editor.selection.anchor.path[0]]);
+												} else {
+													console.log('hello');
+												}
+												// editor.insertBreak();
+												// editor.insertText('paragraph');
+												// editor.insertInline(<StyledTag icon={<LinkOutlined />}>hello</StyledTag>);
+											}}>
 											<SaveOutlined />
 											&nbsp;Save Reply
 										</Button>
@@ -103,20 +167,94 @@ function EditReply({ history, language }) {
 										</Row>
 									</Col>
 								</Row>
-								<Row style={{ marginTop: '1em', fontSize: '17px' }}>
+								{/* <Row style={{ marginTop: '1em', fontSize: '17px' }}>
 									<Col>
 										{replies.General[0].paragraphs.map((data, index) =>
 											data.value === '' ? (
 												<br />
 											) : data.type === 'variable' ? (
 												<>
-													<StyledTag icon={<LinkOutlined />}>{data.value}</StyledTag>
+													<StyledTag icon={<LinkOutlined />} key={index}>
+														{data.value}
+													</StyledTag>
 												</>
 											) : (
 												<span key={index}>{data.value}</span>
 											)
 										)}
 									</Col>
+								</Row> */}
+								<Row style={{ marginTop: '1em', fontSize: '17px' }}>
+									<Slate
+										editor={editor}
+										value={value}
+										onChange={(v) => {
+											console.log(v);
+											setValue(v);
+										}}>
+										<Editable
+											renderElement={renderElement}
+											// renderElement={({ element, attributes, children }) => {
+											// 	switch (element.type) {
+											// 		case 'variable':
+											// 			return (
+											// 				<>
+											// 					<StyledTag icon={<LinkOutlined />} contentEditable={false} {...attributes}>
+											// 						{children}
+											// 					</StyledTag>
+											// 				</>
+											// 			);
+											// 		default:
+											// 			return <p {...attributes}>{children}</p>;
+											// 	}
+											// }}
+											onKeyDown={(event) => {
+												if (event.key === 'Backspace') {
+													event.preventDefault();
+													if (editor.selection !== null && editor.selection.anchor !== null) {
+														const paraNum = editor.selection.anchor.path[0];
+														const subParaNum = editor.selection.anchor.path[1];
+														let length = value[paraNum].length;
+														const currentPara = value[paraNum];
+														if (currentPara.children[subParaNum].text === '') {
+															Transforms.removeNodes(editor);
+														} else if (currentPara.children[subParaNum].type && currentPara.children[subParaNum].type === 'variable') {
+															Transforms.removeNodes(editor);
+														} else if (editor.selection.anchor.offset === 0) {
+															if (currentPara.children[subParaNum - 1].type && currentPara.children[subParaNum - 1].type === 'variable') {
+																Transforms.select(editor, { path: [paraNum, subParaNum - 1], offset: 0 });
+																Transforms.removeNodes(editor);
+															}
+														}
+														// else if (
+														// 	editor.selection.anchor.offset === 1 &&
+														// 	editor.children[editor.selection.anchor.path[0]].children[0].text.length === 1
+														// ) {
+														// 	event.preventDefault();
+														// 	Transforms.removeNodes(editor);
+														// }
+													}
+												} else if (event.key === 'Delete') {
+													if (editor.selection !== null && editor.selection.anchor !== null) {
+														if (editor.children[editor.selection.anchor.path[0]].type === 'variable') {
+															event.preventDefault();
+															Transforms.removeNodes(editor);
+														} else if (
+															editor.selection.anchor.offset === editor.children[editor.selection.anchor.path[0]].children[0].text.length
+														) {
+															if (
+																editor.children[editor.selection.anchor.path[0] + 1] &&
+																editor.children[editor.selection.anchor.path[0] + 1].type === 'variable'
+															) {
+																event.preventDefault();
+																Transforms.select(editor, { path: [editor.selection.anchor.path[0] + 1, 0], offset: 0 });
+															}
+														}
+													}
+												}
+											}}
+										/>
+									</Slate>
 								</Row>
 							</StyledCol>
 						</Row>
@@ -138,7 +276,83 @@ function EditReply({ history, language }) {
 										}
 										key="1">
 										<Row style={{ margin: '.5em 0' }}>
-											<StyledTag>Your First Name</StyledTag>
+											<StyledTag
+												onClick={(event) => {
+													if (editor.selection !== null && editor.selection.anchor !== null) {
+														const paraNum = editor.selection.anchor.path[0];
+														const subParaNum = editor.selection.anchor.path[1];
+														let length = value[paraNum].length;
+														const currentPara = value[paraNum];
+														if (editor.selection.anchor.offset === 0) {
+															const before = currentPara.children.slice(0, subParaNum);
+															const after = currentPara.children.slice(subParaNum, length);
+															const newPara = {
+																type: 'paragraph',
+																children: [
+																	...before,
+																	{
+																		type: 'variable',
+																		children: [
+																			{
+																				text: 'Your First Name'
+																			}
+																		]
+																	},
+																	...after
+																]
+															};
+															setValue([...value.slice(0, paraNum), newPara, ...value.slice(paraNum + 1, length)]);
+														} else if (editor.selection.anchor.offset === value[paraNum].children[subParaNum].text.length) {
+															const before = currentPara.children.slice(0, subParaNum + 1);
+															const after = currentPara.children.slice(subParaNum + 1, length);
+															const newPara = {
+																type: 'paragraph',
+																children: [
+																	...before,
+																	{
+																		type: 'variable',
+																		children: [
+																			{
+																				text: 'Your First Name'
+																			}
+																		]
+																	},
+																	...after
+																]
+															};
+															setValue([...value.slice(0, paraNum), newPara, ...value.slice(paraNum + 1, length)]);
+														} else {
+															const before = currentPara.children.slice(0, subParaNum);
+															const after = currentPara.children.slice(subParaNum + 1, length);
+															const beforeSelection = currentPara.children[subParaNum].text.substring(0, editor.selection.anchor.offset);
+															const afterSelection = currentPara.children[subParaNum].text.substring(editor.selection.anchor.offset);
+															const newPara = {
+																type: 'paragraph',
+																children: [
+																	...before,
+																	{
+																		text: beforeSelection
+																	},
+																	{
+																		type: 'variable',
+																		children: [
+																			{
+																				text: 'Your First Name'
+																			}
+																		]
+																	},
+																	{
+																		text: afterSelection
+																	},
+																	...after
+																]
+															};
+															setValue([...value.slice(0, paraNum), newPara, ...value.slice(paraNum + 1, length)]);
+														}
+													}
+												}}>
+												Your First Name
+											</StyledTag>
 											<StyledTag>Your Last Name</StyledTag>
 											<StyledTag>Your Full Name</StyledTag>
 											<StyledTag>Your Address</StyledTag>
@@ -261,6 +475,12 @@ const StyledTag = styled(Tag)`
 	padding: 4px 14px !important;
 	margin: 8px !important;
 	cursor: pointer !important;
+	-webkit-touch-callout: none !important;
+	-webkit-user-select: none !important;
+	-khtml-user-select: none !important;
+	-moz-user-select: none !important;
+	-ms-user-select: none !important;
+	user-select: none !important;
 	&:hover {
 		background-color: rgba(88, 0, 255, 0.2) !important;
 		transform: scale(1.05);

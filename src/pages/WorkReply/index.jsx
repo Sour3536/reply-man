@@ -272,9 +272,18 @@ function WorkReply({ history, language }) {
 		console.log(currentReplyIndex);
 		const newFolderData = folderData;
 		if (currentFolder === 'All Replies' || currentFolder === 'Favourites') {
+			if (currentFolder === 'All Replies' && index === allReply.length - 1 && currentReplyIndex === index.toString()) {
+				setCurrentReplyIndex((currentReplyIndex - 1).toString());
+			}
+			if (currentFolder === 'Favourites' && index === favourites.length - 1 && currentReplyIndex === index.toString()) {
+				setCurrentReplyIndex((currentReplyIndex - 1).toString());
+			}
 			const ind = data.key.substring(2);
 			newFolderData[data.folder].splice(ind, 1);
 		} else {
+			if (index === folderData[currentFolder].length - 1 && currentReplyIndex === index.toString()) {
+				setCurrentReplyIndex((currentReplyIndex - 1).toString());
+			}
 			newFolderData[data.folder].splice(index, 1);
 		}
 		setFolderData(newFolderData);

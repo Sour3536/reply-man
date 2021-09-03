@@ -32,6 +32,54 @@ export const replies = {
 			reply: 'Hello and welcome. Here you can make replies that may help you.',
 			folder: 'General',
 			favourite: true
+		},
+		{
+			title: 'Get Started 1',
+			paragraphs: [
+				{
+					type: 'text',
+					value: 'Hello and welcome '
+				},
+				{
+					type: 'variable',
+					value: 'Your First Name'
+				},
+				{
+					type: 'text',
+					value: ''
+				},
+				{
+					type: 'text',
+					value: 'Here you can make replies that may help you.'
+				}
+			],
+			reply: 'Hello and welcome. Here you can make replies that may help you.',
+			folder: 'General',
+			favourite: true
+		},
+		{
+			title: 'Get Started 2',
+			paragraphs: [
+				{
+					type: 'text',
+					value: 'Hello and welcome '
+				},
+				{
+					type: 'variable',
+					value: 'Your First Name'
+				},
+				{
+					type: 'text',
+					value: ''
+				},
+				{
+					type: 'text',
+					value: 'Here you can make replies that may help you.'
+				}
+			],
+			reply: 'Hello and welcome. Here you can make replies that may help you.',
+			folder: 'General',
+			favourite: true
 		}
 	],
 	Common: []
