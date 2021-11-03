@@ -1,0 +1,66 @@
+{
+  "Resend email": {
+    "origin": [
+      [
+        "src/pages/ResendVerification/index.jsx",
+        47
+      ]
+    ]
+  },
+  "If you didn't see any email verification we sent to you, then please enter your email address once again, and we'll send a copy": {
+    "origin": [
+      [
+        "src/pages/ResendVerification/index.jsx",
+        49
+      ]
+    ]
+  },
+  "E.g. jennysalim@example.com": {
+    "origin": [
+      [
+        "src/pages/ResendVerification/index.jsx",
+        62
+      ]
+    ]
+  },
+  "Your email": {
+    "origin": [
+      [
+        "src/pages/ResendVerification/index.jsx",
+        63
+      ]
+    ]
+  },
+  "Send me the email once again": {
+    "origin": [
+      [
+        "src/pages/ResendVerification/index.jsx",
+        66
+      ]
+    ]
+  },
+  "Go to login": {
+    "origin": [
+      [
+        "src/pages/ResendVerification/index.jsx",
+        75
+      ]
+    ]
+  },
+  "This is required": {
+    "origin": [
+      [
+        "src/pages/ResendVerification/index.jsx",
+        87
+      ]
+    ]
+  },
+  "Please provide a valid email address": {
+    "origin": [
+      [
+        "src/pages/ResendVerification/index.jsx",
+        88
+      ]
+    ]
+  }
+}

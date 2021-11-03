@@ -1,0 +1,66 @@
+{
+  "Your name": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Name.jsx",
+        30
+      ]
+    ]
+  },
+  "<0>Tell us your name</0>": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Name.jsx",
+        32
+      ]
+    ]
+  },
+  "First name": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Name.jsx",
+        51
+      ]
+    ]
+  },
+  "Your first name...": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Name.jsx",
+        51
+      ]
+    ]
+  },
+  "Last name": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Name.jsx",
+        54
+      ]
+    ]
+  },
+  "Your last name...": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Name.jsx",
+        54
+      ]
+    ]
+  },
+  "Please wait...": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Name.jsx",
+        62
+      ]
+    ]
+  },
+  "Next": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Name.jsx",
+        62
+      ]
+    ]
+  }
+}

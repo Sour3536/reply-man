@@ -1,0 +1,10 @@
+{
+  "Mention user with @": {
+    "origin": [
+      [
+        "src/pages/Home/MentionInFeed.jsx",
+        60
+      ]
+    ]
+  }
+}

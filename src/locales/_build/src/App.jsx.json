@@ -1,0 +1,26 @@
+{
+  "Your session is not active": {
+    "origin": [
+      [
+        "src/App.jsx",
+        134
+      ]
+    ]
+  },
+  "You haven't done anything for a while. Please refresh the page to restore your session.": {
+    "origin": [
+      [
+        "src/App.jsx",
+        136
+      ]
+    ]
+  },
+  "<0>Refresh page</0>": {
+    "origin": [
+      [
+        "src/App.jsx",
+        140
+      ]
+    ]
+  }
+}

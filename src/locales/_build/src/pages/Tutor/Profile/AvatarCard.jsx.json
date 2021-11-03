@@ -1,0 +1,82 @@
+{
+  "No location specified": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AvatarCard.jsx",
+        174
+      ]
+    ]
+  },
+  "No experience yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AvatarCard.jsx",
+        178
+      ]
+    ]
+  },
+  "{0}y exp": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AvatarCard.jsx",
+        178
+      ]
+    ]
+  },
+  "Please wait...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AvatarCard.jsx",
+        219
+      ]
+    ]
+  },
+  "Upload profile picture": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AvatarCard.jsx",
+        263
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AvatarCard.jsx",
+        267
+      ]
+    ]
+  },
+  "Upload...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AvatarCard.jsx",
+        278
+      ]
+    ]
+  },
+  "Change profile picture": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AvatarCard.jsx",
+        285
+      ]
+    ]
+  },
+  "Send message": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AvatarCard.jsx",
+        304
+      ]
+    ]
+  },
+  "Share {0}'s profile": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/AvatarCard.jsx",
+        308
+      ]
+    ]
+  }
+}

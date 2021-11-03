@@ -1,0 +1,18 @@
+{
+  "{0} file uploaded successfully": {
+    "origin": [
+      [
+        "src/components/forms/UploadInput.jsx",
+        45
+      ]
+    ]
+  },
+  "{0} file upload failed": {
+    "origin": [
+      [
+        "src/components/forms/UploadInput.jsx",
+        47
+      ]
+    ]
+  }
+}

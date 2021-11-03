@@ -1,0 +1,50 @@
+{
+  "Get rebates up to": {
+    "origin": [
+      [
+        "src/pages/StudyShop/Modal.jsx",
+        67
+      ]
+    ]
+  },
+  "when you purchase this item": {
+    "origin": [
+      [
+        "src/pages/StudyShop/Modal.jsx",
+        71
+      ]
+    ]
+  },
+  "Available at": {
+    "origin": [
+      [
+        "src/pages/StudyShop/Modal.jsx",
+        77
+      ]
+    ]
+  },
+  "Description": {
+    "origin": [
+      [
+        "src/pages/StudyShop/Modal.jsx",
+        85
+      ]
+    ]
+  },
+  "Buy now <0/>": {
+    "origin": [
+      [
+        "src/pages/StudyShop/Modal.jsx",
+        88
+      ]
+    ]
+  },
+  "Reminder: To ensure your order is tracked successfully and for your rebate to be processed, you need to make sure that you make the purchase from your web browser from this link (Buy Now button) only": {
+    "origin": [
+      [
+        "src/pages/StudyShop/Modal.jsx",
+        94
+      ]
+    ]
+  }
+}

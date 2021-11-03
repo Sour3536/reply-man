@@ -1,0 +1,74 @@
+{
+  "Searches": {
+    "origin": [
+      [
+        "src/pages/Counselling/BrowseCounsellor/index.jsx",
+        161
+      ]
+    ]
+  },
+  "Showing <0>{0} counsellors</0>": {
+    "origin": [
+      [
+        "src/pages/Counselling/BrowseCounsellor/index.jsx",
+        164
+      ]
+    ]
+  },
+  "Sort by...": {
+    "origin": [
+      [
+        "src/pages/Counselling/BrowseCounsellor/index.jsx",
+        179
+      ],
+      [
+        "src/pages/Counselling/BrowseCounsellor/index.jsx",
+        181
+      ],
+      [
+        "src/pages/Counselling/BrowseCounsellor/index.jsx",
+        189
+      ]
+    ]
+  },
+  "Recently added": {
+    "origin": [
+      [
+        "src/pages/Counselling/BrowseCounsellor/index.jsx",
+        182
+      ]
+    ]
+  },
+  "Alphabet": {
+    "origin": [
+      [
+        "src/pages/Counselling/BrowseCounsellor/index.jsx",
+        183
+      ]
+    ]
+  },
+  "Price Per Hour": {
+    "origin": [
+      [
+        "src/pages/Counselling/BrowseCounsellor/index.jsx",
+        184
+      ]
+    ]
+  },
+  "Rating": {
+    "origin": [
+      [
+        "src/pages/Counselling/BrowseCounsellor/index.jsx",
+        185
+      ]
+    ]
+  },
+  "Reviews": {
+    "origin": [
+      [
+        "src/pages/Counselling/BrowseCounsellor/index.jsx",
+        186
+      ]
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Certificate has been added": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Certifications.jsx",
+        34
+      ]
+    ]
+  },
+  "Certificate details has been updated": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Certifications.jsx",
+        45
+      ]
+    ]
+  },
+  "Certificate has been deleted": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Certifications.jsx",
+        63
+      ]
+    ]
+  }
+}

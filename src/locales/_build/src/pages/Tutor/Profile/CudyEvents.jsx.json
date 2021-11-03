@@ -1,0 +1,26 @@
+{
+  "From <0/> <1>{0}</1>": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/CudyEvents.jsx",
+        29
+      ]
+    ]
+  },
+  "To <0/> <1>{0}</1>": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/CudyEvents.jsx",
+        36
+      ]
+    ]
+  },
+  "Location <0/> <1>{0}</1>": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/CudyEvents.jsx",
+        43
+      ]
+    ]
+  }
+}

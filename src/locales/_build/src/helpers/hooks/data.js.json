@@ -1,0 +1,66 @@
+{
+  "Browse coaches": {
+    "origin": [
+      [
+        "src/helpers/hooks/data.js",
+        356
+      ]
+    ]
+  },
+  "Browse tutors": {
+    "origin": [
+      [
+        "src/helpers/hooks/data.js",
+        356
+      ]
+    ]
+  },
+  "Assignments": {
+    "origin": [
+      [
+        "src/helpers/hooks/data.js",
+        363
+      ]
+    ]
+  },
+  "Feeds": {
+    "origin": [
+      [
+        "src/helpers/hooks/data.js",
+        370
+      ]
+    ]
+  },
+  "Study places": {
+    "origin": [
+      [
+        "src/helpers/hooks/data.js",
+        377
+      ]
+    ]
+  },
+  "Study center": {
+    "origin": [
+      [
+        "src/helpers/hooks/data.js",
+        384
+      ]
+    ]
+  },
+  "Study shop": {
+    "origin": [
+      [
+        "src/helpers/hooks/data.js",
+        391
+      ]
+    ]
+  },
+  "Cudy Transcribe": {
+    "origin": [
+      [
+        "src/helpers/hooks/data.js",
+        397
+      ]
+    ]
+  }
+}

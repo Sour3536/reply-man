@@ -1,0 +1,66 @@
+{
+  "File type unvalid !": {
+    "origin": [
+      [
+        "src/components/Stories/AddStories.jsx",
+        88
+      ],
+      [
+        "src/components/Stories/AddStories.jsx",
+        88
+      ]
+    ]
+  },
+  "You need to choose subject for your story": {
+    "origin": [
+      [
+        "src/components/Stories/AddStories.jsx",
+        92
+      ],
+      [
+        "src/components/Stories/AddStories.jsx",
+        92
+      ]
+    ]
+  },
+  "Your story has been successfully uploaded!": {
+    "origin": [
+      [
+        "src/components/Stories/AddStories.jsx",
+        126
+      ]
+    ]
+  },
+  "There are problem in upload story!": {
+    "origin": [
+      [
+        "src/components/Stories/AddStories.jsx",
+        131
+      ]
+    ]
+  },
+  "Upload a new story": {
+    "origin": [
+      [
+        "src/components/Stories/AddStories.jsx",
+        137
+      ]
+    ]
+  },
+  "Click here or drag and drop your story": {
+    "origin": [
+      [
+        "src/components/Stories/AddStories.jsx",
+        176
+      ]
+    ]
+  },
+  "Supported formats: JPG, PNG, MP4": {
+    "origin": [
+      [
+        "src/components/Stories/AddStories.jsx",
+        177
+      ]
+    ]
+  }
+}

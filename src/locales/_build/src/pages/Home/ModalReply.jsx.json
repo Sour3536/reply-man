@@ -1,0 +1,34 @@
+{
+  "Replying to <0>{firstName} {lastName}</0>": {
+    "origin": [
+      [
+        "src/pages/Home/ModalReply.jsx",
+        113
+      ]
+    ]
+  },
+  "Write your reply...": {
+    "origin": [
+      [
+        "src/pages/Home/ModalReply.jsx",
+        127
+      ]
+    ]
+  },
+  "Cmd + Enter (or Ctrl + Enter in Windows) to submit": {
+    "origin": [
+      [
+        "src/pages/Home/ModalReply.jsx",
+        128
+      ]
+    ]
+  },
+  "Reply": {
+    "origin": [
+      [
+        "src/pages/Home/ModalReply.jsx",
+        132
+      ]
+    ]
+  }
+}

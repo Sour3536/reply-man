@@ -1,0 +1,294 @@
+{
+  "The experience item has been updated": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        48
+      ]
+    ]
+  },
+  "The experience item has been deleted": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        72
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        88
+      ]
+    ]
+  },
+  "Private tutor": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        108
+      ]
+    ]
+  },
+  "{totalExp}y experience": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        114
+      ]
+    ]
+  },
+  "Select your level": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        130
+      ]
+    ]
+  },
+  "Select your subject": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        131
+      ]
+    ]
+  },
+  "This tutor didn't set any tutoring experiences yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        247
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        267
+      ]
+    ]
+  },
+  "You haven't set any tutoring experiences yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        249
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        269
+      ]
+    ]
+  },
+  "This tutor didn't set any counselling experiences yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        287
+      ]
+    ]
+  },
+  "You haven't set any counselling experiences yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        289
+      ]
+    ]
+  },
+  "Tuition's name": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        338
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        339
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        440
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        441
+      ]
+    ]
+  },
+  "Subject": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        347
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        348
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        449
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        450
+      ]
+    ]
+  },
+  "Curriculum": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        357
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        358
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        459
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        460
+      ]
+    ]
+  },
+  "Date joined": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        368
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        369
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        471
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        472
+      ]
+    ]
+  },
+  "Date resigned": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        377
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        378
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        480
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        481
+      ]
+    ]
+  },
+  "I was a private tutor": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        386
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        489
+      ]
+    ]
+  },
+  "I'm currently working here": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        391
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        494
+      ]
+    ]
+  },
+  "Save this experience": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        396
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        400
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        519
+      ]
+    ]
+  },
+  "Update": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        499
+      ]
+    ]
+  },
+  "Delete this experience?": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        502
+      ]
+    ]
+  },
+  "Delete": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        505
+      ]
+    ]
+  },
+  "Add a new experience": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        516
+      ]
+    ]
+  },
+  "You have to fill in your curriculum": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        528
+      ]
+    ]
+  },
+  "You have to fill in your subject": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        529
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        533
+      ],
+      [
+        "src/pages/Tutor/Profile/Experiences.jsx",
+        537
+      ]
+    ]
+  }
+}

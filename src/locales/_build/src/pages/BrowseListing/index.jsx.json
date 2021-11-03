@@ -1,0 +1,110 @@
+{
+  "Searches": {
+    "origin": [
+      [
+        "src/pages/BrowseListing/index.jsx",
+        234
+      ]
+    ]
+  },
+  "<0>Showing <1>{0} Contents</1></0>": {
+    "origin": [
+      [
+        "src/pages/BrowseListing/index.jsx",
+        236
+      ]
+    ]
+  },
+  "Sort by...": {
+    "origin": [
+      [
+        "src/pages/BrowseListing/index.jsx",
+        255
+      ],
+      [
+        "src/pages/BrowseListing/index.jsx",
+        257
+      ],
+      [
+        "src/pages/BrowseListing/index.jsx",
+        262
+      ]
+    ]
+  },
+  "Recently added": {
+    "origin": [
+      [
+        "src/pages/BrowseListing/index.jsx",
+        258
+      ]
+    ]
+  },
+  "Alphabet": {
+    "origin": [
+      [
+        "src/pages/BrowseListing/index.jsx",
+        259
+      ]
+    ]
+  },
+  "Upload your Content": {
+    "origin": [
+      [
+        "src/pages/BrowseListing/index.jsx",
+        288
+      ],
+      [
+        "src/pages/BrowseListing/index.jsx",
+        433
+      ]
+    ]
+  },
+  "Click here or drag and drop your content to this area": {
+    "origin": [
+      [
+        "src/pages/BrowseListing/index.jsx",
+        347
+      ]
+    ]
+  },
+  "Supported formats: PDF, PPT, Video, Images, EXCEL, DOC": {
+    "origin": [
+      [
+        "src/pages/BrowseListing/index.jsx",
+        348
+      ]
+    ]
+  },
+  "Please wait...": {
+    "origin": [
+      [
+        "src/pages/BrowseListing/index.jsx",
+        357
+      ]
+    ]
+  },
+  "Successfully Uploaded": {
+    "origin": [
+      [
+        "src/pages/BrowseListing/index.jsx",
+        357
+      ]
+    ]
+  },
+  "Upload this content now": {
+    "origin": [
+      [
+        "src/pages/BrowseListing/index.jsx",
+        357
+      ]
+    ]
+  },
+  "Preview your Content": {
+    "origin": [
+      [
+        "src/pages/BrowseListing/index.jsx",
+        369
+      ]
+    ]
+  }
+}

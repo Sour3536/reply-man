@@ -1,0 +1,34 @@
+{
+  "Thank you! :)": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/TestimonialSuccess.jsx",
+        23
+      ]
+    ]
+  },
+  "Your testimonial has been submitted. And you are also successfully registered. See the email we've just sent you to get started.": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/TestimonialSuccess.jsx",
+        25
+      ]
+    ]
+  },
+  "Don't forget to check your spam/junk folder too :)": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/TestimonialSuccess.jsx",
+        32
+      ]
+    ]
+  },
+  "Back to Home": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/TestimonialSuccess.jsx",
+        37
+      ]
+    ]
+  }
+}

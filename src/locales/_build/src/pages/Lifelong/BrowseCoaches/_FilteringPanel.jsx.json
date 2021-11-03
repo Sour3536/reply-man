@@ -1,0 +1,54 @@
+{
+  "E.g. Felix Ong, or Surabaya...": {
+    "origin": [
+      [
+        "src/pages/Lifelong/BrowseCoaches/_FilteringPanel.jsx",
+        106
+      ]
+    ]
+  },
+  "You can search either tutor's name or city/province": {
+    "origin": [
+      [
+        "src/pages/Lifelong/BrowseCoaches/_FilteringPanel.jsx",
+        108
+      ]
+    ]
+  },
+  "Price per hour": {
+    "origin": [
+      [
+        "src/pages/Lifelong/BrowseCoaches/_FilteringPanel.jsx",
+        112
+      ]
+    ]
+  },
+  "Categories": {
+    "origin": [
+      [
+        "src/pages/Lifelong/BrowseCoaches/_FilteringPanel.jsx",
+        128
+      ]
+    ]
+  },
+  "All": {
+    "origin": [
+      [
+        "src/pages/Lifelong/BrowseCoaches/_FilteringPanel.jsx",
+        135
+      ],
+      [
+        "src/pages/Lifelong/BrowseCoaches/_FilteringPanel.jsx",
+        145
+      ]
+    ]
+  },
+  "Cities": {
+    "origin": [
+      [
+        "src/pages/Lifelong/BrowseCoaches/_FilteringPanel.jsx",
+        140
+      ]
+    ]
+  }
+}

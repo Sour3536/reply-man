@@ -1,0 +1,34 @@
+{
+  "It's been sent!": {
+    "origin": [
+      [
+        "src/pages/ResendVerification/Resent.jsx",
+        26
+      ]
+    ]
+  },
+  "The verification email has been sent. Please check your inbox and click on it to get your account activated.": {
+    "origin": [
+      [
+        "src/pages/ResendVerification/Resent.jsx",
+        28
+      ]
+    ]
+  },
+  "Don't forget to check your spam/junk folder too :)": {
+    "origin": [
+      [
+        "src/pages/ResendVerification/Resent.jsx",
+        37
+      ]
+    ]
+  },
+  "Go to login": {
+    "origin": [
+      [
+        "src/pages/ResendVerification/Resent.jsx",
+        43
+      ]
+    ]
+  }
+}

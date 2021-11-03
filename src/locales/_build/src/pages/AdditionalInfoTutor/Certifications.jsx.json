@@ -1,0 +1,206 @@
+{
+  "Your certificate has been added": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        87
+      ]
+    ]
+  },
+  "Your certificate has been updated": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        96
+      ]
+    ]
+  },
+  "Your certificate has been deleted": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        105
+      ]
+    ]
+  },
+  "Certifications": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        162
+      ]
+    ]
+  },
+  "Please fill in your certifications": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        163
+      ]
+    ]
+  },
+  "No certifications for now": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        167
+      ]
+    ]
+  },
+  "Your certificate is uploaded. Now please fill in the details of the certificate.": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        179
+      ]
+    ]
+  },
+  "Upload this certificate now": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        193
+      ]
+    ]
+  },
+  "Drag and drop your certification": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        209
+      ]
+    ]
+  },
+  "Supported formats: .pdf, .doc, .docx, .png, .jpg, .jpeg": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        210
+      ]
+    ]
+  },
+  "Name of certification": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        218
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        219
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        264
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        265
+      ]
+    ]
+  },
+  "Issuer": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        226
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        227
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        271
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        272
+      ]
+    ]
+  },
+  "Year issued": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        234
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        236
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        278
+      ],
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        280
+      ]
+    ]
+  },
+  "Save changes": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        243
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        247
+      ]
+    ]
+  },
+  "Update certificate": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        285
+      ]
+    ]
+  },
+  "Delete this certificate?": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        289
+      ]
+    ]
+  },
+  "Delete": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        293
+      ]
+    ]
+  },
+  "Add a new certificate": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        305
+      ]
+    ]
+  },
+  "<0/> Back to Experiences": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        315
+      ]
+    ]
+  },
+  "Next <0/>": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/Certifications.jsx",
+        322
+      ]
+    ]
+  }
+}

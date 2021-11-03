@@ -1,0 +1,18 @@
+{
+  "Logging you in...": {
+    "origin": [
+      [
+        "src/store/actions/authActions.js",
+        28
+      ]
+    ]
+  },
+  "Logging you out...": {
+    "origin": [
+      [
+        "src/store/actions/authActions.js",
+        46
+      ]
+    ]
+  }
+}

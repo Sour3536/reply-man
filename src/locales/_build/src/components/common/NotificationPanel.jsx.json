@@ -1,0 +1,66 @@
+{
+  "Reminder": {
+    "origin": [
+      [
+        "src/components/common/NotificationPanel.jsx",
+        45
+      ]
+    ]
+  },
+  "You have no notifications at the moment. Enjoy your day!": {
+    "origin": [
+      [
+        "src/components/common/NotificationPanel.jsx",
+        49
+      ],
+      [
+        "src/components/common/NotificationPanel.jsx",
+        84
+      ]
+    ]
+  },
+  "Notifications": {
+    "origin": [
+      [
+        "src/components/common/NotificationPanel.jsx",
+        73
+      ],
+      [
+        "src/components/common/NotificationPanel.jsx",
+        80
+      ]
+    ]
+  },
+  "Don't miss out any notifications from others": {
+    "origin": [
+      [
+        "src/components/common/NotificationPanel.jsx",
+        74
+      ]
+    ]
+  },
+  "You have a new testimonial": {
+    "origin": [
+      [
+        "src/components/common/NotificationPanel.jsx",
+        106
+      ]
+    ]
+  },
+  "You've been found!": {
+    "origin": [
+      [
+        "src/components/common/NotificationPanel.jsx",
+        107
+      ]
+    ]
+  },
+  "Reminder!": {
+    "origin": [
+      [
+        "src/components/common/NotificationPanel.jsx",
+        108
+      ]
+    ]
+  }
+}

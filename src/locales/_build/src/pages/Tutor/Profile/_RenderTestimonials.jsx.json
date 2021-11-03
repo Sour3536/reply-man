@@ -1,0 +1,50 @@
+{
+  "Register first to see testimonials": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderTestimonials.jsx",
+        58
+      ]
+    ]
+  },
+  "Login to see": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderTestimonials.jsx",
+        64
+      ]
+    ]
+  },
+  "You can see testimonials of this tutor, if you are already logged in. Go login now.": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderTestimonials.jsx",
+        66
+      ]
+    ]
+  },
+  "Login now": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderTestimonials.jsx",
+        72
+      ]
+    ]
+  },
+  "This tutor has no testimonials yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderTestimonials.jsx",
+        90
+      ]
+    ]
+  },
+  "You haven't gained any testimonials yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderTestimonials.jsx",
+        92
+      ]
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "Oops! Something bad happened": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Acceptance.jsx",
+        15
+      ]
+    ]
+  },
+  "Great! This is very you!": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Acceptance.jsx",
+        16
+      ]
+    ]
+  },
+  "You rejected it :(": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Acceptance.jsx",
+        17
+      ]
+    ]
+  },
+  "You have accepted the assignment. Wait until the student reaches you": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Acceptance.jsx",
+        20
+      ]
+    ]
+  },
+  "You have rejected the assignment. That's okay. Probably you'll get clicked with other future assignments.": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Acceptance.jsx",
+        22
+      ]
+    ]
+  },
+  "Go to Home": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Acceptance.jsx",
+        35
+      ]
+    ]
+  }
+}

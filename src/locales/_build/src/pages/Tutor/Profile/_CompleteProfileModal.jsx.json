@@ -1,0 +1,82 @@
+{
+  "Your request has been sent. Thank you! :)": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_CompleteProfileModal.jsx",
+        22
+      ]
+    ]
+  },
+  "Hi, I really like your Profile. However, I'd like to see more from yours, and I think it's the time for you to complete your profile, so that others can have a better insight about yourself as a tutor.": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_CompleteProfileModal.jsx",
+        31
+      ]
+    ]
+  },
+  "Request to complete": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_CompleteProfileModal.jsx",
+        54
+      ]
+    ]
+  },
+  "Help {0} to improve {1} Profile by requesting {2} to complete {3} Profile immediately": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_CompleteProfileModal.jsx",
+        56
+      ]
+    ]
+  },
+  "You have to specify the section first": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_CompleteProfileModal.jsx",
+        67
+      ]
+    ]
+  },
+  "Choose section": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_CompleteProfileModal.jsx",
+        74
+      ]
+    ]
+  },
+  "Choose the section...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_CompleteProfileModal.jsx",
+        75
+      ]
+    ]
+  },
+  "Your message to them": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_CompleteProfileModal.jsx",
+        82
+      ]
+    ]
+  },
+  "Describe how important their Profile is once it's completed": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_CompleteProfileModal.jsx",
+        83
+      ]
+    ]
+  },
+  "Submit now": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_CompleteProfileModal.jsx",
+        86
+      ]
+    ]
+  }
+}

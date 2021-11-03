@@ -1,0 +1,314 @@
+{
+  "{error}": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        169
+      ],
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        217
+      ],
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        400
+      ],
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        407
+      ]
+    ]
+  },
+  "created successfully": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        356
+      ]
+    ]
+  },
+  "There are problem in created group": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        359
+      ]
+    ]
+  },
+  "deleted successfully": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        368
+      ]
+    ]
+  },
+  "There are problem in delete group": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        370
+      ]
+    ]
+  },
+  "No Location": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        384
+      ]
+    ]
+  },
+  "No experience yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        450
+      ]
+    ]
+  },
+  "{0}y experience": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        450
+      ]
+    ]
+  },
+  "You are being redirected as the Tutor doesn't teach in": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        491
+      ]
+    ]
+  },
+  "You only can be found after {0} {1}. Come complete and make your profile easier to find!": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        512
+      ]
+    ]
+  },
+  "Who's viewed me?": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        573
+      ]
+    ]
+  },
+  "Refer your friend to join Cudy": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        587
+      ]
+    ]
+  },
+  "Refer it!": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        589
+      ]
+    ]
+  },
+  "You can refer your profile to your friend and get some extra benefits. Copy and share your referral link below to get started": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        591
+      ]
+    ]
+  },
+  "Copy link": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        600
+      ],
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        631
+      ]
+    ]
+  },
+  "Testimonials link": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        609
+      ]
+    ]
+  },
+  "Get your past students to give you a testimonial. Copy the link and share to them. Let them speak! <0>🙋🏼‍♂️</0>": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        611
+      ]
+    ]
+  },
+  "Your students will receive an email for verification to activate your testimonial once submitted": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        622
+      ]
+    ]
+  },
+  "Skills": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        639
+      ]
+    ]
+  },
+  "Other platforms": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        654
+      ]
+    ]
+  },
+  "Introduction videos": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        707
+      ]
+    ]
+  },
+  "Testimonials": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        725
+      ]
+    ]
+  },
+  "See more <0/>": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        730
+      ]
+    ]
+  },
+  "About me": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        759
+      ]
+    ]
+  },
+  "Education": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        780
+      ]
+    ]
+  },
+  "Tutoring experiences": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        802
+      ]
+    ]
+  },
+  "Subjects": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        830
+      ]
+    ]
+  },
+  "Certifications": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        858
+      ]
+    ]
+  },
+  "Booking Pending": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        879
+      ]
+    ]
+  },
+  "Accept this booking": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        918
+      ]
+    ]
+  },
+  "Accept": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        924
+      ]
+    ]
+  },
+  "Reject this booking": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        927
+      ]
+    ]
+  },
+  "Reject": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        929
+      ]
+    ]
+  },
+  "Schedule": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        942
+      ]
+    ]
+  },
+  "Click to make a booking": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        947
+      ]
+    ]
+  },
+  "Blog": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        960
+      ]
+    ]
+  },
+  "Edit Reads": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/index.jsx",
+        973
+      ]
+    ]
+  }
+}

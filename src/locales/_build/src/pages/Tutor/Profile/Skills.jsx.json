@@ -1,0 +1,58 @@
+{
+  "Your skills": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Skills.jsx",
+        82
+      ]
+    ]
+  },
+  "Enter your skills": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Skills.jsx",
+        85
+      ]
+    ]
+  },
+  "Save changes": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Skills.jsx",
+        93
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Skills.jsx",
+        97
+      ]
+    ]
+  },
+  "This tutor didn't specify any skills yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Skills.jsx",
+        107
+      ]
+    ]
+  },
+  "You didn't specify any skills yet": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Skills.jsx",
+        125
+      ]
+    ]
+  },
+  "Add one": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Skills.jsx",
+        127
+      ]
+    ]
+  }
+}

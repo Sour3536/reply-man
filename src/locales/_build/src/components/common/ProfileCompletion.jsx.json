@@ -1,0 +1,42 @@
+{
+  "You've made it!": {
+    "origin": [
+      [
+        "src/components/common/ProfileCompletion.jsx",
+        59
+      ]
+    ]
+  },
+  "You're almost there": {
+    "origin": [
+      [
+        "src/components/common/ProfileCompletion.jsx",
+        59
+      ]
+    ]
+  },
+  "You've completed your profile, and that's great!": {
+    "origin": [
+      [
+        "src/components/common/ProfileCompletion.jsx",
+        61
+      ]
+    ]
+  },
+  "Keep up the good progress": {
+    "origin": [
+      [
+        "src/components/common/ProfileCompletion.jsx",
+        61
+      ]
+    ]
+  },
+  "Complete my profile now": {
+    "origin": [
+      [
+        "src/components/common/ProfileCompletion.jsx",
+        84
+      ]
+    ]
+  }
+}

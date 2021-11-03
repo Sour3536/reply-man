@@ -1,0 +1,134 @@
+{
+  "You've made it!": {
+    "origin": [
+      [
+        "src/components/common/MenuDrawer.jsx",
+        135
+      ]
+    ]
+  },
+  "You're almost there": {
+    "origin": [
+      [
+        "src/components/common/MenuDrawer.jsx",
+        136
+      ]
+    ]
+  },
+  "Your profile is complete": {
+    "origin": [
+      [
+        "src/components/common/MenuDrawer.jsx",
+        139
+      ]
+    ]
+  },
+  "Complete your profile": {
+    "origin": [
+      [
+        "src/components/common/MenuDrawer.jsx",
+        141
+      ]
+    ]
+  },
+  "<0/>   My Online Classes": {
+    "origin": [
+      [
+        "src/components/common/MenuDrawer.jsx",
+        154
+      ]
+    ]
+  },
+  "<0/>   Your profile": {
+    "origin": [
+      [
+        "src/components/common/MenuDrawer.jsx",
+        163
+      ]
+    ]
+  },
+  "<0/>   Chats": {
+    "origin": [
+      [
+        "src/components/common/MenuDrawer.jsx",
+        171
+      ]
+    ]
+  },
+  "<0/>   Your assignments": {
+    "origin": [
+      [
+        "src/components/common/MenuDrawer.jsx",
+        179
+      ]
+    ]
+  },
+  "<0/>   Settings": {
+    "origin": [
+      [
+        "src/components/common/MenuDrawer.jsx",
+        187
+      ]
+    ]
+  },
+  "<0/>   Cudy updates": {
+    "origin": [
+      [
+        "src/components/common/MenuDrawer.jsx",
+        193
+      ]
+    ]
+  },
+  "Logout": {
+    "origin": [
+      [
+        "src/components/common/MenuDrawer.jsx",
+        203
+      ]
+    ]
+  },
+  "Login": {
+    "origin": [
+      [
+        "src/components/common/MenuDrawer.jsx",
+        212
+      ]
+    ]
+  },
+  "Sign up": {
+    "origin": [
+      [
+        "src/components/common/MenuDrawer.jsx",
+        218
+      ]
+    ]
+  },
+  "or": {
+    "origin": [
+      [
+        "src/components/common/MenuDrawer.jsx",
+        228
+      ]
+    ]
+  },
+  "Go to Cudy": {
+    "origin": [
+      [
+        "src/components/common/MenuDrawer.jsx",
+        234
+      ],
+      [
+        "src/components/common/MenuDrawer.jsx",
+        241
+      ]
+    ]
+  },
+  "<0/>See notifications": {
+    "origin": [
+      [
+        "src/components/common/MenuDrawer.jsx",
+        257
+      ]
+    ]
+  }
+}

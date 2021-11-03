@@ -1,0 +1,98 @@
+{
+  "Your video has been successfully uploaded!": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/IntroVideos.jsx",
+        128
+      ]
+    ]
+  },
+  "This tutor didn't upload any introduction videos yet. Ask them to <0>complete this section</0>": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/IntroVideos.jsx",
+        152
+      ]
+    ]
+  },
+  "Upload your introductions": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/IntroVideos.jsx",
+        176
+      ]
+    ]
+  },
+  "By uploading your introduction videos, there will be a higher chance for you to attract other students/parents.": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/IntroVideos.jsx",
+        178
+      ]
+    ]
+  },
+  "Upload your video now": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/IntroVideos.jsx",
+        187
+      ]
+    ]
+  },
+  "Upload another video": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/IntroVideos.jsx",
+        214
+      ]
+    ]
+  },
+  "Upload your introduction video": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/IntroVideos.jsx",
+        228
+      ]
+    ]
+  },
+  "Click here or drag and drop your video to this area": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/IntroVideos.jsx",
+        254
+      ]
+    ]
+  },
+  "Supported formats: .flv, .mp4, .3gp, .avi, .mov, .wmv": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/IntroVideos.jsx",
+        255
+      ]
+    ]
+  },
+  "Please wait...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/IntroVideos.jsx",
+        264
+      ]
+    ]
+  },
+  "Upload this video now": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/IntroVideos.jsx",
+        264
+      ]
+    ]
+  },
+  "Change video": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/IntroVideos.jsx",
+        269
+      ]
+    ]
+  }
+}

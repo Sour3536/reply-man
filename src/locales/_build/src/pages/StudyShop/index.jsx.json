@@ -1,0 +1,34 @@
+{
+  "Where you can shop for study essentials, through our partners, and earn rebates on Cudy.": {
+    "origin": [
+      [
+        "src/pages/StudyShop/index.jsx",
+        133
+      ]
+    ]
+  },
+  "Learn more": {
+    "origin": [
+      [
+        "src/pages/StudyShop/index.jsx",
+        137
+      ]
+    ]
+  },
+  "No products found": {
+    "origin": [
+      [
+        "src/pages/StudyShop/index.jsx",
+        167
+      ]
+    ]
+  },
+  "Our partners": {
+    "origin": [
+      [
+        "src/pages/StudyShop/index.jsx",
+        202
+      ]
+    ]
+  }
+}

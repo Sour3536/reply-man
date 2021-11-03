@@ -1,0 +1,158 @@
+{
+  "Name of certification": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        90
+      ],
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        203
+      ],
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        204
+      ]
+    ]
+  },
+  "Issuer": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        97
+      ],
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        210
+      ],
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        211
+      ]
+    ]
+  },
+  "Year issued": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        105
+      ],
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        217
+      ],
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        219
+      ]
+    ]
+  },
+  "Update certificate": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        110
+      ]
+    ]
+  },
+  "Delete this certificate?": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        114
+      ]
+    ]
+  },
+  "Delete": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        118
+      ]
+    ]
+  },
+  "Add a new certificate": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        137
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        140
+      ],
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        229
+      ]
+    ]
+  },
+  "Your certificate is uploaded. Now please fill in the details of the certificate.": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        161
+      ]
+    ]
+  },
+  "Upload this certificate now": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        176
+      ]
+    ]
+  },
+  "Click or drag and drop your certification": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        192
+      ]
+    ]
+  },
+  "Supported formats: .pdf, .doc, .docx, .png, .jpg, .jpeg": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        194
+      ]
+    ]
+  },
+  "Save changes": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        225
+      ]
+    ]
+  },
+  "You have to tell the name of the certificate": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        242
+      ]
+    ]
+  },
+  "You have to tell the issuer": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        243
+      ]
+    ]
+  },
+  "You have to tell when the certificate is issued": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_RenderEditCertifications.jsx",
+        244
+      ]
+    ]
+  }
+}

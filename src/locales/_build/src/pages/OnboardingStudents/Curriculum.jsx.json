@@ -1,0 +1,50 @@
+{
+  "Your curriculum and level": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Curriculum.jsx",
+        39
+      ]
+    ]
+  },
+  "What curriculum and level are you currently on": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Curriculum.jsx",
+        40
+      ]
+    ]
+  },
+  "Please choose one": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Curriculum.jsx",
+        53
+      ]
+    ]
+  },
+  "Your current curriculum and level...": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Curriculum.jsx",
+        54
+      ]
+    ]
+  },
+  "<0>Back</0>": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Curriculum.jsx",
+        61
+      ]
+    ]
+  },
+  "Finish <0/>": {
+    "origin": [
+      [
+        "src/pages/OnboardingStudents/Curriculum.jsx",
+        74
+      ]
+    ]
+  }
+}

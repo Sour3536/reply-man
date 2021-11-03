@@ -1,0 +1,34 @@
+{
+  "Event google imported": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/index.jsx",
+        46
+      ]
+    ]
+  },
+  "Sync events from GCal": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/index.jsx",
+        117
+      ]
+    ]
+  },
+  "Logout from Google": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/index.jsx",
+        120
+      ]
+    ]
+  },
+  "Import events from GCal": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/Calendar/index.jsx",
+        125
+      ]
+    ]
+  }
+}

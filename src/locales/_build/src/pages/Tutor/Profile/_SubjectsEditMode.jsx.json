@@ -1,0 +1,230 @@
+{
+  "Subject name": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        41
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        77
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        111
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        175
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        240
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        306
+      ]
+    ]
+  },
+  "Subject": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        42
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        78
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        112
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        176
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        241
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        307
+      ]
+    ]
+  },
+  "Price per hour": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        50
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        86
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        132
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        184
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        249
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        326
+      ]
+    ]
+  },
+  "Save this subject": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        54
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        90
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        138
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        58
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        94
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        142
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        209
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        274
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        350
+      ]
+    ]
+  },
+  "Curriculum": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        121
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        122
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        316
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        317
+      ]
+    ]
+  },
+  "Are you sure this is the right amount?": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        160
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        225
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        291
+      ]
+    ]
+  },
+  "Update": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        189
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        254
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        331
+      ]
+    ]
+  },
+  "Delete this subject?": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        193
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        258
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        334
+      ]
+    ]
+  },
+  "Delete": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        197
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        262
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        337
+      ]
+    ]
+  },
+  "Add a new subject": {
+    "origin": [
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        206
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        271
+      ],
+      [
+        "src/pages/Tutor/Profile/_SubjectsEditMode.jsx",
+        347
+      ]
+    ]
+  }
+}

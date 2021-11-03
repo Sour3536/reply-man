@@ -1,0 +1,74 @@
+{
+  "Searches": {
+    "origin": [
+      [
+        "src/pages/Lifelong/BrowseCoaches/index.jsx",
+        168
+      ]
+    ]
+  },
+  "<0>Showing <1>{0} tutors</1></0>": {
+    "origin": [
+      [
+        "src/pages/Lifelong/BrowseCoaches/index.jsx",
+        170
+      ]
+    ]
+  },
+  "Sort by...": {
+    "origin": [
+      [
+        "src/pages/Lifelong/BrowseCoaches/index.jsx",
+        186
+      ],
+      [
+        "src/pages/Lifelong/BrowseCoaches/index.jsx",
+        188
+      ],
+      [
+        "src/pages/Lifelong/BrowseCoaches/index.jsx",
+        196
+      ]
+    ]
+  },
+  "Recently added": {
+    "origin": [
+      [
+        "src/pages/Lifelong/BrowseCoaches/index.jsx",
+        189
+      ]
+    ]
+  },
+  "Alphabet": {
+    "origin": [
+      [
+        "src/pages/Lifelong/BrowseCoaches/index.jsx",
+        190
+      ]
+    ]
+  },
+  "Price Per Hour": {
+    "origin": [
+      [
+        "src/pages/Lifelong/BrowseCoaches/index.jsx",
+        191
+      ]
+    ]
+  },
+  "Rating": {
+    "origin": [
+      [
+        "src/pages/Lifelong/BrowseCoaches/index.jsx",
+        192
+      ]
+    ]
+  },
+  "Reviews": {
+    "origin": [
+      [
+        "src/pages/Lifelong/BrowseCoaches/index.jsx",
+        193
+      ]
+    ]
+  }
+}

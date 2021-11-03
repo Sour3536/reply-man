@@ -1,0 +1,90 @@
+{
+  "New assignment": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Public.jsx",
+        137
+      ]
+    ]
+  },
+  "Select curriculum": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Public.jsx",
+        152
+      ]
+    ]
+  },
+  "Select subject": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Public.jsx",
+        153
+      ]
+    ]
+  },
+  "Choose your preferred location...": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Public.jsx",
+        160
+      ]
+    ]
+  },
+  "Filter": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Public.jsx",
+        192
+      ]
+    ]
+  },
+  "Find and Post Tuition Assignments": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Public.jsx",
+        209
+      ]
+    ]
+  },
+  "Advertise for FREE here and relevant tutors will automatically be notified and apply directly.": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Public.jsx",
+        211
+      ]
+    ]
+  },
+  "Want to be the first to receive every new assignments?": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Public.jsx",
+        217
+      ]
+    ]
+  },
+  "Join our <0>Telegram <1/> channel</0> today": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Public.jsx",
+        219
+      ]
+    ]
+  },
+  "No assignments": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Public.jsx",
+        243
+      ]
+    ]
+  },
+  "See details": {
+    "origin": [
+      [
+        "src/pages/Tutor/Assignments/Public.jsx",
+        295
+      ]
+    ]
+  }
+}

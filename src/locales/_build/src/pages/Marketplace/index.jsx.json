@@ -1,0 +1,74 @@
+{
+  "Searches": {
+    "origin": [
+      [
+        "src/pages/Marketplace/index.jsx",
+        271
+      ]
+    ]
+  },
+  "<0>Showing <1>{0} tutors</1></0>": {
+    "origin": [
+      [
+        "src/pages/Marketplace/index.jsx",
+        273
+      ]
+    ]
+  },
+  "Sort by...": {
+    "origin": [
+      [
+        "src/pages/Marketplace/index.jsx",
+        289
+      ],
+      [
+        "src/pages/Marketplace/index.jsx",
+        291
+      ],
+      [
+        "src/pages/Marketplace/index.jsx",
+        299
+      ]
+    ]
+  },
+  "Recently added": {
+    "origin": [
+      [
+        "src/pages/Marketplace/index.jsx",
+        292
+      ]
+    ]
+  },
+  "Alphabet": {
+    "origin": [
+      [
+        "src/pages/Marketplace/index.jsx",
+        293
+      ]
+    ]
+  },
+  "Price Per Hour": {
+    "origin": [
+      [
+        "src/pages/Marketplace/index.jsx",
+        294
+      ]
+    ]
+  },
+  "Rating": {
+    "origin": [
+      [
+        "src/pages/Marketplace/index.jsx",
+        295
+      ]
+    ]
+  },
+  "Reviews": {
+    "origin": [
+      [
+        "src/pages/Marketplace/index.jsx",
+        296
+      ]
+    ]
+  }
+}

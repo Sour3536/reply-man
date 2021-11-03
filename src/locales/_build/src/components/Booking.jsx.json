@@ -1,0 +1,26 @@
+{
+  "Booking {0}'s": {
+    "origin": [
+      [
+        "src/components/Booking.jsx",
+        15
+      ]
+    ]
+  },
+  "Booking this tutor": {
+    "origin": [
+      [
+        "src/components/Booking.jsx",
+        30
+      ]
+    ]
+  },
+  "Book Tutor": {
+    "origin": [
+      [
+        "src/components/Booking.jsx",
+        32
+      ]
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "Academic": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/PreferField.jsx",
+        38
+      ]
+    ]
+  },
+  "If you teach something like Mathematic, History, English, Chemical, etc": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/PreferField.jsx",
+        39
+      ]
+    ]
+  },
+  "Non-academic": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/PreferField.jsx",
+        44
+      ]
+    ]
+  },
+  "If you teach something like Music, Photography, Digital Marketing, etc": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/PreferField.jsx",
+        45
+      ]
+    ]
+  },
+  "Counselling": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/PreferField.jsx",
+        50
+      ]
+    ]
+  },
+  "If you give guidance on personal or psychological problems.": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/PreferField.jsx",
+        51
+      ]
+    ]
+  },
+  "Your preferrable field": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/PreferField.jsx",
+        66
+      ]
+    ]
+  },
+  "<0>Tell us whether you'd like to teach academic or non-academic lessons</0>": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/PreferField.jsx",
+        68
+      ]
+    ]
+  },
+  "You can change this later, or even you can teach both of these fields. However, for now, you need to choose first": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/PreferField.jsx",
+        79
+      ]
+    ]
+  },
+  "Please wait...": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/PreferField.jsx",
+        107
+      ]
+    ]
+  },
+  "Next": {
+    "origin": [
+      [
+        "src/pages/AdditionalInfoTutor/PreferField.jsx",
+        107
+      ]
+    ]
+  }
+}

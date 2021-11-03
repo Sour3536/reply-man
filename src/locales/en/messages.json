@@ -1,0 +1,4714 @@
+{
+	"${pricePerHour} per hour": {
+		"translation": "${pricePerHour} per hour",
+		"origin": [
+			["src/pages/Tutor/Profile/Subjects.js", 341],
+			["src/pages/Tutor/Profile/Subjects.js", 355]
+		],
+		"obsolete": true
+	},
+	"(No reviews yet)": {
+		"translation": "(No reviews yet)",
+		"origin": [["src/pages/StudyPlaces/PlaceDetails.jsx", 161]]
+	},
+	"({0} reviews)": {
+		"translation": "({0} reviews)",
+		"origin": [["src/pages/StudyPlaces/PlaceDetails.jsx", 159]]
+	},
+	"/ 700 characters allowed": {
+		"translation": "/ 700 characters allowed",
+		"origin": [["src/pages/Tutor/Profile/AboutMe.jsx", 49]]
+	},
+	"1 Hour": {
+		"translation": "1 Hour",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 40]]
+	},
+	"1 Hour 30 Minutes": {
+		"translation": "1 Hour 30 Minutes",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 41]]
+	},
+	"2 Hour": {
+		"translation": "2 Hour",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 42]]
+	},
+	"2 Hour 30 Minutes": {
+		"translation": "2 Hour 30 Minutes",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 43]]
+	},
+	"3 Hour": {
+		"translation": "3 Hour",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 44]]
+	},
+	"3 Hour 30 Minutes": {
+		"translation": "3 Hour 30 Minutes",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 45]]
+	},
+	"30 Minutes": {
+		"translation": "30 Minutes",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 39]]
+	},
+	"4 Hour": {
+		"translation": "4 Hour",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 46]]
+	},
+	"4 Hour 30 Minutes": {
+		"translation": "4 Hour 30 Minutes",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 47]]
+	},
+	"5 Hour": {
+		"translation": "5 Hour",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 48]]
+	},
+	"5 Hour 30 Minutes": {
+		"translation": "5 Hour 30 Minutes",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 49]]
+	},
+	"6 Hour": {
+		"translation": "6 Hour",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 50]]
+	},
+	"<0/> Back to About me": {
+		"translation": "<0/> Back to About me",
+		"origin": [["src/pages/AdditionalInfoTutor/Subjects.jsx", 576]]
+	},
+	"<0/> Back to Educations": {
+		"translation": "<0/> Back to Educations",
+		"origin": [["src/pages/AdditionalInfoTutor/Experiences.jsx", 231]]
+	},
+	"<0/> Back to Experiences": {
+		"translation": "<0/> Back to Experiences",
+		"origin": [["src/pages/AdditionalInfoTutor/Certifications.jsx", 315]]
+	},
+	"<0/> Back to Subjects": {
+		"translation": "<0/> Back to Subjects",
+		"origin": [["src/pages/AdditionalInfoTutor/Educations.jsx", 209]]
+	},
+	"<0/> Back to places": {
+		"translation": "<0/> Back to places",
+		"origin": [["src/pages/StudyPlaces/PlaceDetails.jsx", 210]]
+	},
+	"<0/> Danger zone": {
+		"translation": "<0/> Danger zone",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 569]]
+	},
+	"<0/>   Assignments": {
+		"translation": "<0/>   Assignments",
+		"origin": [["src/components/Navbar.jsx", 432]],
+		"obsolete": true
+	},
+	"<0/>   Back to Home": {
+		"translation": "<0/>   Back to Home",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/NewPassword.jsx", 95],
+			["src/pages/ForgotPassword/NewPassword.jsx", 83],
+			["src/pages/ForgotPassword/index.jsx", 74]
+		]
+	},
+	"<0/>   Booking List": {
+		"translation": "<0/>   Booking List",
+		"origin": [["src/components/Navbar.jsx", 175]]
+	},
+	"<0/>   Chats": {
+		"translation": "<0/>   Chats",
+		"origin": [
+			["src/components/Navbar.jsx", 143],
+			["src/components/common/MenuDrawer.jsx", 171]
+		]
+	},
+	"<0/>   Cudy updates": {
+		"translation": "<0/>   Cudy updates",
+		"origin": [
+			["src/components/Navbar.jsx", 169],
+			["src/components/common/MenuDrawer.jsx", 193]
+		]
+	},
+	"<0/>   Feeds": {
+		"translation": "<0/>   Feeds",
+		"origin": [
+			["src/components/Navbar.jsx", 125],
+			["src/components/common/MenuDrawer.jsx", 152]
+		],
+		"obsolete": true
+	},
+	"<0/>   My Online Classes": {
+		"translation": "<0/>   My Online Classes",
+		"origin": [
+			["src/components/Navbar.jsx", 134],
+			["src/components/common/MenuDrawer.jsx", 154]
+		]
+	},
+	"<0/>   Settings": {
+		"translation": "<0/>   Settings",
+		"origin": [
+			["src/components/Navbar.jsx", 159],
+			["src/components/common/MenuDrawer.jsx", 187]
+		]
+	},
+	"<0/>   Study places": {
+		"translation": "<0/>   Study places",
+		"origin": [["src/components/Navbar.jsx", 439]],
+		"obsolete": true
+	},
+	"<0/>   Transaction List": {
+		"translation": "<0/>   Transaction List",
+		"origin": [["src/components/Navbar.jsx", 182]]
+	},
+	"<0/>   You are a": {
+		"translation": "<0/>   You are a",
+		"origin": [["src/pages/Tutor/Settings/index.js", 165]],
+		"obsolete": true
+	},
+	"<0/>   You are a <1>{0}</1>": {
+		"translation": "<0/>   You are a <1>{0}</1>",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 367]],
+		"obsolete": true
+	},
+	"<0/>   You are a<1>{0} {1} {2}</1>": {
+		"translation": "<0/>   You are a<1>{0} {1} {2}</1>",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 363]]
+	},
+	"<0/>   Your assignments": {
+		"translation": "<0/>   Your assignments",
+		"origin": [
+			["src/components/Navbar.jsx", 151],
+			["src/components/common/MenuDrawer.jsx", 179]
+		]
+	},
+	"<0/>   Your profile": {
+		"translation": "<0/>   Your profile",
+		"origin": [
+			["src/components/Navbar.jsx", 124],
+			["src/components/common/MenuDrawer.jsx", 163]
+		]
+	},
+	"<0/>  <1>Analytics</1>": {
+		"translation": "<0/>  <1>Analytics</1>",
+		"origin": [["src/components/common/SidebarMenu.jsx", 55]]
+	},
+	"<0/>  <1>Cloud storage</1>": {
+		"translation": "<0/>  <1>Cloud storage</1>",
+		"origin": [["src/components/common/SidebarMenu.jsx", 72]]
+	},
+	"<0/>  <1>Create class</1>": {
+		"translation": "<0/>  <1>Create class</1>",
+		"origin": [["src/components/common/SidebarMenu.jsx", 43]]
+	},
+	"<0/>  <1>Dashboard</1>": {
+		"translation": "<0/>  <1>Dashboard</1>",
+		"origin": [["src/components/common/SidebarMenu.jsx", 31]]
+	},
+	"<0/>  <1>Feedback</1>": {
+		"translation": "<0/>  <1>Feedback</1>",
+		"origin": [["src/components/common/SidebarMenu.jsx", 67]]
+	},
+	"<0/>  <1>Manage classes</1>": {
+		"translation": "<0/>  <1>Manage classes</1>",
+		"origin": [["src/components/common/SidebarMenu.jsx", 39]]
+	},
+	"<0/>  <1>Payout</1>": {
+		"translation": "<0/>  <1>Payout</1>",
+		"origin": [["src/components/common/SidebarMenu.jsx", 59]]
+	},
+	"<0/>  <1>Referral</1>": {
+		"translation": "<0/>  <1>Referral</1>",
+		"origin": [["src/components/common/SidebarMenu.jsx", 63]]
+	},
+	"<0/>  <1>Resources</1>": {
+		"translation": "<0/>  <1>Resources</1>",
+		"origin": [["src/components/common/SidebarMenu.jsx", 51]]
+	},
+	"<0/>  <1>Reviews</1>": {
+		"translation": "<0/>  <1>Reviews</1>",
+		"origin": [["src/components/common/SidebarMenu.jsx", 47]]
+	},
+	"<0/>  <1>Social media rewards</1>": {
+		"translation": "<0/>  <1>Social media rewards</1>",
+		"origin": [["src/components/common/SidebarMenu.jsx", 76]]
+	},
+	"<0/>  <1>View profile</1>": {
+		"translation": "<0/>  <1>View profile</1>",
+		"origin": [["src/components/common/SidebarMenu.jsx", 35]]
+	},
+	"<0/>Cudy updates": {
+		"translation": "<0/>Cudy updates",
+		"origin": [["src/components/Navbar.jsx", 142]],
+		"obsolete": true
+	},
+	"<0/>See notifications": {
+		"translation": "<0/>See notifications",
+		"origin": [["src/components/common/MenuDrawer.jsx", 257]]
+	},
+	"<0><1/> Indonesia</0>": {
+		"translation": "<0><1/> Indonesia</0>",
+		"origin": [["src/pages/Signup/index.js", 248]],
+		"obsolete": true
+	},
+	"<0><1/> Singapore</0>": {
+		"translation": "<0><1/> Singapore</0>",
+		"origin": [["src/pages/Signup/index.js", 237]],
+		"obsolete": true
+	},
+	"<0>Back to Home</0>": {
+		"translation": "<0>Back to Home</0>",
+		"origin": [["src/pages/Signup/RegisterSuccess.jsx", 99]]
+	},
+	"<0>Back</0>": {
+		"translation": "<0>Back</0>",
+		"origin": [
+			["src/pages/OnboardingStudents/Basic.jsx", 164],
+			["src/pages/OnboardingStudents/Curriculum.jsx", 61]
+		]
+	},
+	"<0>Cudy Pte Ltd · all rights reserved 2019</0>": {
+		"translation": "<0>Cudy Pte Ltd · all rights reserved 2019</0>",
+		"origin": [
+			["src/components/Layout.jsx", 135],
+			["src/components/Layout.jsx", 156]
+		],
+		"obsolete": true
+	},
+	"<0>I have agreed to the <1>terms and conditions</1> and <2>privacy policy</2> of the site</0>": {
+		"translation": "<0>I have agreed to the <1>terms and conditions</1> and <2>privacy policy</2> of the site</0>",
+		"origin": [
+			["src/pages/Counselling/Signup.jsx", 245],
+			["src/pages/Signup/index.jsx", 274]
+		]
+	},
+	"<0>It looks like your account is not verified yet. <1>Send me another email verification</1></0>": {
+		"translation": "<0>It looks like your account is not verified yet. <1>Send me another email verification</1></0>",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/CompanyLogin.jsx", 81],
+			["src/pages/Signin/index.jsx", 127]
+		]
+	},
+	"<0>Join now <1/></0>": {
+		"translation": "<0>Join now <1/></0>",
+		"origin": [["src/pages/Signup/RegisterSuccess.jsx", 89]]
+	},
+	"<0>Mind to spread some words?</0>": {
+		"translation": "<0>Mind to spread some words?</0>",
+		"origin": [["src/pages/Signup/RegisterSuccess.jsx", 65]]
+	},
+	"<0>Refresh page</0>": {
+		"translation": "<0>Refresh page</0>",
+		"origin": [["src/App.jsx", 140]]
+	},
+	"<0>Save changes</0>": {
+		"translation": "<0>Save changes</0>",
+		"origin": [
+			["src/pages/Tutor/Settings/index.jsx", 423],
+			["src/pages/Tutor/Settings/index.jsx", 516]
+		]
+	},
+	"<0>Show updates</0>": {
+		"translation": "<0>Show updates</0>",
+		"origin": [["src/components/Layout.js", 145]],
+		"obsolete": true
+	},
+	"<0>Showing <1>{0} Contents</1></0>": {
+		"translation": "<0>Showing <1>{0} Contents</1></0>",
+		"origin": [["src/pages/BrowseListing/index.jsx", 236]]
+	},
+	"<0>Showing <1>{0} tutors</1></0>": {
+		"translation": "<0>Showing <1>{0} tutors</1></0>",
+		"origin": [
+			["src/pages/Lifelong/BrowseCoaches/index.jsx", 170],
+			["src/pages/Marketplace/index.jsx", 273]
+		]
+	},
+	"<0>Tell us some of your details</0>": {
+		"translation": "<0>Tell us some of your details</0>",
+		"origin": [["src/pages/AdditionalInfoTutor/AboutMe.jsx", 78]]
+	},
+	"<0>Tell us whether you'd like to teach academic or non-academic lessons</0>": {
+		"translation": "<0>Tell us whether you'd like to teach academic or non-academic lessons</0>",
+		"origin": [["src/pages/AdditionalInfoTutor/PreferField.jsx", 68]]
+	},
+	"<0>Tell us your name</0>": {
+		"translation": "<0>Tell us your name</0>",
+		"origin": [["src/pages/AdditionalInfoTutor/Name.jsx", 32]]
+	},
+	"> 1 year": {
+		"translation": "> 1 year",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 49]]
+	},
+	"> 2 year": {
+		"translation": "> 2 year",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 50]]
+	},
+	"> 3 year": {
+		"translation": "> 3 year",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 51]]
+	},
+	"> 5 year": {
+		"translation": "> 5 year",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 52]]
+	},
+	"A better profile is the one that has a lot of informations to dig in. Therefore, it's recommended for you, as a tutor, to fill out additional informations you might have to complete your profile.": {
+		"translation": "A better profile is the one that has a lot of informations to dig in. Therefore, it's recommended for you, as a tutor, to fill out additional informations you might have to complete your profile.",
+		"origin": [["src/pages/AdditionalInfoTutor/index.jsx", 297]]
+	},
+	"APayLater": {
+		"translation": "APayLater",
+		"origin": [["src/components/Payments/index.jsx", 135]]
+	},
+	"About me": {
+		"translation": "About me",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/AboutMe.jsx", 76],
+			["src/pages/Tutor/Profile/index.jsx", 759]
+		]
+	},
+	"Academic": {
+		"translation": "Academic",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/PreferField.jsx", 38],
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 178],
+			["src/pages/Tutor/Profile/Subjects.jsx", 287]
+		]
+	},
+	"Accep this booking": {
+		"translation": "Accep this booking",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 723]],
+		"obsolete": true
+	},
+	"Accept": {
+		"translation": "Accept",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 924]]
+	},
+	"Accept this booking": {
+		"translation": "Accept this booking",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 918]]
+	},
+	"Active": {
+		"translation": "Active",
+		"origin": [
+			["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 157],
+			["src/pages/Tutor/Assignments/index.jsx", 88]
+		]
+	},
+	"Add a new certificate": {
+		"translation": "Add a new certificate",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 305],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 137]
+		]
+	},
+	"Add a new certification": {
+		"translation": "Add a new certification",
+		"origin": [["src/pages/Tutor/Profile/_RenderEditCertifications.js", 150]],
+		"obsolete": true
+	},
+	"Add a new education": {
+		"translation": "Add a new education",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 196],
+			["src/pages/Tutor/Profile/Education.jsx", 212]
+		]
+	},
+	"Add a new experience": {
+		"translation": "Add a new experience",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 221],
+			["src/pages/Tutor/Profile/Experiences.jsx", 516]
+		]
+	},
+	"Add a new platform": {
+		"translation": "Add a new platform",
+		"origin": [["src/pages/Tutor/Profile/OtherPlatforms.jsx", 239]]
+	},
+	"Add a new subject": {
+		"translation": "Add a new subject",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 566],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 206],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 271],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 347]
+		]
+	},
+	"Add new": {
+		"translation": "Add new",
+		"origin": [["src/pages/ReadsSection/index.jsx", 23]]
+	},
+	"Add new event": {
+		"translation": "Add new event",
+		"origin": [["src/pages/Tutor/Profile/Calendar/index.jsx", 216]],
+		"obsolete": true
+	},
+	"Add new schedule": {
+		"translation": "Add new schedule",
+		"origin": [["src/pages/Tutor/Profile/Calendar/index.jsx", 272]],
+		"obsolete": true
+	},
+	"Add one": {
+		"translation": "Add one",
+		"origin": [
+			["src/pages/Tutor/Profile/OtherPlatforms.jsx", 137],
+			["src/pages/Tutor/Profile/Skills.jsx", 127]
+		]
+	},
+	"Add testimonials": {
+		"translation": "Add testimonials",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 166]]
+	},
+	"Add your testimonial": {
+		"translation": "Add your testimonial",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 194]]
+	},
+	"Additional notes": {
+		"translation": "Additional notes",
+		"origin": [
+			["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 252],
+			["src/pages/Tutor/Assignments/Post.jsx", 250]
+		]
+	},
+	"Advertise for FREE here and relevant tutors will automatically be notified and apply directly.": {
+		"translation": "Advertise for FREE here and relevant tutors will automatically be notified and apply directly.",
+		"origin": [["src/pages/Tutor/Assignments/Public.jsx", 211]]
+	},
+	"All": {
+		"translation": "All",
+		"origin": [
+			["src/pages/Counselling/BrowseCounsellor/_FilteringPanel.jsx", 127],
+			["src/pages/Counselling/BrowseCounsellor/_FilteringPanel.jsx", 136],
+			["src/pages/Lifelong/BrowseCoaches/_FilteringPanel.jsx", 135],
+			["src/pages/Lifelong/BrowseCoaches/_FilteringPanel.jsx", 145],
+			["src/pages/Marketplace/FilteringPanel.jsx", 133],
+			["src/pages/Marketplace/FilteringPanel.jsx", 142],
+			["src/pages/Marketplace/FilteringPanel.jsx", 151]
+		]
+	},
+	"All curriculums": {
+		"translation": "All curriculums",
+		"origin": [["src/pages/Home/index.js", 307]],
+		"obsolete": true
+	},
+	"All provinces": {
+		"translation": "All provinces",
+		"origin": [["src/pages/Marketplace/index.js", 210]],
+		"obsolete": true
+	},
+	"All subjects": {
+		"translation": "All subjects",
+		"origin": [["src/pages/Home/index.js", 318]],
+		"obsolete": true
+	},
+	"Allow heheh": {
+		"translation": "Allow heheh",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 233]]
+	},
+	"Allow others to join": {
+		"translation": "Allow others to join",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 232]]
+	},
+	"Alphabet": {
+		"translation": "Alphabet",
+		"origin": [
+			["src/pages/BrowseListing/index.jsx", 259],
+			["src/pages/Counselling/BrowseCounsellor/index.jsx", 183],
+			["src/pages/Lifelong/BrowseCoaches/index.jsx", 190],
+			["src/pages/Marketplace/index.jsx", 293]
+		]
+	},
+	"Amount": {
+		"translation": "Amount",
+		"origin": [
+			["src/components/Payments/index.jsx", 75],
+			["src/components/Payments/index.jsx", 98],
+			["src/components/Payments/index.jsx", 122],
+			["src/pages/CudyTranscribe/BuyTranscribeServices/BuyForm.jsx", 260],
+			["src/pages/CudyTranscribe/BuyTranscribeServices/BuyForm.jsx", 286]
+		]
+	},
+	"Amount of testimonials received": {
+		"translation": "Amount of testimonials received",
+		"origin": [["src/components/common/TutorCard.jsx", 125]]
+	},
+	"An unexpected error came i.": {
+		"translation": "An unexpected error came i.",
+		"origin": [["src/pages/ReadsSection/createCudyRead.jsx", 176]]
+	},
+	"An unexpected error came.": {
+		"translation": "An unexpected error came.",
+		"origin": [
+			["src/pages/ReadsSection/Comments/CommentEditor.jsx", 24],
+			["src/pages/ReadsSection/Comments/CommentEditor.jsx", 30],
+			["src/pages/ReadsSection/Comments/CommentEditor.jsx", 36],
+			["src/pages/ReadsSection/_RenderDetails.jsx", 106],
+			["src/pages/ReadsSection/_RenderDetails.jsx", 120],
+			["src/pages/ReadsSection/editCudyRead.jsx", 192],
+			["src/pages/ReadsSection/editCudyRead.jsx", 209],
+			["src/pages/ReadsSection/index.jsx", 55]
+		]
+	},
+	"An unexpected error came.a": {
+		"translation": "An unexpected error came.a",
+		"origin": [["src/pages/ReadsSection/createCudyRead.jsx", 158]]
+	},
+	"Any thought on mind?": {
+		"translation": "Any thought on mind?",
+		"origin": [["src/pages/Home/Feeds.jsx", 252]]
+	},
+	"Approve": {
+		"translation": "Approve",
+		"origin": [["src/pages/ReadsSection/index.jsx", 132]]
+	},
+	"Are you sure this is a name?": {
+		"translation": "Are you sure this is a name?",
+		"origin": [["src/pages/Signup/index.js", 426]],
+		"obsolete": true
+	},
+	"Are you sure this is the right amount?": {
+		"translation": "Are you sure this is the right amount?",
+		"origin": [
+			["src/pages/Tutor/Profile/Subjects.jsx", 405],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 160],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 225],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 291]
+		]
+	},
+	"Are you sure want to skip this at the moment?": {
+		"translation": "Are you sure want to skip this at the moment?",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/index.jsx", 273],
+			["src/pages/OnboardingStudents/index.jsx", 139]
+		]
+	},
+	"Are you sure want to start over the assessment?": {
+		"translation": "Are you sure want to start over the assessment?",
+		"origin": [["src/pages/Counselling/Assessment/index.jsx", 176]]
+	},
+	"Article": {
+		"translation": "Article",
+		"origin": [["src/pages/ReadsSection/index.jsx", 200]]
+	},
+	"Article Deleted Successfully.": {
+		"translation": "Article Deleted Successfully.",
+		"origin": [["src/pages/ReadsSection/_RenderDetails.jsx", 130]]
+	},
+	"Assignment by": {
+		"translation": "Assignment by",
+		"origin": [["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 151]]
+	},
+	"Assignments": {
+		"translation": "Assignments",
+		"origin": [["src/helpers/hooks/data.js", 363]]
+	},
+	"Available at": {
+		"translation": "Available at",
+		"origin": [["src/pages/StudyShop/Modal.jsx", 77]]
+	},
+	"Average price/hour": {
+		"translation": "Average price/hour",
+		"origin": [["src/pages/Tutor/Profile/Subjects.jsx", 211]],
+		"obsolete": true
+	},
+	"Back": {
+		"translation": "Back",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/AboutMe.jsx", 167],
+			["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 145]
+		]
+	},
+	"Back home": {
+		"translation": "Back home",
+		"origin": [
+			["src/components/common/ConditionalPage.jsx", 35],
+			["src/components/common/ConditionalPage.jsx", 71]
+		]
+	},
+	"Back to Home": {
+		"translation": "Back to Home",
+		"origin": [
+			["src/pages/Counselling/Assessment/Success.jsx", 96],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ForgetPasswordSent.jsx", 82],
+			["src/pages/ForgotPassword/Sent.jsx", 63],
+			["src/pages/Tutor/Profile/TestimonialSuccess.jsx", 37]
+		]
+	},
+	"Back to Reads": {
+		"translation": "Back to Reads",
+		"origin": [["src/pages/ReadsSection/readSuccess.jsx", 35]]
+	},
+	"Bank Transfer": {
+		"translation": "Bank Transfer",
+		"origin": [
+			["src/components/Payments/index.jsx", 111],
+			["src/pages/CudyTranscribe/BuyTranscribeServices/BuyForm.jsx", 303]
+		]
+	},
+	"Based on curriculums...": {
+		"translation": "Based on curriculums...",
+		"origin": [["src/pages/Home/index.js", 305]],
+		"obsolete": true
+	},
+	"Based on subjects...": {
+		"translation": "Based on subjects...",
+		"origin": [["src/pages/Home/index.js", 316]],
+		"obsolete": true
+	},
+	"Basic": {
+		"translation": "Basic",
+		"origin": [
+			["src/pages/Tutor/Settings/index.jsx", 356],
+			["src/pages/Tutor/Settings/index.jsx", 359]
+		]
+	},
+	"Basic profile": {
+		"translation": "Basic profile",
+		"origin": [["src/pages/OnboardingStudents/Basic.jsx", 76]]
+	},
+	"Be counsellor in <0>Cudy</0> today": {
+		"translation": "Be counsellor in <0>Cudy</0> today",
+		"origin": [["src/pages/Counselling/Signup.jsx", 159]]
+	},
+	"Blog": {
+		"translation": "Blog",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 960]]
+	},
+	"Booing Pending": {
+		"translation": "Booing Pending",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 683]],
+		"obsolete": true
+	},
+	"Book Tutor": {
+		"translation": "Book Tutor",
+		"origin": [["src/components/Booking.jsx", 32]]
+	},
+	"Book this date": {
+		"translation": "Book this date",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 347]]
+	},
+	"Booking Pending": {
+		"translation": "Booking Pending",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 879]]
+	},
+	"Booking Success": {
+		"translation": "Booking Success",
+		"origin": [["src/components/Payments/index.jsx", 213]]
+	},
+	"Booking this tutor": {
+		"translation": "Booking this tutor",
+		"origin": [["src/components/Booking.jsx", 30]]
+	},
+	"Booking {0}'s": {
+		"translation": "Booking {0}'s",
+		"origin": [["src/components/Booking.jsx", 15]]
+	},
+	"Browse by featured items or e-commerce sites.": {
+		"translation": "Browse by featured items or e-commerce sites.",
+		"origin": [["src/pages/StudyShop/HowtoModal.jsx", 26]]
+	},
+	"Browse coaches": {
+		"translation": "Browse coaches",
+		"origin": [["src/helpers/hooks/data.js", 356]]
+	},
+	"Browse items": {
+		"translation": "Browse items",
+		"origin": [["src/pages/StudyShop/HowtoModal.jsx", 25]]
+	},
+	"Browse tutors": {
+		"translation": "Browse tutors",
+		"origin": [["src/helpers/hooks/data.js", 356]]
+	},
+	"Buy": {
+		"translation": "Buy",
+		"origin": [["src/pages/StudyShop/HowtoModal.jsx", 46]]
+	},
+	"Buy now <0/>": {
+		"translation": "Buy now <0/>",
+		"origin": [["src/pages/StudyShop/Modal.jsx", 88]]
+	},
+	"By uploading your introduction videos, there will be a higher chance for you to attract other students/parents.": {
+		"translation": "By uploading your introduction videos, there will be a higher chance for you to attract other students/parents.",
+		"origin": [["src/pages/Tutor/Profile/IntroVideos.jsx", 178]]
+	},
+	"Cancel": {
+		"translation": "Cancel",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 247],
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 114],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 330],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 282],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 320],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 365],
+			["src/pages/Tutor/Profile/AboutMe.jsx", 121],
+			["src/pages/Tutor/Profile/AddTestimonials.jsx", 149],
+			["src/pages/Tutor/Profile/AvatarCard.jsx", 267],
+			["src/pages/Tutor/Profile/Education.jsx", 135],
+			["src/pages/Tutor/Profile/Education.jsx", 215],
+			["src/pages/Tutor/Profile/Experiences.jsx", 400],
+			["src/pages/Tutor/Profile/Experiences.jsx", 519],
+			["src/pages/Tutor/Profile/OtherPlatforms.jsx", 199],
+			["src/pages/Tutor/Profile/OtherPlatforms.jsx", 242],
+			["src/pages/Tutor/Profile/ProfileCover.jsx", 128],
+			["src/pages/Tutor/Profile/Skills.jsx", 97],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 140],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 229],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 58],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 94],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 142],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 209],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 274],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 350],
+			["src/pages/Tutor/Settings/index.jsx", 463],
+			["src/pages/Tutor/Settings/index.jsx", 600]
+		]
+	},
+	"Cancel and go to Home": {
+		"translation": "Cancel and go to Home",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 202]]
+	},
+	"Cannot process to payment with different country": {
+		"translation": "Cannot process to payment with different country",
+		"origin": [["src/components/Payments/index.jsx", 223]]
+	},
+	"Categories": {
+		"translation": "Categories",
+		"origin": [
+			["src/pages/Counselling/BrowseCounsellor/_FilteringPanel.jsx", 122],
+			["src/pages/Lifelong/BrowseCoaches/_FilteringPanel.jsx", 128]
+		]
+	},
+	"Certificate details has been updated": {
+		"translation": "Certificate details has been updated",
+		"origin": [["src/pages/Tutor/Profile/Certifications.jsx", 45]]
+	},
+	"Certificate has been added": {
+		"translation": "Certificate has been added",
+		"origin": [["src/pages/Tutor/Profile/Certifications.jsx", 34]]
+	},
+	"Certificate has been deleted": {
+		"translation": "Certificate has been deleted",
+		"origin": [["src/pages/Tutor/Profile/Certifications.jsx", 63]]
+	},
+	"Certifications": {
+		"translation": "Certifications",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 162],
+			["src/pages/Tutor/Profile/index.jsx", 858]
+		]
+	},
+	"Change my password": {
+		"translation": "Change my password",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/NewPassword.jsx", 86],
+			["src/pages/ForgotPassword/NewPassword.jsx", 74]
+		]
+	},
+	"Change password": {
+		"translation": "Change password",
+		"origin": [
+			["src/pages/Tutor/Settings/index.jsx", 528],
+			["src/pages/Tutor/Settings/index.jsx", 530]
+		]
+	},
+	"Change profile picture": {
+		"translation": "Change profile picture",
+		"origin": [
+			["src/pages/Tutor/Profile/AvatarCard.jsx", 285],
+			["src/pages/Tutor/Settings/index.jsx", 488]
+		]
+	},
+	"Change video": {
+		"translation": "Change video",
+		"origin": [["src/pages/Tutor/Profile/IntroVideos.jsx", 269]]
+	},
+	"Change your profile banner": {
+		"translation": "Change your profile banner",
+		"origin": [["src/pages/Tutor/Profile/ProfileCover.jsx", 139]]
+	},
+	"Changing your profile banner...": {
+		"translation": "Changing your profile banner...",
+		"origin": [["src/pages/Tutor/Profile/ProfileCover.jsx", 104]]
+	},
+	"Chat": {
+		"translation": "Chat",
+		"origin": [["src/pages/BookingList/index.jsx", 96]]
+	},
+	"Chinese": {
+		"translation": "Chinese",
+		"origin": [["src/pages/OnboardingStudents/Basic.js", 25]],
+		"obsolete": true
+	},
+	"Choose friends to join": {
+		"translation": "Choose friends to join",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 248]],
+		"obsolete": true
+	},
+	"Choose section": {
+		"translation": "Choose section",
+		"origin": [["src/pages/Tutor/Profile/_CompleteProfileModal.jsx", 74]]
+	},
+	"Choose subject they teached": {
+		"translation": "Choose subject they teached",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 180]]
+	},
+	"Choose the date": {
+		"translation": "Choose the date",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 94],
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 103],
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 151],
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 158]
+		]
+	},
+	"Choose the date...": {
+		"translation": "Choose the date...",
+		"origin": [
+			["src/pages/Tutor/Profile/Calendar/index.jsx", 200],
+			["src/pages/Tutor/Profile/Calendar/index.jsx", 204]
+		],
+		"obsolete": true
+	},
+	"Choose the section...": {
+		"translation": "Choose the section...",
+		"origin": [["src/pages/Tutor/Profile/_CompleteProfileModal.jsx", 75]]
+	},
+	"Choose your location...": {
+		"translation": "Choose your location...",
+		"origin": [["src/pages/Tutor/Assignments/Post.js", 57]],
+		"obsolete": true
+	},
+	"Choose your preferred country": {
+		"translation": "Choose your preferred country",
+		"origin": [
+			["src/pages/Counselling/Signup.jsx", 225],
+			["src/pages/Signup/index.jsx", 254]
+		]
+	},
+	"Choose your preferred location...": {
+		"translation": "Choose your preferred location...",
+		"origin": [
+			["src/pages/Tutor/Assignments/Post.jsx", 226],
+			["src/pages/Tutor/Assignments/Public.jsx", 160]
+		]
+	},
+	"Cities": {
+		"translation": "Cities",
+		"origin": [
+			["src/pages/Counselling/BrowseCounsellor/_FilteringPanel.jsx", 131],
+			["src/pages/Lifelong/BrowseCoaches/_FilteringPanel.jsx", 140],
+			["src/pages/Marketplace/FilteringPanel.jsx", 146]
+		]
+	},
+	"Click here or drag and drop your content to this area": {
+		"translation": "Click here or drag and drop your content to this area",
+		"origin": [["src/pages/BrowseListing/index.jsx", 347]]
+	},
+	"Click here or drag and drop your story": {
+		"translation": "Click here or drag and drop your story",
+		"origin": [["src/components/Stories/AddStories.jsx", 176]]
+	},
+	"Click here or drag and drop your video / audio to this area": {
+		"translation": "Click here or drag and drop your video / audio to this area",
+		"origin": [
+			["src/pages/CudyTranscribe/AddNewSubtitles.jsx", 258],
+			["src/pages/CudyTranscribe/TranscribesTable.jsx", 513]
+		]
+	},
+	"Click here or drag and drop your video to this area": {
+		"translation": "Click here or drag and drop your video to this area",
+		"origin": [["src/pages/Tutor/Profile/IntroVideos.jsx", 254]]
+	},
+	"Click join button to join room please.": {
+		"translation": "Click join button to join room please.",
+		"origin": [["src/pages/CudyClasses/ClassJoinPage.jsx", 42]]
+	},
+	"Click on the item or e-commerce site you wish to make a purchase": {
+		"translation": "Click on the item or e-commerce site you wish to make a purchase",
+		"origin": [["src/pages/StudyShop/HowtoModal.jsx", 33]]
+	},
+	"Click or drag and drop your certification": {
+		"translation": "Click or drag and drop your certification",
+		"origin": [["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 192]]
+	},
+	"Click to make a booking": {
+		"translation": "Click to make a booking",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 947]]
+	},
+	"Cmd + Enter (or Ctrl + Enter in Windows) to submit": {
+		"translation": "Cmd + Enter (or Ctrl + Enter in Windows) to submit",
+		"origin": [["src/pages/Home/ModalReply.jsx", 128]]
+	},
+	"Cmd + Enter to submit": {
+		"translation": "Cmd + Enter to submit",
+		"origin": [["src/pages/Home/ModalReply.js", 112]],
+		"obsolete": true
+	},
+	"Complete my profile now": {
+		"translation": "Complete my profile now",
+		"origin": [["src/components/common/ProfileCompletion.jsx", 84]]
+	},
+	"Complete your profile": {
+		"translation": "Complete your profile",
+		"origin": [
+			["src/components/Navbar.jsx", 113],
+			["src/components/common/MenuDrawer.jsx", 141]
+		]
+	},
+	"Copy link": {
+		"translation": "Copy link",
+		"origin": [
+			["src/pages/Tutor/Profile/index.jsx", 600],
+			["src/pages/Tutor/Profile/index.jsx", 631]
+		]
+	},
+	"Copy the profile's URL": {
+		"translation": "Copy the profile's URL",
+		"origin": [["src/pages/Tutor/Profile/ShareModal.jsx", 30]]
+	},
+	"Counselling": {
+		"translation": "Counselling",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/PreferField.jsx", 50],
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 226],
+			["src/pages/Tutor/Profile/Subjects.jsx", 352]
+		]
+	},
+	"Create Class": {
+		"translation": "Create Class",
+		"origin": [["src/pages/BookingList/index.jsx", 82]],
+		"obsolete": true
+	},
+	"Create account": {
+		"translation": "Create account",
+		"origin": [
+			["src/pages/Counselling/Signup.jsx", 261],
+			["src/pages/Signup/index.jsx", 296]
+		]
+	},
+	"Create class fiald.": {
+		"translation": "Create class fiald.",
+		"origin": [["src/pages/CudyClasses/CreateClass.jsx", 69]]
+	},
+	"Created Success": {
+		"translation": "Created Success",
+		"origin": [["src/pages/CudyTranscribe/TTSForm.jsx", 88]]
+	},
+	"Created class success": {
+		"translation": "Created class success",
+		"origin": [["src/pages/CudyClasses/CreateClass.jsx", 63]]
+	},
+	"Credit Card": {
+		"translation": "Credit Card",
+		"origin": [["src/components/Payments/index.jsx", 88]]
+	},
+	"Cudy": {
+		"translation": "Cudy",
+		"origin": [
+			["src/components/Navbar.jsx", 256],
+			["src/components/Navbar.jsx", 262]
+		]
+	},
+	"Cudy Pte Ltd · all rights reserved 2019": {
+		"translation": "Cudy Pte Ltd · all rights reserved 2019",
+		"origin": [["src/components/Footer.jsx", 55]],
+		"obsolete": true
+	},
+	"Cudy Technologies · all rights reserved 2021.": {
+		"translation": "Cudy Technologies · all rights reserved 2021.",
+		"origin": [["src/components/Footer.jsx", 81]]
+	},
+	"Cudy Transcribe": {
+		"translation": "Cudy Transcribe",
+		"origin": [["src/helpers/hooks/data.js", 397]]
+	},
+	"Currently we are under maintenance. We'll get back to you very soon. Thanks! :)": {
+		"translation": "Currently we are under maintenance. We'll get back to you very soon. Thanks! :)",
+		"origin": [["src/components/common/ConditionalPage.jsx", 52]]
+	},
+	"Curriculum": {
+		"translation": "Curriculum",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 283],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 284],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 387],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 388],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 346],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 347],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 515],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 516],
+			["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 220],
+			["src/pages/Tutor/Assignments/index.jsx", 99],
+			["src/pages/Tutor/Profile/Experiences.jsx", 357],
+			["src/pages/Tutor/Profile/Experiences.jsx", 358],
+			["src/pages/Tutor/Profile/Experiences.jsx", 459],
+			["src/pages/Tutor/Profile/Experiences.jsx", 460],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 121],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 122],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 316],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 317]
+		]
+	},
+	"Curriculum and level": {
+		"translation": "Curriculum and level",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 511]]
+	},
+	"Curriculums": {
+		"translation": "Curriculums",
+		"origin": [["src/pages/Marketplace/FilteringPanel.jsx", 128]]
+	},
+	"DOB": {
+		"translation": "DOB",
+		"origin": [
+			["src/pages/Tutor/Settings/index.jsx", 405],
+			["src/pages/Tutor/Settings/index.jsx", 407]
+		]
+	},
+	"Danger zone": {
+		"translation": "Danger zone",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 575]]
+	},
+	"Date joined": {
+		"translation": "Date joined",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 295],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 296],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 400],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 401],
+			["src/pages/Tutor/Profile/Education.jsx", 116],
+			["src/pages/Tutor/Profile/Education.jsx", 172],
+			["src/pages/Tutor/Profile/Experiences.jsx", 368],
+			["src/pages/Tutor/Profile/Experiences.jsx", 369],
+			["src/pages/Tutor/Profile/Experiences.jsx", 471],
+			["src/pages/Tutor/Profile/Experiences.jsx", 472]
+		]
+	},
+	"Date of birth": {
+		"translation": "Date of birth",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/AboutMe.jsx", 103],
+			["src/pages/OnboardingStudents/Basic.jsx", 100]
+		]
+	},
+	"Date resigned": {
+		"translation": "Date resigned",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 305],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 306],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 410],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 411],
+			["src/pages/Tutor/Profile/Experiences.jsx", 377],
+			["src/pages/Tutor/Profile/Experiences.jsx", 378],
+			["src/pages/Tutor/Profile/Experiences.jsx", 480],
+			["src/pages/Tutor/Profile/Experiences.jsx", 481]
+		]
+	},
+	"Delete": {
+		"translation": "Delete",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 293],
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 169],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 434],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 430],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 478],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 537],
+			["src/pages/ReadsSection/index.jsx", 164],
+			["src/pages/Tutor/Profile/Education.jsx", 197],
+			["src/pages/Tutor/Profile/Experiences.jsx", 505],
+			["src/pages/Tutor/Profile/OtherPlatforms.jsx", 231],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 118],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 197],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 262],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 337]
+		]
+	},
+	"Delete my account": {
+		"translation": "Delete my account",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 596]]
+	},
+	"Delete this certificate?": {
+		"translation": "Delete this certificate?",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 289],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 114]
+		]
+	},
+	"Delete this education?": {
+		"translation": "Delete this education?",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 167],
+			["src/pages/Tutor/Profile/Education.jsx", 193]
+		]
+	},
+	"Delete this event": {
+		"translation": "Delete this event",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 169]],
+		"obsolete": true
+	},
+	"Delete this experience?": {
+		"translation": "Delete this experience?",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 432],
+			["src/pages/Tutor/Profile/Experiences.jsx", 502]
+		]
+	},
+	"Delete this introduction video?": {
+		"translation": "Delete this introduction video?",
+		"origin": [["src/components/VideoCard.jsx", 111]]
+	},
+	"Delete this platform?": {
+		"translation": "Delete this platform?",
+		"origin": [["src/pages/Tutor/Profile/OtherPlatforms.jsx", 229]]
+	},
+	"Delete this subject?": {
+		"translation": "Delete this subject?",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 428],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 476],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 535],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 193],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 258],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 334]
+		]
+	},
+	"Delete your account?": {
+		"translation": "Delete your account?",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 608]]
+	},
+	"Deleted Faild": {
+		"translation": "Deleted Faild",
+		"origin": [["src/pages/CudyTranscribe/TranscribesTable.jsx", 441]]
+	},
+	"Deleted Success": {
+		"translation": "Deleted Success",
+		"origin": [["src/pages/CudyTranscribe/TranscribesTable.jsx", 439]]
+	},
+	"Describe how important their Profile is once it's completed": {
+		"translation": "Describe how important their Profile is once it's completed",
+		"origin": [["src/pages/Tutor/Profile/_CompleteProfileModal.jsx", 83]]
+	},
+	"Description": {
+		"translation": "Description",
+		"origin": [["src/pages/StudyShop/Modal.jsx", 85]]
+	},
+	"Didn't receive the verification email?": {
+		"translation": "Didn't receive the verification email?",
+		"origin": [["src/pages/Signup/RegisterSuccess.jsx", 59]]
+	},
+	"Dislike": {
+		"translation": "Dislike",
+		"origin": [["src/pages/Home/Feeds.jsx", 308]]
+	},
+	"Don't forget the email": {
+		"translation": "Don't forget the email",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 226]]
+	},
+	"Don't forget the rating": {
+		"translation": "Don't forget the rating",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 215]]
+	},
+	"Don't forget the review": {
+		"translation": "Don't forget the review",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 216]]
+	},
+	"Don't forget to check your spam/junk folder too :)": {
+		"translation": "Don't forget to check your spam/junk folder too :)",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ForgetPasswordSent.jsx", 60],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/Resent.jsx", 43],
+			["src/pages/ForgotPassword/Sent.jsx", 50],
+			["src/pages/ResendVerification/Resent.jsx", 37],
+			["src/pages/Signup/RegisterSuccess.jsx", 55],
+			["src/pages/Tutor/Profile/TestimonialSuccess.jsx", 32]
+		]
+	},
+	"Don't forget your first name": {
+		"translation": "Don't forget your first name",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 224]]
+	},
+	"Don't forget your last name": {
+		"translation": "Don't forget your last name",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 225]]
+	},
+	"Don't miss out any notifications from others": {
+		"translation": "Don't miss out any notifications from others",
+		"origin": [["src/components/common/NotificationPanel.jsx", 74]]
+	},
+	"Done!": {
+		"translation": "Done!",
+		"origin": [["src/pages/StudyShop/HowtoModal.jsx", 53]]
+	},
+	"Drag and drop your certification": {
+		"translation": "Drag and drop your certification",
+		"origin": [["src/pages/AdditionalInfoTutor/Certifications.jsx", 209]]
+	},
+	"Drag and drop your video to this area": {
+		"translation": "Drag and drop your video to this area",
+		"origin": [["src/pages/Tutor/Profile/IntroVideos.js", 234]],
+		"obsolete": true
+	},
+	"Duration": {
+		"translation": "Duration",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 280]]
+	},
+	"E-commerce site": {
+		"translation": "E-commerce site",
+		"origin": [["src/pages/StudyShop/HowtoModal.jsx", 39]]
+	},
+	"E.g. 87888788": {
+		"translation": "E.g. 87888788",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/AboutMe.jsx", 112],
+			["src/pages/OnboardingStudents/Basic.jsx", 109]
+		]
+	},
+	"E.g. Eduhub": {
+		"translation": "E.g. Eduhub",
+		"origin": [["src/pages/StudyPlaces/Places.js", 111]],
+		"obsolete": true
+	},
+	"E.g. Eduhub...": {
+		"translation": "E.g. Eduhub...",
+		"origin": [["src/pages/StudyPlaces/StudyCenter/index.js", 120]],
+		"obsolete": true
+	},
+	"E.g. Felix Ong, or Surabaya...": {
+		"translation": "E.g. Felix Ong, or Surabaya...",
+		"origin": [
+			["src/pages/Counselling/BrowseCounsellor/_FilteringPanel.jsx", 100],
+			["src/pages/Lifelong/BrowseCoaches/_FilteringPanel.jsx", 106],
+			["src/pages/Marketplace/FilteringPanel.jsx", 106]
+		]
+	},
+	"E.g. Felix Ong...": {
+		"translation": "E.g. Felix Ong...",
+		"origin": [["src/pages/Marketplace/FilteringPanel.js", 105]],
+		"obsolete": true
+	},
+	"E.g. I am Jenny Ang, a": {
+		"translation": "E.g. I am Jenny Ang, a",
+		"origin": [["src/pages/OnboardingStudents/Basic.js", 125]],
+		"obsolete": true
+	},
+	"E.g. I am Jenny Ang, a 24-year old professional English tutor. I have 6-year experiences tutoring, both in freelance and worked under agency.": {
+		"translation": "E.g. I am Jenny Ang, a 24-year old professional English tutor. I have 6-year experiences tutoring, both in freelance and worked under agency.",
+		"origin": [["src/pages/AdditionalInfoTutor/AboutMe.jsx", 158]]
+	},
+	"E.g. I am Jenny Ang, a professional tutor from Singapore with more than 3-year teaching experience, etc": {
+		"translation": "E.g. I am Jenny Ang, a professional tutor from Singapore with more than 3-year teaching experience, etc",
+		"origin": [["src/pages/OnboardingStudents/Basic.jsx", 155]]
+	},
+	"E.g. Nanyang Polytechnic": {
+		"translation": "E.g. Nanyang Polytechnic",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 78],
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 139]
+		]
+	},
+	"E.g. Study center in Bandung": {
+		"translation": "E.g. Study center in Bandung",
+		"origin": [["src/pages/StudyPlaces/StudyCenter/index.jsx", 110]]
+	},
+	"E.g. Study places in Bandung": {
+		"translation": "E.g. Study places in Bandung",
+		"origin": [["src/pages/StudyPlaces/Places.jsx", 118]]
+	},
+	"E.g. Toa Payoh, Dhoby Ghaut, etc...": {
+		"translation": "E.g. Toa Payoh, Dhoby Ghaut, etc...",
+		"origin": [["src/pages/Tutor/Profile/Calendar/index.jsx", 211]],
+		"obsolete": true
+	},
+	"E.g. Urgently need a mathematic tutor of Primary 4": {
+		"translation": "E.g. Urgently need a mathematic tutor of Primary 4",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 170]]
+	},
+	"E.g. jennysalim@example.com": {
+		"translation": "E.g. jennysalim@example.com",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ResendVerification.jsx", 70],
+			["src/pages/ResendVerification/index.jsx", 62],
+			["src/pages/Tutor/Profile/AddTestimonials.jsx", 126]
+		]
+	},
+	"Edit": {
+		"translation": "Edit",
+		"origin": [
+			["src/pages/ReadsSection/_RenderDetails.jsx", 189],
+			["src/pages/ReadsSection/index.jsx", 151],
+			["src/pages/ReadsSection/index.jsx", 210]
+		]
+	},
+	"Edit Reads": {
+		"translation": "Edit Reads",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 973]]
+	},
+	"Edit Success": {
+		"translation": "Edit Success",
+		"origin": [["src/pages/CudyTranscribe/TTSForm.jsx", 103]]
+	},
+	"Education": {
+		"translation": "Education",
+		"origin": [
+			["src/pages/Tutor/Profile/index.jsx", 780],
+			["src/pages/Tutor/Settings/index.jsx", 498],
+			["src/pages/Tutor/Settings/index.jsx", 500]
+		]
+	},
+	"Educational background": {
+		"translation": "Educational background",
+		"origin": [["src/pages/AdditionalInfoTutor/Educations.jsx", 185]]
+	},
+	"Eight characters minimum": {
+		"translation": "Eight characters minimum",
+		"origin": [
+			["src/pages/Counselling/Signup.jsx", 288],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/CompanyRegister.jsx", 76],
+			["src/pages/Signup/index.jsx", 323]
+		]
+	},
+	"Enter new password": {
+		"translation": "Enter new password",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/NewPassword.jsx", 55],
+			["src/pages/ForgotPassword/NewPassword.jsx", 52]
+		]
+	},
+	"Enter the email you used to access Cudy": {
+		"translation": "Enter the email you used to access Cudy",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ForgetPassword.jsx", 59],
+			["src/pages/ForgotPassword/index.jsx", 61]
+		]
+	},
+	"Enter your email": {
+		"translation": "Enter your email",
+		"origin": [
+			["src/pages/Counselling/Signup.jsx", 188],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/CompanyLogin.jsx", 67],
+			["src/pages/Signin/index.jsx", 114],
+			["src/pages/Signup/index.jsx", 211]
+		]
+	},
+	"Enter your friends' name": {
+		"translation": "Enter your friends' name",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 239]]
+	},
+	"Enter your new password...": {
+		"translation": "Enter your new password...",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/NewPassword.jsx", 75],
+			["src/pages/ForgotPassword/NewPassword.jsx", 63]
+		]
+	},
+	"Enter your password": {
+		"translation": "Enter your password",
+		"origin": [
+			["src/pages/Counselling/Signup.jsx", 193],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/CompanyLogin.jsx", 74],
+			["src/pages/Signin/index.jsx", 120],
+			["src/pages/Signup/index.jsx", 221]
+		]
+	},
+	"Enter your skills": {
+		"translation": "Enter your skills",
+		"origin": [["src/pages/Tutor/Profile/Skills.jsx", 85]]
+	},
+	"Event google imported": {
+		"translation": "Event google imported",
+		"origin": [["src/pages/Tutor/Profile/Calendar/index.jsx", 46]]
+	},
+	"Event start": {
+		"translation": "Event start",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 161]],
+		"obsolete": true
+	},
+	"Featured": {
+		"translation": "Featured",
+		"origin": [["src/pages/ReadsSection/index.jsx", 133]]
+	},
+	"Featured On": {
+		"translation": "Featured On",
+		"origin": [["src/components/common/CompanyLogo.jsx", 11]]
+	},
+	"Featured tutors from": {
+		"translation": "Featured tutors from",
+		"origin": [["src/pages/Home/index.jsx", 259]]
+	},
+	"Featured tutors from <0>{0}</0>": {
+		"translation": "Featured tutors from <0>{0}</0>",
+		"origin": [["src/pages/Home/index.jsx", 176]],
+		"obsolete": true
+	},
+	"Feeds": {
+		"translation": "Feeds",
+		"origin": [
+			["src/helpers/hooks/data.js", 370],
+			["src/pages/Home/Feeds.jsx", 207],
+			["src/pages/Home/Feeds.jsx", 242]
+		]
+	},
+	"Female": {
+		"translation": "Female",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/AboutMe.jsx", 146],
+			["src/pages/OnboardingStudents/Basic.jsx", 143],
+			["src/pages/Tutor/Assignments/Post.jsx", 216],
+			["src/pages/Tutor/Settings/index.jsx", 402]
+		]
+	},
+	"File type unvalid !": {
+		"translation": "File type unvalid !",
+		"origin": [
+			["src/components/Stories/AddStories.jsx", 88],
+			["src/components/Stories/AddStories.jsx", 88]
+		]
+	},
+	"Filter": {
+		"translation": "Filter",
+		"origin": [["src/pages/Tutor/Assignments/Public.jsx", 192]]
+	},
+	"Filter by location...": {
+		"translation": "Filter by location...",
+		"origin": [
+			["src/pages/Marketplace/index.js", 208],
+			["src/pages/Marketplace/index.js", 212]
+		],
+		"obsolete": true
+	},
+	"Final warning": {
+		"translation": "Final warning",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 316]]
+	},
+	"Find <0>best tutors</0>": {
+		"translation": "Find <0>best tutors</0>",
+		"origin": [["src/pages/Home/index.jsx", 228]]
+	},
+	"Find and Post Tuition Assignments": {
+		"translation": "Find and Post Tuition Assignments",
+		"origin": [["src/pages/Tutor/Assignments/Public.jsx", 209]]
+	},
+	"Find subjects that are suitable the most to you": {
+		"translation": "Find subjects that are suitable the most to you",
+		"origin": [["src/pages/Home/index.jsx", 327]]
+	},
+	"Find the best tutors across Asia, today.": {
+		"translation": "Find the best tutors across Asia, today.",
+		"origin": [["src/pages/Home/index.jsx", 142]],
+		"obsolete": true
+	},
+	"Find the best tutors across Singapore, today.": {
+		"translation": "Find the best tutors across Singapore, today.",
+		"origin": [["src/pages/Home/index.js", 195]],
+		"obsolete": true
+	},
+	"Find tutors now": {
+		"translation": "Find tutors now",
+		"origin": [["src/pages/AdditionalInfoTutor/Thankyou.jsx", 38]]
+	},
+	"Find your tutor": {
+		"translation": "Find your tutor",
+		"origin": [["src/pages/Home/index.js", 297]],
+		"obsolete": true
+	},
+	"Finish <0/>": {
+		"translation": "Finish <0/>",
+		"origin": [["src/pages/OnboardingStudents/Curriculum.jsx", 74]]
+	},
+	"First name": {
+		"translation": "First name",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Name.jsx", 51],
+			["src/pages/OnboardingStudents/Name.jsx", 52],
+			["src/pages/Tutor/Settings/index.jsx", 394],
+			["src/pages/Tutor/Settings/index.jsx", 395]
+		]
+	},
+	"Forgot password": {
+		"translation": "Forgot password",
+		"origin": [["src/pages/ForgotPassword/index.jsx", 50]]
+	},
+	"Forgot you password?": {
+		"translation": "Forgot you password?",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/CompanyLogin.jsx", 102],
+			["src/pages/Signin/index.jsx", 141]
+		]
+	},
+	"Forgot your password? Don't panic. Just tell us your email here.": {
+		"translation": "Forgot your password? Don't panic. Just tell us your email here.",
+		"origin": [["src/pages/ForgotPassword/index.jsx", 51]]
+	},
+	"From": {
+		"translation": "From",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 93],
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 151]
+		]
+	},
+	"From <0/> <1>{0}</1>": {
+		"translation": "From <0/> <1>{0}</1>",
+		"origin": [["src/pages/Tutor/Profile/CudyEvents.jsx", 29]]
+	},
+	"Gender": {
+		"translation": "Gender",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/AboutMe.jsx", 143],
+			["src/pages/OnboardingStudents/Basic.jsx", 140],
+			["src/pages/Tutor/Settings/index.jsx", 399]
+		]
+	},
+	"Get rebates up to": {
+		"translation": "Get rebates up to",
+		"origin": [["src/pages/StudyShop/Modal.jsx", 67]]
+	},
+	"Get to know our tutors from": {
+		"translation": "Get to know our tutors from",
+		"origin": [["src/pages/Home/index.jsx", 287]]
+	},
+	"Get to know our tutors from <0>{0}</0>": {
+		"translation": "Get to know our tutors from <0>{0}</0>",
+		"origin": [["src/pages/Home/index.jsx", 204]],
+		"obsolete": true
+	},
+	"Get your past students to give you a testimonial. Copy the link and share to them. Let them speak! <0>🙋🏼‍♂️</0>": {
+		"translation": "Get your past students to give you a testimonial. Copy the link and share to them. Let them speak! <0>🙋🏼‍♂️</0>",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 611]]
+	},
+	"Get your past students to give you a testimonial. Copy the link and share to them. Let them speak! 🙋🏼‍♂️": {
+		"translation": "Get your past students to give you a testimonial. Copy the link and share to them. Let them speak! 🙋🏼‍♂️",
+		"origin": [["src/pages/Tutor/Profile/index.js", 349]],
+		"obsolete": true
+	},
+	"Go to Certifications <0/>": {
+		"translation": "Go to Certifications <0/>",
+		"origin": [["src/pages/AdditionalInfoTutor/Experiences.jsx", 238]]
+	},
+	"Go to Cudy": {
+		"translation": "Go to Cudy",
+		"origin": [
+			["src/components/common/MenuDrawer.jsx", 234],
+			["src/components/common/MenuDrawer.jsx", 241]
+		]
+	},
+	"Go to Cudy {0}": {
+		"translation": "Go to Cudy {0}",
+		"origin": [["src/components/Navbar.jsx", 231]],
+		"obsolete": true
+	},
+	"Go to Educations <0/>": {
+		"translation": "Go to Educations <0/>",
+		"origin": [["src/pages/AdditionalInfoTutor/Subjects.jsx", 583]]
+	},
+	"Go to Experiences <0/>": {
+		"translation": "Go to Experiences <0/>",
+		"origin": [["src/pages/AdditionalInfoTutor/Educations.jsx", 216]]
+	},
+	"Go to Home": {
+		"translation": "Go to Home",
+		"origin": [
+			["src/pages/AccountActive.jsx", 50],
+			["src/pages/Tutor/Assignments/Acceptance.jsx", 35]
+		]
+	},
+	"Go to login": {
+		"translation": "Go to login",
+		"origin": [
+			["src/pages/AccountActive.jsx", 37],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ResendVerification.jsx", 83],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/Resent.jsx", 50],
+			["src/pages/ForgotPassword/PasswordChanged.jsx", 30],
+			["src/pages/ResendVerification/Resent.jsx", 43],
+			["src/pages/ResendVerification/index.jsx", 75]
+		]
+	},
+	"Go to your Profile": {
+		"translation": "Go to your Profile",
+		"origin": [["src/pages/AdditionalInfoTutor/Thankyou.jsx", 38]]
+	},
+	"Great job! :)": {
+		"translation": "Great job! :)",
+		"origin": [["src/pages/Counselling/Assessment/Success.jsx", 59]]
+	},
+	"Great! Now please take a look at your inbox. We've sent you a detail on how to reset your password.": {
+		"translation": "Great! Now please take a look at your inbox. We've sent you a detail on how to reset your password.",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ForgetPasswordSent.jsx", 49],
+			["src/pages/ForgotPassword/Sent.jsx", 44]
+		]
+	},
+	"Great! Now you can try to login using your brand new password. Have fun! :)": {
+		"translation": "Great! Now you can try to login using your brand new password. Have fun! :)",
+		"origin": [["src/pages/ForgotPassword/PasswordChanged.jsx", 24]]
+	},
+	"Great! This is very you!": {
+		"translation": "Great! This is very you!",
+		"origin": [["src/pages/Tutor/Assignments/Acceptance.jsx", 16]]
+	},
+	"Group title missing!": {
+		"translation": "Group title missing!",
+		"origin": [
+			["src/components/Stories/AddHighlightStoriesModel.jsx", 28],
+			["src/components/Stories/AddHighlightStoriesModel.jsx", 28]
+		]
+	},
+	"Help {0} to improve their Profile by requesting them to complete their Profile immediately": {
+		"translation": "Help {0} to improve their Profile by requesting them to complete their Profile immediately",
+		"origin": [["src/pages/Tutor/Profile/_CompleteProfileModal.js", 37]],
+		"obsolete": true
+	},
+	"Help {0} to improve {1} Profile by requesting {2, select, M {his} F {her} other {their}} to complete {3, select, M {his} F {her} other {their}} Profile immediately": {
+		"translation": "Help {0} to improve {1} Profile by requesting {2, select, M {his} F {her} other {their}} to complete {3, select, M {his} F {her} other {their}} Profile immediately",
+		"origin": [["src/pages/Tutor/Profile/_CompleteProfileModal.js", 37]],
+		"obsolete": true
+	},
+	"Help {0} to improve {1} Profile by requesting {2} to complete {3} Profile immediately": {
+		"translation": "Help {0} to improve {1} Profile by requesting {2} to complete {3} Profile immediately",
+		"origin": [["src/pages/Tutor/Profile/_CompleteProfileModal.jsx", 56]]
+	},
+	"Hey tutor, check out this assignment by {0} {1}. Do you think you fit? Then just apply for it at Cudy. Cudy Marketplace is a marketplace for you to find best tutors around Indonesia, Singapore, Malaysia, Philippines, India, Sri Lanka, to teach you anything": {
+		"translation": "Hey tutor, check out this assignment by {0} {1}. Do you think you fit? Then just apply for it at Cudy. Cudy Marketplace is a marketplace for you to find best tutors around Indonesia, Singapore, Malaysia, Philippines, India, Sri Lanka, to teach you anything",
+		"origin": [["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 46]]
+	},
+	"Hey, I've just created an account in Cudy Marketplace. Cudy Marketplace is a marketplace for you to find best tutors around Indonesia, Singapore, Malaysia, Philippines, India, Sri Lanka, to teach you anything": {
+		"translation": "Hey, I've just created an account in Cudy Marketplace. Cudy Marketplace is a marketplace for you to find best tutors around Indonesia, Singapore, Malaysia, Philippines, India, Sri Lanka, to teach you anything",
+		"origin": [
+			["src/components/common/ShareSection.jsx", 74],
+			["src/helpers/constants.js", 20]
+		]
+	},
+	"Hey, I've just created an account in Cudy Marketplace. Cudy Marketplace is a marketplace for you to find best tutors around Singapore, to teach you anything": {
+		"translation": "Hey, I've just created an account in Cudy Marketplace. Cudy Marketplace is a marketplace for you to find best tutors around Singapore, to teach you anything",
+		"origin": [["src/components/common/ShareSection.js", 66]],
+		"obsolete": true
+	},
+	"Hey, check out {0} {1}'s profile on Cudy Marketplace. Cudy Marketplace is a marketplace for you to find best tutors around Indonesia, Singapore, Malaysia, Philippines, India, Sri Lanka, to teach you anything": {
+		"translation": "Hey, check out {0} {1}'s profile on Cudy Marketplace. Cudy Marketplace is a marketplace for you to find best tutors around Indonesia, Singapore, Malaysia, Philippines, India, Sri Lanka, to teach you anything",
+		"origin": [["src/components/common/ShareSection.jsx", 78]]
+	},
+	"Hey, check out {0} {1}'s profile on Cudy Marketplace. Cudy Marketplace is a marketplace for you to find best tutors around Singapore, to teach you anything": {
+		"translation": "Hey, check out {0} {1}'s profile on Cudy Marketplace. Cudy Marketplace is a marketplace for you to find best tutors around Singapore, to teach you anything",
+		"origin": [["src/components/common/ShareSection.js", 78]],
+		"obsolete": true
+	},
+	"Hey, thank you for registering at Cudy! Now please take a look at your inbox and verify your account. Don't worry, won't take you long. We promise.": {
+		"translation": "Hey, thank you for registering at Cudy! Now please take a look at your inbox and verify your account. Don't worry, won't take you long. We promise.",
+		"origin": [["src/pages/Signup/RegisterSuccess.jsx", 48]]
+	},
+	"Hi {0}! I'd like to ask you something regarding the Cudy Marketplace": {
+		"translation": "Hi {0}! I'd like to ask you something regarding the Cudy Marketplace",
+		"origin": [["src/pages/Home/index.jsx", 373]]
+	},
+	"Hi, I really like your Profile. However, I'd like to see more from yours, and I think it's the time for you to complete your profile, so that others can have a better insight about yourself as a tutor.": {
+		"translation": "Hi, I really like your Profile. However, I'd like to see more from yours, and I think it's the time for you to complete your profile, so that others can have a better insight about yourself as a tutor.",
+		"origin": [["src/pages/Tutor/Profile/_CompleteProfileModal.jsx", 31]]
+	},
+	"Hi, {0}": {
+		"translation": "Hi, {0}",
+		"origin": [["src/components/Navbar.jsx", 96]]
+	},
+	"I didn't get the email": {
+		"translation": "I didn't get the email",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ForgetPasswordSent.jsx", 75],
+			["src/pages/ForgotPassword/Sent.jsx", 56]
+		]
+	},
+	"I have no longer been active in education": {
+		"translation": "I have no longer been active in education",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 182]]
+	},
+	"I have read and agreed to the <0>terms and conditions</0>, as well as the <1>privacy policy</1> of the site.": {
+		"translation": "I have read and agreed to the <0>terms and conditions</0>, as well as the <1>privacy policy</1> of the site.",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 130]]
+	},
+	"I have specific reason": {
+		"translation": "I have specific reason",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 176]]
+	},
+	"I registered with wrong role": {
+		"translation": "I registered with wrong role",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 179]]
+	},
+	"I was a private tutor": {
+		"translation": "I was a private tutor",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 314],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 419],
+			["src/pages/Tutor/Profile/Experiences.jsx", 386],
+			["src/pages/Tutor/Profile/Experiences.jsx", 489]
+		]
+	},
+	"I'm currently studying here": {
+		"translation": "I'm currently studying here",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 84],
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 145],
+			["src/pages/Tutor/Profile/Education.jsx", 107],
+			["src/pages/Tutor/Profile/Education.jsx", 162]
+		]
+	},
+	"I'm currently working here": {
+		"translation": "I'm currently working here",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 321],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 424],
+			["src/pages/Tutor/Profile/Experiences.jsx", 391],
+			["src/pages/Tutor/Profile/Experiences.jsx", 494]
+		]
+	},
+	"If for some reasons you would like to delete your Cudy account, you can use this section": {
+		"translation": "If for some reasons you would like to delete your Cudy account, you can use this section",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 577]]
+	},
+	"If you are a tutor, don't forget to join our dedicated community of Tutors in Singapore as well. We've been waiting for you.": {
+		"translation": "If you are a tutor, don't forget to join our dedicated community of Tutors in Singapore as well. We've been waiting for you.",
+		"origin": [["src/pages/Signup/RegisterSuccess.js", 89]],
+		"obsolete": true
+	},
+	"If you are a tutor, don't forget to join our dedicated community of Tutors in {0} as well. We've been waiting for you.": {
+		"translation": "If you are a tutor, don't forget to join our dedicated community of Tutors in {0} as well. We've been waiting for you.",
+		"origin": [["src/pages/Signup/RegisterSuccess.jsx", 83]]
+	},
+	"If you didn't see any email verification we sent to you, then please enter your email address once again, and we'll send a copy": {
+		"translation": "If you didn't see any email verification we sent to you, then please enter your email address once again, and we'll send a copy",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ResendVerification.jsx", 49],
+			["src/pages/ResendVerification/index.jsx", 49]
+		]
+	},
+	"If you don't satisfy with your current password": {
+		"translation": "If you don't satisfy with your current password",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 532]]
+	},
+	"If you give guidance on personal or psychological problems.": {
+		"translation": "If you give guidance on personal or psychological problems.",
+		"origin": [["src/pages/AdditionalInfoTutor/PreferField.jsx", 51]]
+	},
+	"If you only wish to have less than 8 lessons by this tutor, you may use your sotred balance to make bookings with other tutors or services on the platform": {
+		"translation": "If you only wish to have less than 8 lessons by this tutor, you may use your sotred balance to make bookings with other tutors or services on the platform",
+		"origin": [["src/components/Payments/index.jsx", 180]],
+		"obsolete": true
+	},
+	"If you only wish to have less than 8 lessons by this tutor, you may use your stored balance to make bookings with other tutors or services on the platform": {
+		"translation": "If you only wish to have less than 8 lessons by this tutor, you may use your stored balance to make bookings with other tutors or services on the platform",
+		"origin": [["src/components/Payments/index.jsx", 245]]
+	},
+	"If you teach something like Mathematic, History, English, Chemical, etc": {
+		"translation": "If you teach something like Mathematic, History, English, Chemical, etc",
+		"origin": [["src/pages/AdditionalInfoTutor/PreferField.jsx", 39]]
+	},
+	"If you teach something like Music, Photography, Digital Marketing, etc": {
+		"translation": "If you teach something like Music, Photography, Digital Marketing, etc",
+		"origin": [["src/pages/AdditionalInfoTutor/PreferField.jsx", 45]]
+	},
+	"Import events from GCal": {
+		"translation": "Import events from GCal",
+		"origin": [["src/pages/Tutor/Profile/Calendar/index.jsx", 125]]
+	},
+	"In order to access Assignments, you have to login first": {
+		"translation": "In order to access Assignments, you have to login first",
+		"origin": [["src/components/Navbar.jsx", 428]],
+		"obsolete": true
+	},
+	"Inactive": {
+		"translation": "Inactive",
+		"origin": [
+			["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 157],
+			["src/pages/Tutor/Assignments/index.jsx", 88]
+		]
+	},
+	"Indian": {
+		"translation": "Indian",
+		"origin": [["src/pages/OnboardingStudents/Basic.js", 26]],
+		"obsolete": true
+	},
+	"Indicator": {
+		"translation": "Indicator",
+		"origin": [["src/pages/Counselling/Assessment/Success.jsx", 73]]
+	},
+	"Instructions sent!": {
+		"translation": "Instructions sent!",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ForgetPasswordSent.jsx", 47],
+			["src/pages/ForgotPassword/Sent.jsx", 42]
+		]
+	},
+	"Introduction videos": {
+		"translation": "Introduction videos",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 707]]
+	},
+	"Issuer": {
+		"translation": "Issuer",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 226],
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 227],
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 271],
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 272],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 97],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 210],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 211]
+		]
+	},
+	"It doesn't have to be precise": {
+		"translation": "It doesn't have to be precise",
+		"origin": [["src/pages/Tutor/Profile/Calendar.js", 161]],
+		"obsolete": true
+	},
+	"It's been sent!": {
+		"translation": "It's been sent!",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/Resent.jsx", 31],
+			["src/pages/ResendVerification/Resent.jsx", 26]
+		]
+	},
+	"It's changed!": {
+		"translation": "It's changed!",
+		"origin": [["src/pages/ForgotPassword/PasswordChanged.jsx", 23]]
+	},
+	"It's easy to find your best tutors on Cudy. Try it today!": {
+		"translation": "It's easy to find your best tutors on Cudy. Try it today!",
+		"origin": [["src/pages/Home/index.jsx", 174]]
+	},
+	"It's time to complete your profile so other people could recognize you better": {
+		"translation": "It's time to complete your profile so other people could recognize you better",
+		"origin": [["src/pages/OnboardingStudents/index.jsx", 162]]
+	},
+	"Join Cudy today": {
+		"translation": "Join Cudy today",
+		"origin": [["src/pages/Signup/index.jsx", 157]]
+	},
+	"Join Cutors! <0>🙋🏼‍♂️</0>": {
+		"translation": "Join Cutors! <0>🙋🏼‍♂️</0>",
+		"origin": [["src/pages/Signup/RegisterSuccess.jsx", 75]]
+	},
+	"Join Cutors! 🙋🏼‍♂️": {
+		"translation": "Join Cutors! 🙋🏼‍♂️",
+		"origin": [["src/pages/Signup/RegisterSuccess.js", 79]],
+		"obsolete": true
+	},
+	"Join Room": {
+		"translation": "Join Room",
+		"origin": [["src/pages/CudyClasses/ClassJoinPage.jsx", 47]]
+	},
+	"Join our <0>Telegram <1/> channel</0> today": {
+		"translation": "Join our <0>Telegram <1/> channel</0> today",
+		"origin": [["src/pages/Tutor/Assignments/Public.jsx", 219]]
+	},
+	"Join our e-counselling platform to start giving advices to those who in needs": {
+		"translation": "Join our e-counselling platform to start giving advices to those who in needs",
+		"origin": [["src/pages/Counselling/Signup.jsx", 163]]
+	},
+	"Join our learning platform to get more than just family": {
+		"translation": "Join our learning platform to get more than just family",
+		"origin": [["src/pages/Signup/index.jsx", 158]]
+	},
+	"Keep up the good progress": {
+		"translation": "Keep up the good progress",
+		"origin": [["src/components/common/ProfileCompletion.jsx", 61]]
+	},
+	"Last name": {
+		"translation": "Last name",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Name.jsx", 54],
+			["src/pages/OnboardingStudents/Name.jsx", 55],
+			["src/pages/Tutor/Settings/index.jsx", 396],
+			["src/pages/Tutor/Settings/index.jsx", 396]
+		]
+	},
+	"Learn More": {
+		"translation": "Learn More",
+		"origin": [["src/pages/LessonVideo/ListTutor.jsx", 230]]
+	},
+	"Learn more": {
+		"translation": "Learn more",
+		"origin": [["src/pages/StudyShop/index.jsx", 137]]
+	},
+	"Let me fill out everything later <0/>": {
+		"translation": "Let me fill out everything later <0/>",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/index.jsx", 422],
+			["src/pages/OnboardingStudents/index.jsx", 224]
+		]
+	},
+	"Let's be part of the learning revolution in <0><1>Singapore</1><2>Indonesia</2><3>Malaysia</3><4>India</4><5>Vietnam</5><6>Philippines</6><7>Sri Lanka</7></0>": {
+		"translation": "Let's be part of the learning revolution in <0><1>Singapore</1><2>Indonesia</2><3>Malaysia</3><4>India</4><5>Vietnam</5><6>Philippines</6><7>Sri Lanka</7></0>",
+		"origin": [["src/pages/Home/index.jsx", 128]],
+		"obsolete": true
+	},
+	"Let's be part of the learning revolution in {0}<0><1>Singapore</1><2>Indonesia</2><3>Malaysia</3><4>India</4><5>Vietnam</5><6>Philippines</6><7>Sri Lanka</7></0>": {
+		"translation": "Let's be part of the learning revolution in {0}<0><1>Singapore</1><2>Indonesia</2><3>Malaysia</3><4>India</4><5>Vietnam</5><6>Philippines</6><7>Sri Lanka</7></0>",
+		"origin": [["src/pages/Home/index.js", 182]],
+		"obsolete": true
+	},
+	"Let's get started": {
+		"translation": "Let's get started",
+		"origin": [["src/components/Navbar.js", 263]],
+		"obsolete": true
+	},
+	"Like": {
+		"translation": "Like",
+		"origin": [["src/pages/Home/Feeds.jsx", 298]]
+	},
+	"List of tuition center": {
+		"translation": "List of tuition center",
+		"origin": [["src/pages/StudyPlaces/StudyCenter/index.jsx", 119]]
+	},
+	"List of tuition center in Singapore": {
+		"translation": "List of tuition center in Singapore",
+		"origin": [["src/pages/StudyPlaces/StudyCenter/index.js", 129]],
+		"obsolete": true
+	},
+	"Load more...": {
+		"translation": "Load more...",
+		"origin": [["src/pages/Home/Feeds.jsx", 295]],
+		"obsolete": true
+	},
+	"Location": {
+		"translation": "Location",
+		"origin": [
+			["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 236],
+			["src/pages/Tutor/Profile/AboutMe.jsx", 132]
+		]
+	},
+	"Location <0/> <1>{0}</1>": {
+		"translation": "Location <0/> <1>{0}</1>",
+		"origin": [["src/pages/Tutor/Profile/CudyEvents.jsx", 43]]
+	},
+	"Location you are teaching": {
+		"translation": "Location you are teaching",
+		"origin": [["src/pages/Tutor/Profile/Calendar/index.jsx", 210]],
+		"obsolete": true
+	},
+	"Logging you in...": {
+		"translation": "Logging you in...",
+		"origin": [["src/store/actions/authActions.js", 28]]
+	},
+	"Logging you out...": {
+		"translation": "Logging you out...",
+		"origin": [["src/store/actions/authActions.js", 46]]
+	},
+	"Login": {
+		"translation": "Login",
+		"origin": [
+			["src/components/Navbar.jsx", 360],
+			["src/components/Navbar.jsx", 369],
+			["src/components/common/MenuDrawer.jsx", 212],
+			["src/pages/CudyRooms/index.jsx", 290],
+			["src/pages/CudyTranscribe/index.jsx", 114]
+		]
+	},
+	"Login first": {
+		"translation": "Login first",
+		"origin": [
+			["src/pages/CudyClasses/index.jsx", 136],
+			["src/pages/Home/Feeds.jsx", 217]
+		]
+	},
+	"Login instead": {
+		"translation": "Login instead",
+		"origin": [
+			["src/pages/Counselling/Signup.jsx", 266],
+			["src/pages/Signup/index.jsx", 301]
+		]
+	},
+	"Login now": {
+		"translation": "Login now",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/CompanyLogin.jsx", 113],
+			["src/pages/Signin/index.jsx", 147],
+			["src/pages/Tutor/Profile/_RenderTestimonials.jsx", 72]
+		]
+	},
+	"Login to see": {
+		"translation": "Login to see",
+		"origin": [["src/pages/Tutor/Profile/_RenderTestimonials.jsx", 64]]
+	},
+	"Logout": {
+		"translation": "Logout",
+		"origin": [
+			["src/components/Navbar.jsx", 188],
+			["src/components/common/MenuDrawer.jsx", 203]
+		]
+	},
+	"Logout from Google": {
+		"translation": "Logout from Google",
+		"origin": [["src/pages/Tutor/Profile/Calendar/index.jsx", 120]]
+	},
+	"Maintenance": {
+		"translation": "Maintenance",
+		"origin": [["src/components/common/ConditionalPage.jsx", 51]]
+	},
+	"Make your purchase using your e-commerce site personal account": {
+		"translation": "Make your purchase using your e-commerce site personal account",
+		"origin": [["src/pages/StudyShop/HowtoModal.jsx", 47]]
+	},
+	"Malay": {
+		"translation": "Malay",
+		"origin": [["src/pages/OnboardingStudents/Basic.js", 24]],
+		"obsolete": true
+	},
+	"Male": {
+		"translation": "Male",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/AboutMe.jsx", 145],
+			["src/pages/OnboardingStudents/Basic.jsx", 142],
+			["src/pages/Tutor/Assignments/Post.jsx", 215],
+			["src/pages/Tutor/Settings/index.jsx", 401]
+		]
+	},
+	"Mention user with @": {
+		"translation": "Mention user with @",
+		"origin": [["src/pages/Home/MentionInFeed.jsx", 60]]
+	},
+	"Mobile number": {
+		"translation": "Mobile number",
+		"origin": [
+			["src/pages/Tutor/Settings/index.jsx", 417],
+			["src/pages/Tutor/Settings/index.jsx", 418]
+		]
+	},
+	"Name of certification": {
+		"translation": "Name of certification",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 218],
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 219],
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 264],
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 265],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 90],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 203],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 204]
+		]
+	},
+	"Name of platform": {
+		"translation": "Name of platform",
+		"origin": [
+			["src/pages/Tutor/Profile/OtherPlatforms.jsx", 183],
+			["src/pages/Tutor/Profile/OtherPlatforms.jsx", 184],
+			["src/pages/Tutor/Profile/OtherPlatforms.jsx", 213],
+			["src/pages/Tutor/Profile/OtherPlatforms.jsx", 214]
+		]
+	},
+	"Need to get tutors fast for your needs? Post an assignment, and they'll notice": {
+		"translation": "Need to get tutors fast for your needs? Post an assignment, and they'll notice",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 151]]
+	},
+	"New Subtitles": {
+		"translation": "New Subtitles",
+		"origin": [["src/pages/CudyTranscribe/AddNewSubtitles.jsx", 193]]
+	},
+	"New assignment": {
+		"translation": "New assignment",
+		"origin": [["src/pages/Tutor/Assignments/Public.jsx", 137]]
+	},
+	"New password": {
+		"translation": "New password",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/NewPassword.jsx", 76],
+			["src/pages/ForgotPassword/NewPassword.jsx", 64]
+		]
+	},
+	"Newest Posts": {
+		"translation": "Newest Posts",
+		"origin": [["src/pages/ReadsSection/_RenderNewest.jsx", 97]]
+	},
+	"Next": {
+		"translation": "Next",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Name.jsx", 62],
+			["src/pages/AdditionalInfoTutor/PreferField.jsx", 107]
+		]
+	},
+	"Next <0/>": {
+		"translation": "Next <0/>",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/AboutMe.jsx", 172],
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 322],
+			["src/pages/OnboardingStudents/Basic.jsx", 172]
+		]
+	},
+	"No Location": {
+		"translation": "No Location",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 384]]
+	},
+	"No article yet": {
+		"translation": "No article yet",
+		"origin": [
+			["src/pages/ReadsSection/_RenderFeatured.jsx", 152],
+			["src/pages/ReadsSection/_RenderNewest.jsx", 150],
+			["src/pages/ReadsSection/_RenderPopular.jsx", 193],
+			["src/pages/Tutor/Profile/Reads.jsx", 127]
+		]
+	},
+	"No assignment listings found": {
+		"translation": "No assignment listings found",
+		"origin": [["src/pages/Tutor/Assignments/index.jsx", 73]]
+	},
+	"No assignments": {
+		"translation": "No assignments",
+		"origin": [["src/pages/Tutor/Assignments/Public.jsx", 243]]
+	},
+	"No certifications for now": {
+		"translation": "No certifications for now",
+		"origin": [["src/pages/AdditionalInfoTutor/Certifications.jsx", 167]]
+	},
+	"No change to save it": {
+		"translation": "No change to save it",
+		"origin": [
+			["src/pages/CudyTranscribe/TranscribeItem.jsx", 64],
+			["src/pages/CudyTranscribe/TranscribeItem.jsx", 64]
+		]
+	},
+	"No experience yet": {
+		"translation": "No experience yet",
+		"origin": [
+			["src/components/common/TutorCard.jsx", 76],
+			["src/pages/Tutor/Profile/AvatarCard.jsx", 178],
+			["src/pages/Tutor/Profile/index.jsx", 450]
+		]
+	},
+	"No experiences data": {
+		"translation": "No experiences data",
+		"origin": [["src/pages/AdditionalInfoTutor/Experiences.jsx", 215]],
+		"obsolete": true
+	},
+	"No featured tutors yet": {
+		"translation": "No featured tutors yet",
+		"origin": [["src/pages/Home/index.jsx", 263]]
+	},
+	"No feed entries found": {
+		"translation": "No feed entries found",
+		"origin": [["src/pages/Home/Feeds.jsx", 287]]
+	},
+	"No friends joining": {
+		"translation": "No friends joining",
+		"origin": [["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 120]]
+	},
+	"No introduction videos yet": {
+		"translation": "No introduction videos yet",
+		"origin": [["src/pages/Home/index.jsx", 291]]
+	},
+	"No location specified": {
+		"translation": "No location specified",
+		"origin": [
+			["src/components/common/TutorCard.jsx", 80],
+			["src/pages/Tutor/Profile/AvatarCard.jsx", 174]
+		]
+	},
+	"No products found": {
+		"translation": "No products found",
+		"origin": [["src/pages/StudyShop/index.jsx", 167]]
+	},
+	"No rating yet": {
+		"translation": "No rating yet",
+		"origin": [["src/pages/StudyPlaces/PlaceCard.jsx", 85]]
+	},
+	"No reviews yet": {
+		"translation": "No reviews yet",
+		"origin": [["src/pages/StudyPlaces/PlaceDetails.js", 158]],
+		"obsolete": true
+	},
+	"No schedule in this date": {
+		"translation": "No schedule in this date",
+		"origin": [
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 308],
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 357]
+		]
+	},
+	"No tutor accepts the assignment yet": {
+		"translation": "No tutor accepts the assignment yet",
+		"origin": [["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 176]]
+	},
+	"No, cancel this": {
+		"translation": "No, cancel this",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 320]]
+	},
+	"Non-academic": {
+		"translation": "Non-academic",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/PreferField.jsx", 44],
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 198],
+			["src/pages/Tutor/Profile/Subjects.jsx", 320]
+		]
+	},
+	"Not enough ratings": {
+		"translation": "Not enough ratings",
+		"origin": [["src/pages/StudyPlaces/PlaceDetails.jsx", 156]]
+	},
+	"Not sure where/how to begin?": {
+		"translation": "Not sure where/how to begin?",
+		"origin": [["src/pages/Home/index.jsx", 351]]
+	},
+	"Notifications": {
+		"translation": "Notifications",
+		"origin": [
+			["src/components/common/NotificationPanel.jsx", 73],
+			["src/components/common/NotificationPanel.jsx", 80]
+		]
+	},
+	"Now you can enter a new password. Please don't use your pet name.": {
+		"translation": "Now you can enter a new password. Please don't use your pet name.",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/NewPassword.jsx", 57],
+			["src/pages/ForgotPassword/NewPassword.jsx", 53]
+		]
+	},
+	"One more step": {
+		"translation": "One more step",
+		"origin": [["src/pages/Signup/index.js", 162]],
+		"obsolete": true
+	},
+	"One more step...": {
+		"translation": "One more step...",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 93]]
+	},
+	"Only proceed if you are completely sure of what you are doing": {
+		"translation": "Only proceed if you are completely sure of what you are doing",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 609]]
+	},
+	"Oops! No data found for now": {
+		"translation": "Oops! No data found for now",
+		"origin": [
+			["src/pages/StudyPlaces/Places.jsx", 58],
+			["src/pages/StudyPlaces/StudyCenter/index.jsx", 69]
+		]
+	},
+	"Oops! Something bad happened": {
+		"translation": "Oops! Something bad happened",
+		"origin": [["src/pages/Tutor/Assignments/Acceptance.jsx", 15]]
+	},
+	"Oops! You are not logged in": {
+		"translation": "Oops! You are not logged in",
+		"origin": [["src/pages/Home/Feeds.jsx", 212]]
+	},
+	"Oops! You are not logged in, If you are tutor you need to login to use cudy classes": {
+		"translation": "Oops! You are not logged in, If you are tutor you need to login to use cudy classes",
+		"origin": [["src/pages/CudyClasses/index.jsx", 131]]
+	},
+	"Oops! You are not logged in, You need to Login.": {
+		"translation": "Oops! You are not logged in, You need to Login.",
+		"origin": [
+			["src/pages/CudyRooms/index.jsx", 285],
+			["src/pages/CudyTranscribe/index.jsx", 109]
+		]
+	},
+	"Open Class": {
+		"translation": "Open Class",
+		"origin": [["src/pages/BookingList/index.jsx", 76]]
+	},
+	"Opening hours": {
+		"translation": "Opening hours",
+		"origin": [["src/pages/StudyPlaces/PlaceDetails.jsx", 307]]
+	},
+	"Other platforms": {
+		"translation": "Other platforms",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 654]]
+	},
+	"Others": {
+		"translation": "Others",
+		"origin": [["src/pages/OnboardingStudents/Basic.js", 27]],
+		"obsolete": true
+	},
+	"Our partners": {
+		"translation": "Our partners",
+		"origin": [["src/pages/StudyShop/index.jsx", 202]]
+	},
+	"Password does not match!": {
+		"translation": "Password does not match!",
+		"origin": [
+			["src/pages/CudyClasses/CreateClass.jsx", 53],
+			["src/pages/CudyClasses/CreateClass.jsx", 53]
+		]
+	},
+	"Password should match": {
+		"translation": "Password should match",
+		"origin": [
+			["src/pages/Counselling/Signup.jsx", 292],
+			["src/pages/Signup/index.jsx", 327]
+		]
+	},
+	"Pending": {
+		"translation": "Pending",
+		"origin": [["src/pages/ReadsSection/index.jsx", 131]]
+	},
+	"Places": {
+		"translation": "Places",
+		"origin": [["src/pages/StudyPlaces/index.jsx", 88]]
+	},
+	"Places to study": {
+		"translation": "Places to study",
+		"origin": [["src/pages/StudyPlaces/Places.jsx", 129]]
+	},
+	"Please be good, and give them a good comment/review": {
+		"translation": "Please be good, and give them a good comment/review",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 190]]
+	},
+	"Please check your email inbox to activate the testimonial once submitted": {
+		"translation": "Please check your email inbox to activate the testimonial once submitted",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 157]]
+	},
+	"Please choose one": {
+		"translation": "Please choose one",
+		"origin": [["src/pages/OnboardingStudents/Curriculum.jsx", 53]]
+	},
+	"Please choose your role": {
+		"translation": "Please choose your role",
+		"origin": [["src/pages/Signup/index.jsx", 239]]
+	},
+	"Please click button below to proces the payments": {
+		"translation": "Please click button below to proces the payments",
+		"origin": [["src/components/Payments/index.jsx", 254]]
+	},
+	"Please enter a valid email": {
+		"translation": "Please enter a valid email",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/CompanyLogin.jsx", 26],
+			["src/pages/Signin/index.jsx", 179]
+		]
+	},
+	"Please enter your email address": {
+		"translation": "Please enter your email address",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ForgetPassword.jsx", 111],
+			["src/pages/ForgotPassword/index.jsx", 88]
+		]
+	},
+	"Please fill in your certifications": {
+		"translation": "Please fill in your certifications",
+		"origin": [["src/pages/AdditionalInfoTutor/Certifications.jsx", 163]]
+	},
+	"Please fill in your educational background": {
+		"translation": "Please fill in your educational background",
+		"origin": [["src/pages/AdditionalInfoTutor/Educations.jsx", 186]]
+	},
+	"Please fill in your tutoring experiences": {
+		"translation": "Please fill in your tutoring experiences",
+		"origin": [["src/pages/AdditionalInfoTutor/Experiences.jsx", 206]]
+	},
+	"Please fill the subjects you are teaching": {
+		"translation": "Please fill the subjects you are teaching",
+		"origin": [["src/pages/AdditionalInfoTutor/Subjects.jsx", 556]]
+	},
+	"Please give us 3 names of your friends you think they might join Cudy as well. If you are giving us their details with email and contact number, we'd much appreciate it. But only names surely will do.": {
+		"translation": "Please give us 3 names of your friends you think they might join Cudy as well. If you are giving us their details with email and contact number, we'd much appreciate it. But only names surely will do.",
+		"origin": [["src/pages/Tutor/Profile/Colleagues/index.js", 18]]
+	},
+	"Please login into your account to continue using Cudy": {
+		"translation": "Please login into your account to continue using Cudy",
+		"origin": [["src/pages/Signin/index.jsx", 84]]
+	},
+	"Please provide a valid email address": {
+		"translation": "Please provide a valid email address",
+		"origin": [
+			["src/pages/Counselling/Signup.jsx", 284],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/CompanyRegister.jsx", 72],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ForgetPassword.jsx", 113],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ResendVerification.jsx", 97],
+			["src/pages/ForgotPassword/index.jsx", 89],
+			["src/pages/ResendVerification/index.jsx", 88],
+			["src/pages/Signup/index.jsx", 319]
+		]
+	},
+	"Please wait a second...": {
+		"translation": "Please wait a second...",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ForgetPassword.jsx", 23],
+			["src/pages/ForgotPassword/index.jsx", 21]
+		]
+	},
+	"Please wait...": {
+		"translation": "Please wait...",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Name.jsx", 62],
+			["src/pages/AdditionalInfoTutor/PreferField.jsx", 107],
+			["src/pages/BrowseListing/index.jsx", 357],
+			["src/pages/CudyJobs/AddJobs/JobsDescription.jsx", 98],
+			["src/pages/CudyJobs/AddJobs/JobsDescription.jsx", 114],
+			["src/pages/CudyJobs/AddProjects/ProjectDescription.jsx", 102],
+			["src/pages/CudyJobs/AddProjects/ProjectDescription.jsx", 118],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/CompanyRegistrationPre.jsx", 144],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/CompanyRegistrationPre.jsx", 150],
+			["src/pages/CudyJobs/EditJobs/JobsDescription.jsx", 98],
+			["src/pages/CudyJobs/EditJobs/JobsDescription.jsx", 114],
+			["src/pages/CudyJobs/EditProjects/ProjectDescription.jsx", 103],
+			["src/pages/CudyJobs/EditProjects/ProjectDescription.jsx", 119],
+			["src/pages/CudyJobs/Settings/CompanyInfo.jsx", 89],
+			["src/pages/CudyJobs/Settings/CompanyInfo.jsx", 95],
+			["src/pages/ReadsSection/Comments/CommentEditor.jsx", 122],
+			["src/pages/ReadsSection/_RenderDetails.jsx", 168],
+			["src/pages/ReadsSection/createCudyRead.jsx", 149],
+			["src/pages/ReadsSection/editCudyRead.jsx", 183],
+			["src/pages/ReadsSection/index.jsx", 91],
+			["src/pages/Tutor/Profile/AddTestimonials.jsx", 60],
+			["src/pages/Tutor/Profile/AddTestimonials.jsx", 77],
+			["src/pages/Tutor/Profile/AvatarCard.jsx", 219],
+			["src/pages/Tutor/Profile/IntroVideos.jsx", 264],
+			["src/pages/Tutor/Profile/ProfileCover.jsx", 112],
+			["src/pages/Tutor/Settings/index.jsx", 236]
+		]
+	},
+	"Popular Posts": {
+		"translation": "Popular Posts",
+		"origin": [["src/pages/ReadsSection/_RenderPopular.jsx", 126]]
+	},
+	"Post an assignment": {
+		"translation": "Post an assignment",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 150]]
+	},
+	"Post new assignment": {
+		"translation": "Post new assignment",
+		"origin": [["src/pages/Tutor/Assignments/index.jsx", 143]]
+	},
+	"Post the assignment now": {
+		"translation": "Post the assignment now",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 254]]
+	},
+	"Post this assignment to": {
+		"translation": "Post this assignment to",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 244]]
+	},
+	"Preferred gender": {
+		"translation": "Preferred gender",
+		"origin": [
+			["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 233],
+			["src/pages/Tutor/Assignments/Post.jsx", 213]
+		]
+	},
+	"Preferred location": {
+		"translation": "Preferred location",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 227]]
+	},
+	"Preferred price": {
+		"translation": "Preferred price",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 188]]
+	},
+	"Preferred tutor experience": {
+		"translation": "Preferred tutor experience",
+		"origin": [
+			["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 225],
+			["src/pages/Tutor/Assignments/index.jsx", 104]
+		]
+	},
+	"Preview your Content": {
+		"translation": "Preview your Content",
+		"origin": [["src/pages/BrowseListing/index.jsx", 369]]
+	},
+	"Price Per Hour": {
+		"translation": "Price Per Hour",
+		"origin": [
+			["src/pages/Counselling/BrowseCounsellor/index.jsx", 184],
+			["src/pages/Lifelong/BrowseCoaches/index.jsx", 191],
+			["src/pages/Marketplace/index.jsx", 294]
+		]
+	},
+	"Price for a lesson per hour": {
+		"translation": "Price for a lesson per hour",
+		"origin": [["src/components/common/TutorCard.jsx", 131]]
+	},
+	"Price per hour": {
+		"translation": "Price per hour",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 271],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 309],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 354],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 418],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 466],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 525],
+			["src/pages/Counselling/BrowseCounsellor/_FilteringPanel.jsx", 106],
+			["src/pages/Lifelong/BrowseCoaches/_FilteringPanel.jsx", 112],
+			["src/pages/Marketplace/FilteringPanel.jsx", 112],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 50],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 86],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 132],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 184],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 249],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 326]
+		]
+	},
+	"Price range": {
+		"translation": "Price range",
+		"origin": [["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 247]]
+	},
+	"Private tutor": {
+		"translation": "Private tutor",
+		"origin": [["src/pages/Tutor/Profile/Experiences.jsx", 108]]
+	},
+	"Proceed <0/>": {
+		"translation": "Proceed <0/>",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 614]]
+	},
+	"Process faild copy session id and contact with support team, please": {
+		"translation": "Process faild copy session id and contact with support team, please",
+		"origin": [
+			["src/pages/ResultPayment/PaymentResultTranscribe.jsx", 43],
+			["src/pages/ResultPayment/PaymentResultTranscribe.jsx", 51]
+		]
+	},
+	"Process to payment": {
+		"translation": "Process to payment",
+		"origin": [["src/components/Payments/index.jsx", 197]],
+		"obsolete": true
+	},
+	"Profile Picure": {
+		"translation": "Profile Picure",
+		"origin": [
+			["src/pages/Tutor/Settings/index.jsx", 435],
+			["src/pages/Tutor/Settings/index.jsx", 438]
+		]
+	},
+	"Profile's URL": {
+		"translation": "Profile's URL",
+		"origin": [
+			["src/pages/Tutor/Profile/OtherPlatforms.jsx", 191],
+			["src/pages/Tutor/Profile/OtherPlatforms.jsx", 221]
+		]
+	},
+	"Race": {
+		"translation": "Race",
+		"origin": [["src/pages/AdditionalInfoTutor/AboutMe.js", 123]],
+		"obsolete": true
+	},
+	"Rate your experience with the tutor": {
+		"translation": "Rate your experience with the tutor",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 183]]
+	},
+	"Rating": {
+		"translation": "Rating",
+		"origin": [
+			["src/pages/Counselling/BrowseCounsellor/index.jsx", 185],
+			["src/pages/Lifelong/BrowseCoaches/index.jsx", 192],
+			["src/pages/Marketplace/index.jsx", 295]
+		]
+	},
+	"Read": {
+		"translation": "Read",
+		"origin": [["src/pages/ReadsSection/_RenderFeaturedLeft.jsx", 84]]
+	},
+	"Read More": {
+		"translation": "Read More",
+		"origin": [
+			["src/pages/ReadsSection/_RenderFeatured.jsx", 128],
+			["src/pages/ReadsSection/_RenderNewest.jsx", 127],
+			["src/pages/ReadsSection/_RenderPopular.jsx", 158],
+			["src/pages/Tutor/Profile/Reads.jsx", 104]
+		]
+	},
+	"Recently added": {
+		"translation": "Recently added",
+		"origin": [
+			["src/pages/BrowseListing/index.jsx", 258],
+			["src/pages/Counselling/BrowseCounsellor/index.jsx", 182],
+			["src/pages/Lifelong/BrowseCoaches/index.jsx", 189],
+			["src/pages/Marketplace/index.jsx", 292]
+		]
+	},
+	"Recommend your friends": {
+		"translation": "Recommend your friends",
+		"origin": [["src/pages/Tutor/Profile/Colleagues/index.js", 16]]
+	},
+	"Recover my password": {
+		"translation": "Recover my password",
+		"origin": [["src/pages/ForgotPassword/index.jsx", 65]]
+	},
+	"Recover password": {
+		"translation": "Recover password",
+		"origin": [["src/pages/CudyJobs/CompanyLoginAndRegister/ForgetPassword.jsx", 68]]
+	},
+	"Reectj this booking": {
+		"translation": "Reectj this booking",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 733]],
+		"obsolete": true
+	},
+	"Refer it!": {
+		"translation": "Refer it!",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 589]]
+	},
+	"Refer your friend to join Cudy": {
+		"translation": "Refer your friend to join Cudy",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 587]]
+	},
+	"Register and add testimonial": {
+		"translation": "Register and add testimonial",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 145]]
+	},
+	"Register first to see testimonials": {
+		"translation": "Register first to see testimonials",
+		"origin": [["src/pages/Tutor/Profile/_RenderTestimonials.jsx", 58]]
+	},
+	"Reject": {
+		"translation": "Reject",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 929]]
+	},
+	"Reject this booking": {
+		"translation": "Reject this booking",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 927]]
+	},
+	"Reminder": {
+		"translation": "Reminder",
+		"origin": [["src/components/common/NotificationPanel.jsx", 45]]
+	},
+	"Reminder!": {
+		"translation": "Reminder!",
+		"origin": [["src/components/common/NotificationPanel.jsx", 108]]
+	},
+	"Reminder: To ensure your order is tracked successfully and for your rebate to be processed, you need to make sure that you make the purchase from your web browser from this link (Buy Now button) only": {
+		"translation": "Reminder: To ensure your order is tracked successfully and for your rebate to be processed, you need to make sure that you make the purchase from your web browser from this link (Buy Now button) only",
+		"origin": [["src/pages/StudyShop/Modal.jsx", 94]]
+	},
+	"Repeat password": {
+		"translation": "Repeat password",
+		"origin": [
+			["src/pages/Counselling/Signup.jsx", 198],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/NewPassword.jsx", 83],
+			["src/pages/ForgotPassword/NewPassword.jsx", 71],
+			["src/pages/Signup/index.jsx", 227],
+			["src/pages/Tutor/Settings/index.jsx", 548]
+		]
+	},
+	"Repeat your new password...": {
+		"translation": "Repeat your new password...",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 547]]
+	},
+	"Repeat your password": {
+		"translation": "Repeat your password",
+		"origin": [
+			["src/pages/Counselling/Signup.jsx", 200],
+			["src/pages/Signup/index.jsx", 229]
+		]
+	},
+	"Repeat your password...": {
+		"translation": "Repeat your password...",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/NewPassword.jsx", 82],
+			["src/pages/ForgotPassword/NewPassword.jsx", 70]
+		]
+	},
+	"Reply": {
+		"translation": "Reply",
+		"origin": [["src/pages/Home/ModalReply.jsx", 132]]
+	},
+	"Reply has been sent": {
+		"translation": "Reply has been sent",
+		"origin": [["src/pages/Home/Feeds.jsx", 170]]
+	},
+	"Reply to": {
+		"translation": "Reply to",
+		"origin": [["src/pages/Home/Feeds.jsx", 318]]
+	},
+	"Replying to <0>{firstName} {lastName}</0>": {
+		"translation": "Replying to <0>{firstName} {lastName}</0>",
+		"origin": [["src/pages/Home/ModalReply.jsx", 113]]
+	},
+	"Request to complete": {
+		"translation": "Request to complete",
+		"origin": [["src/pages/Tutor/Profile/_CompleteProfileModal.jsx", 54]]
+	},
+	"Resend email": {
+		"translation": "Resend email",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ResendVerification.jsx", 47],
+			["src/pages/ResendVerification/index.jsx", 47]
+		]
+	},
+	"Reset": {
+		"translation": "Reset",
+		"origin": [["src/pages/Home/Feeds.jsx", 261]]
+	},
+	"Resetting your password...": {
+		"translation": "Resetting your password...",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/NewPassword.jsx", 22],
+			["src/pages/ForgotPassword/NewPassword.jsx", 22],
+			["src/pages/Tutor/Settings/index.jsx", 288]
+		]
+	},
+	"Reviews": {
+		"translation": "Reviews",
+		"origin": [
+			["src/pages/Counselling/BrowseCounsellor/index.jsx", 186],
+			["src/pages/Lifelong/BrowseCoaches/index.jsx", 193],
+			["src/pages/Marketplace/index.jsx", 296]
+		]
+	},
+	"Reviews {reviewCount}": {
+		"translation": "Reviews {reviewCount}",
+		"origin": [["src/pages/StudyPlaces/PlaceDetails.jsx", 327]]
+	},
+	"Save changes": {
+		"translation": "Save changes",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 243],
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 164],
+			["src/pages/Tutor/Profile/AboutMe.jsx", 117],
+			["src/pages/Tutor/Profile/Skills.jsx", 93],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 225],
+			["src/pages/Tutor/Settings/index.jsx", 558]
+		]
+	},
+	"Save new version done successfully": {
+		"translation": "Save new version done successfully",
+		"origin": [["src/pages/CudyTranscribe/TranscribeItem.jsx", 70]]
+	},
+	"Save new version faild": {
+		"translation": "Save new version faild",
+		"origin": [["src/pages/CudyTranscribe/TranscribeItem.jsx", 72]]
+	},
+	"Save this education": {
+		"translation": "Save this education",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 110],
+			["src/pages/Tutor/Profile/Education.jsx", 131]
+		]
+	},
+	"Save this experience": {
+		"translation": "Save this experience",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 326],
+			["src/pages/Tutor/Profile/Experiences.jsx", 396]
+		]
+	},
+	"Save this platform": {
+		"translation": "Save this platform",
+		"origin": [["src/pages/Tutor/Profile/OtherPlatforms.jsx", 195]]
+	},
+	"Save this subject": {
+		"translation": "Save this subject",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 278],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 316],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 361],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 54],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 90],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 138]
+		]
+	},
+	"Say what you'd like to say about the tutor": {
+		"translation": "Say what you'd like to say about the tutor",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 167]]
+	},
+	"Schedule": {
+		"translation": "Schedule",
+		"origin": [
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 421],
+			["src/pages/Tutor/Profile/index.jsx", 942]
+		]
+	},
+	"School is not the only place to study. The list below proves it": {
+		"translation": "School is not the only place to study. The list below proves it",
+		"origin": [["src/pages/StudyPlaces/Places.jsx", 130]]
+	},
+	"School/college": {
+		"translation": "School/college",
+		"origin": [
+			["src/pages/Tutor/Profile/Education.jsx", 100],
+			["src/pages/Tutor/Profile/Education.jsx", 155]
+		]
+	},
+	"Search Another Tutors": {
+		"translation": "Search Another Tutors",
+		"origin": [["src/pages/LessonVideo/SearchResult/WatchVideo/TutorList.jsx", 77]]
+	},
+	"Search for": {
+		"translation": "Search for",
+		"origin": [["src/components/Navbar.jsx", 247]]
+	},
+	"Search for tutors...": {
+		"translation": "Search for tutors...",
+		"origin": [["src/components/Navbar.jsx", 210]],
+		"obsolete": true
+	},
+	"Search for {0}...": {
+		"translation": "Search for {0}...",
+		"origin": [["src/components/Navbar.jsx", 225]],
+		"obsolete": true
+	},
+	"Search tutors": {
+		"translation": "Search tutors",
+		"origin": [["src/pages/Home/index.js", 326]],
+		"obsolete": true
+	},
+	"Searches": {
+		"translation": "Searches",
+		"origin": [
+			["src/pages/BrowseListing/index.jsx", 234],
+			["src/pages/Counselling/BrowseCounsellor/index.jsx", 161],
+			["src/pages/Lifelong/BrowseCoaches/index.jsx", 168],
+			["src/pages/Marketplace/index.jsx", 271]
+		]
+	},
+	"See all other tutors": {
+		"translation": "See all other tutors",
+		"origin": [["src/pages/Home/index.js", 342]],
+		"obsolete": true
+	},
+	"See details": {
+		"translation": "See details",
+		"origin": [["src/pages/Tutor/Assignments/Public.jsx", 295]]
+	},
+	"See more <0/>": {
+		"translation": "See more <0/>",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 730]]
+	},
+	"See my profile ↗": {
+		"translation": "See my profile ↗",
+		"origin": [
+			["src/pages/Tutor/Profile/OtherPlatforms.jsx", 123],
+			["src/pages/Tutor/Profile/OtherPlatforms.jsx", 151]
+		]
+	},
+	"See profile": {
+		"translation": "See profile",
+		"origin": [["src/components/common/TutorCard.jsx", 141]]
+	},
+	"See the tutors that match your criteria, and make an assignment": {
+		"translation": "See the tutors that match your criteria, and make an assignment",
+		"origin": [["src/pages/Home/index.jsx", 233]]
+	},
+	"See who has viewed your Profile recently.": {
+		"translation": "See who has viewed your Profile recently.",
+		"origin": [["src/pages/Tutor/Profile/WhoViewed.jsx", 67]]
+	},
+	"Select Duration": {
+		"translation": "Select Duration",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 281]]
+	},
+	"Select Status": {
+		"translation": "Select Status",
+		"origin": [
+			["src/pages/ReadsSection/index.jsx", 130],
+			["src/pages/ReadsSection/index.jsx", 237]
+		]
+	},
+	"Select Subject": {
+		"translation": "Select Subject",
+		"origin": [
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 193],
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 241]
+		]
+	},
+	"Select curriculum": {
+		"translation": "Select curriculum",
+		"origin": [
+			["src/pages/Tutor/Assignments/Post.jsx", 175],
+			["src/pages/Tutor/Assignments/Post.jsx", 176],
+			["src/pages/Tutor/Assignments/Public.jsx", 152]
+		]
+	},
+	"Select one option...": {
+		"translation": "Select one option...",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 181]]
+	},
+	"Select one...": {
+		"translation": "Select one...",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 512]]
+	},
+	"Select payment method": {
+		"translation": "Select payment method",
+		"origin": [["src/components/Payments/index.jsx", 191]],
+		"obsolete": true
+	},
+	"Select subject": {
+		"translation": "Select subject",
+		"origin": [
+			["src/pages/Tutor/Assignments/Post.jsx", 181],
+			["src/pages/Tutor/Assignments/Post.jsx", 182],
+			["src/pages/Tutor/Assignments/Public.jsx", 153]
+		]
+	},
+	"Select the subject...": {
+		"translation": "Select the subject...",
+		"origin": [["src/pages/Tutor/Profile/Calendar/index.jsx", 197]],
+		"obsolete": true
+	},
+	"Select your country": {
+		"translation": "Select your country",
+		"origin": [
+			["src/pages/Counselling/Signup.jsx", 223],
+			["src/pages/Signup/index.jsx", 252]
+		]
+	},
+	"Select your level": {
+		"translation": "Select your level",
+		"origin": [["src/pages/Tutor/Profile/Experiences.jsx", 130]]
+	},
+	"Select your role": {
+		"translation": "Select your role",
+		"origin": [["src/pages/Signup/index.jsx", 237]]
+	},
+	"Select your subject": {
+		"translation": "Select your subject",
+		"origin": [["src/pages/Tutor/Profile/Experiences.jsx", 131]]
+	},
+	"Send another copy of email?": {
+		"translation": "Send another copy of email?",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ForgetPasswordSent.jsx", 71],
+			["src/pages/ForgotPassword/Sent.jsx", 54]
+		]
+	},
+	"Send feed": {
+		"translation": "Send feed",
+		"origin": [["src/pages/Home/Feeds.jsx", 257]]
+	},
+	"Send me the email once again": {
+		"translation": "Send me the email once again",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ResendVerification.jsx", 74],
+			["src/pages/ResendVerification/index.jsx", 66]
+		]
+	},
+	"Send message": {
+		"translation": "Send message",
+		"origin": [["src/pages/Tutor/Profile/AvatarCard.jsx", 304]]
+	},
+	"Share profile...": {
+		"translation": "Share profile...",
+		"origin": [["src/pages/Tutor/Profile/ShareModal.jsx", 27]]
+	},
+	"Share this assignment": {
+		"translation": "Share this assignment",
+		"origin": [["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 160]]
+	},
+	"Share to": {
+		"translation": "Share to",
+		"origin": [["src/pages/Tutor/Profile/ShareModal.jsx", 37]]
+	},
+	"Share {0}'s profile": {
+		"translation": "Share {0}'s profile",
+		"origin": [
+			["src/pages/Tutor/Profile/AvatarCard.jsx", 308],
+			["src/pages/Tutor/Profile/ShareModal.jsx", 17]
+		]
+	},
+	"Short description": {
+		"translation": "Short description",
+		"origin": [
+			["src/pages/Tutor/Profile/AboutMe.jsx", 106],
+			["src/pages/Tutor/Profile/AboutMe.jsx", 138]
+		]
+	},
+	"Short description about me": {
+		"translation": "Short description about me",
+		"origin": [["src/pages/Tutor/Profile/AboutMe.jsx", 110]]
+	},
+	"Short description about you": {
+		"translation": "Short description about you",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/AboutMe.jsx", 156],
+			["src/pages/OnboardingStudents/Basic.jsx", 153]
+		]
+	},
+	"Showing <0>{0} counsellors</0>": {
+		"translation": "Showing <0>{0} counsellors</0>",
+		"origin": [["src/pages/Counselling/BrowseCounsellor/index.jsx", 164]]
+	},
+	"Sign in": {
+		"translation": "Sign in",
+		"origin": [["src/pages/StudyShop/HowtoModal.jsx", 18]]
+	},
+	"Sign in to your Cudy account": {
+		"translation": "Sign in to your Cudy account",
+		"origin": [["src/pages/StudyShop/HowtoModal.jsx", 19]]
+	},
+	"Sign up": {
+		"translation": "Sign up",
+		"origin": [
+			["src/components/Navbar.jsx", 375],
+			["src/components/common/MenuDrawer.jsx", 218]
+		]
+	},
+	"Sign up instead": {
+		"translation": "Sign up instead",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/CompanyLogin.jsx", 128],
+			["src/pages/Signin/index.jsx", 161]
+		]
+	},
+	"Singapore": {
+		"translation": "Singapore",
+		"origin": [["src/pages/Home/index.js", 185]],
+		"obsolete": true
+	},
+	"Skills": {
+		"translation": "Skills",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 639]]
+	},
+	"Skip and create account": {
+		"translation": "Skip and create account",
+		"origin": [["src/pages/Tutor/Profile/Colleagues/index.js", 30]]
+	},
+	"Skip this?": {
+		"translation": "Skip this?",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/index.jsx", 272],
+			["src/pages/OnboardingStudents/index.jsx", 138]
+		]
+	},
+	"Some educational details of you": {
+		"translation": "Some educational details of you",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 502]]
+	},
+	"Some special notes regarding this assignment": {
+		"translation": "Some special notes regarding this assignment",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 249]]
+	},
+	"Something Went Wrong": {
+		"translation": "Something Went Wrong",
+		"origin": [["src/components/common/ConditionalPage.jsx", 24]]
+	},
+	"Something Wrong!": {
+		"translation": "Something Wrong!",
+		"origin": [
+			["src/pages/CudyRooms/index.jsx", 155],
+			["src/pages/CudyTranscribe/BuyTranscribeServices/BuyForm.jsx", 192]
+		]
+	},
+	"Something went wrong.Please try again later": {
+		"translation": "Something went wrong.Please try again later",
+		"origin": [["src/pages/ReadsSection/_RenderDetails.jsx", 134]]
+	},
+	"Something wrong happened. you might want to go back to the Home page": {
+		"translation": "Something wrong happened. you might want to go back to the Home page",
+		"origin": [["src/pages/AccountActive.jsx", 45]]
+	},
+	"Sort by...": {
+		"translation": "Sort by...",
+		"origin": [
+			["src/pages/BrowseListing/index.jsx", 255],
+			["src/pages/BrowseListing/index.jsx", 257],
+			["src/pages/BrowseListing/index.jsx", 262],
+			["src/pages/Counselling/BrowseCounsellor/index.jsx", 179],
+			["src/pages/Counselling/BrowseCounsellor/index.jsx", 181],
+			["src/pages/Counselling/BrowseCounsellor/index.jsx", 189],
+			["src/pages/Lifelong/BrowseCoaches/index.jsx", 186],
+			["src/pages/Lifelong/BrowseCoaches/index.jsx", 188],
+			["src/pages/Lifelong/BrowseCoaches/index.jsx", 196],
+			["src/pages/Marketplace/index.jsx", 289],
+			["src/pages/Marketplace/index.jsx", 291],
+			["src/pages/Marketplace/index.jsx", 299]
+		]
+	},
+	"Start Time": {
+		"translation": "Start Time",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 272]]
+	},
+	"Start by searching for subjects, e.g. English": {
+		"translation": "Start by searching for subjects, e.g. English",
+		"origin": [["src/pages/Home/index.jsx", 182]]
+	},
+	"Start over...": {
+		"translation": "Start over...",
+		"origin": [["src/pages/Counselling/Assessment/index.jsx", 180]]
+	},
+	"Start time": {
+		"translation": "Start time",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 162]],
+		"obsolete": true
+	},
+	"Start typing some characters to show place options": {
+		"translation": "Start typing some characters to show place options",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/AboutMe.jsx", 136],
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 264]
+		]
+	},
+	"Student": {
+		"translation": "Student",
+		"origin": [
+			["src/pages/Tutor/Profile/WhoViewed.js", 92],
+			["src/pages/Tutor/Profile/WhoViewed.js", 125],
+			["src/pages/Tutor/Profile/WhoViewed.js", 154]
+		],
+		"obsolete": true
+	},
+	"Student / Parent": {
+		"translation": "Student / Parent",
+		"origin": [["src/pages/Signup/index.jsx", 245]]
+	},
+	"Student / parent": {
+		"translation": "Student / parent",
+		"origin": [["src/pages/Signup/index.jsx", 245]],
+		"obsolete": true
+	},
+	"Student/parent": {
+		"translation": "Student/parent",
+		"origin": [["src/pages/Signup/index.jsx", 242]],
+		"obsolete": true
+	},
+	"Study center": {
+		"translation": "Study center",
+		"origin": [["src/helpers/hooks/data.js", 384]]
+	},
+	"Study places": {
+		"translation": "Study places",
+		"origin": [["src/helpers/hooks/data.js", 377]]
+	},
+	"Study shop": {
+		"translation": "Study shop",
+		"origin": [["src/helpers/hooks/data.js", 391]]
+	},
+	"Subject": {
+		"translation": "Subject",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 273],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 274],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 377],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 378],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 263],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 301],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 337],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 410],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 458],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 506],
+			["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 217],
+			["src/pages/Tutor/Assignments/index.jsx", 96],
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 192],
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 214],
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 240],
+			["src/pages/Tutor/Profile/Experiences.jsx", 347],
+			["src/pages/Tutor/Profile/Experiences.jsx", 348],
+			["src/pages/Tutor/Profile/Experiences.jsx", 449],
+			["src/pages/Tutor/Profile/Experiences.jsx", 450],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 42],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 78],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 112],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 176],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 241],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 307]
+		]
+	},
+	"Subject name": {
+		"translation": "Subject name",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 262],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 300],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 336],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 409],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 457],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 505],
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 213],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 41],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 77],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 111],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 175],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 240],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 306]
+		]
+	},
+	"Subject they teached": {
+		"translation": "Subject they teached",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 179]]
+	},
+	"Subject you are teaching": {
+		"translation": "Subject you are teaching",
+		"origin": [["src/pages/Tutor/Profile/Calendar/index.jsx", 196]],
+		"obsolete": true
+	},
+	"Subjects": {
+		"translation": "Subjects",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 555],
+			["src/pages/Marketplace/FilteringPanel.jsx", 137],
+			["src/pages/Tutor/Profile/index.jsx", 830]
+		]
+	},
+	"Submit now": {
+		"translation": "Submit now",
+		"origin": [["src/pages/Tutor/Profile/_CompleteProfileModal.jsx", 86]]
+	},
+	"Successfully Uploaded": {
+		"translation": "Successfully Uploaded",
+		"origin": [["src/pages/BrowseListing/index.jsx", 357]]
+	},
+	"Successfully add booking": {
+		"translation": "Successfully add booking",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 61]]
+	},
+	"Suggestion price to set": {
+		"translation": "Suggestion price to set",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 191]]
+	},
+	"Supported formats: .flv, .mp4, .3gp, .avi, .mov, .wmv": {
+		"translation": "Supported formats: .flv, .mp4, .3gp, .avi, .mov, .wmv",
+		"origin": [["src/pages/Tutor/Profile/IntroVideos.jsx", 255]]
+	},
+	"Supported formats: .pdf, .doc, .docx, .png, .jpg, .jpeg": {
+		"translation": "Supported formats: .pdf, .doc, .docx, .png, .jpg, .jpeg",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 210],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 194]
+		]
+	},
+	"Supported formats: JPG, PNG, MP4": {
+		"translation": "Supported formats: JPG, PNG, MP4",
+		"origin": [["src/components/Stories/AddStories.jsx", 177]]
+	},
+	"Supported formats: PDF, PPT, Video, Images, EXCEL, DOC": {
+		"translation": "Supported formats: PDF, PPT, Video, Images, EXCEL, DOC",
+		"origin": [["src/pages/BrowseListing/index.jsx", 348]]
+	},
+	"Supported formats: flac, wav, mp3, mp4": {
+		"translation": "Supported formats: flac, wav, mp3, mp4",
+		"origin": [["src/pages/CudyTranscribe/AddNewSubtitles.jsx", 259]]
+	},
+	"Supported formats: flac, wav, mp4": {
+		"translation": "Supported formats: flac, wav, mp4",
+		"origin": [["src/pages/CudyTranscribe/TranscribesTable.jsx", 514]]
+	},
+	"Switch to": {
+		"translation": "Switch to",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 169]],
+		"obsolete": true
+	},
+	"Switch to {0}?": {
+		"translation": "Switch to {0}?",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 126]]
+	},
+	"Sync events from GCal": {
+		"translation": "Sync events from GCal",
+		"origin": [["src/pages/Tutor/Profile/Calendar/index.jsx", 117]]
+	},
+	"Talk to our specialist today": {
+		"translation": "Talk to our specialist today",
+		"origin": [["src/pages/Counselling/Assessment/Success.jsx", 86]]
+	},
+	"Teaching {0}": {
+		"translation": "Teaching {0}",
+		"origin": [["src/pages/Tutor/Profile/Calendar/index.jsx", 154]],
+		"obsolete": true
+	},
+	"Tell something short (and sweet) about yourself": {
+		"translation": "Tell something short (and sweet) about yourself",
+		"origin": [["src/pages/Tutor/Profile/AboutMe.js", 291]],
+		"obsolete": true
+	},
+	"Tell us some of your details": {
+		"translation": "Tell us some of your details",
+		"origin": [["src/pages/OnboardingStudents/Basic.jsx", 79]]
+	},
+	"Tell us the reason": {
+		"translation": "Tell us the reason",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 586]]
+	},
+	"Tell us your name": {
+		"translation": "Tell us your name",
+		"origin": [["src/pages/OnboardingStudents/Name.jsx", 33]]
+	},
+	"Testimonials": {
+		"translation": "Testimonials",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 725]]
+	},
+	"Testimonials link": {
+		"translation": "Testimonials link",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 609]]
+	},
+	"Thank you! :)": {
+		"translation": "Thank you! :)",
+		"origin": [
+			["src/pages/ReadsSection/readSuccess.jsx", 27],
+			["src/pages/Signup/RegisterSuccess.jsx", 46],
+			["src/pages/Tutor/Profile/TestimonialSuccess.jsx", 23]
+		]
+	},
+	"Thanks for your time! We'll get back to you real shortly. :)": {
+		"translation": "Thanks for your time! We'll get back to you real shortly. :)",
+		"origin": [["src/pages/Dashboard/Feedback/index.js", 19]],
+		"obsolete": true
+	},
+	"That's a great step! Now go to your profile to get started.": {
+		"translation": "That's a great step! Now go to your profile to get started.",
+		"origin": [["src/pages/AdditionalInfoTutor/Thankyou.js", 31]],
+		"obsolete": true
+	},
+	"That's a great step! Now {0} to get started.": {
+		"translation": "That's a great step! Now {0} to get started.",
+		"origin": [["src/pages/AdditionalInfoTutor/Thankyou.jsx", 27]]
+	},
+	"The education has been updated": {
+		"translation": "The education has been updated",
+		"origin": [["src/pages/AdditionalInfoTutor/Educations.jsx", 54]]
+	},
+	"The education item has been deleted": {
+		"translation": "The education item has been deleted",
+		"origin": [["src/pages/AdditionalInfoTutor/Educations.jsx", 37]]
+	},
+	"The email has been sent once again.": {
+		"translation": "The email has been sent once again.",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ForgetPasswordSent.jsx", 17],
+			["src/pages/ForgotPassword/Sent.jsx", 17]
+		]
+	},
+	"The experience item has been ${0}": {
+		"translation": "The experience item has been ${0}",
+		"origin": [["src/pages/AdditionalInfoTutor/Experiences.js", 114]],
+		"obsolete": true
+	},
+	"The experience item has been added": {
+		"translation": "The experience item has been added",
+		"origin": [["src/pages/AdditionalInfoTutor/Experiences.jsx", 40]]
+	},
+	"The experience item has been deleted": {
+		"translation": "The experience item has been deleted",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 69],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 86],
+			["src/pages/Tutor/Profile/Experiences.jsx", 72],
+			["src/pages/Tutor/Profile/Experiences.jsx", 88]
+		]
+	},
+	"The experience item has been updated": {
+		"translation": "The experience item has been updated",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 58],
+			["src/pages/Tutor/Profile/Experiences.jsx", 48]
+		]
+	},
+	"The experience item has been {0}": {
+		"translation": "The experience item has been {0}",
+		"origin": [["src/pages/Tutor/Profile/Experiences.jsx", 157]],
+		"obsolete": true
+	},
+	"The list of your posted assignments": {
+		"translation": "The list of your posted assignments",
+		"origin": [["src/pages/Tutor/Assignments/index.jsx", 136]]
+	},
+	"The platform item has been deleted": {
+		"translation": "The platform item has been deleted",
+		"origin": [["src/pages/Tutor/Profile/OtherPlatforms.jsx", 104]]
+	},
+	"The platform item has been {0}": {
+		"translation": "The platform item has been {0}",
+		"origin": [["src/pages/Tutor/Profile/OtherPlatforms.jsx", 95]]
+	},
+	"The subject item has been added": {
+		"translation": "The subject item has been added",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 67],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 90],
+			["src/pages/Tutor/Profile/Subjects.jsx", 50],
+			["src/pages/Tutor/Profile/Subjects.jsx", 79]
+		]
+	},
+	"The subject item has been deleted": {
+		"translation": "The subject item has been deleted",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 83],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 107],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 114],
+			["src/pages/Tutor/Profile/Subjects.jsx", 60],
+			["src/pages/Tutor/Profile/Subjects.jsx", 89],
+			["src/pages/Tutor/Profile/Subjects.jsx", 104]
+		]
+	},
+	"The subject item has been deleted\"": {
+		"translation": "The subject item has been deleted\"",
+		"origin": [["src/pages/Tutor/Profile/Subjects.js", 136]],
+		"obsolete": true
+	},
+	"The subject item has been updated": {
+		"translation": "The subject item has been updated",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 75],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 99],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 123],
+			["src/pages/Tutor/Profile/Subjects.jsx", 40],
+			["src/pages/Tutor/Profile/Subjects.jsx", 69],
+			["src/pages/Tutor/Profile/Subjects.jsx", 113]
+		]
+	},
+	"The subject item has been {0}": {
+		"translation": "The subject item has been {0}",
+		"origin": [["src/pages/AdditionalInfoTutor/Subjects.jsx", 107]],
+		"obsolete": true
+	},
+	"The verification email has been sent. Please check your inbox and click on it to get your account activated.": {
+		"translation": "The verification email has been sent. Please check your inbox and click on it to get your account activated.",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/Resent.jsx", 33],
+			["src/pages/ResendVerification/Resent.jsx", 28]
+		]
+	},
+	"There are problem in created group": {
+		"translation": "There are problem in created group",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 359]]
+	},
+	"There are problem in delete group": {
+		"translation": "There are problem in delete group",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 370]]
+	},
+	"There are problem in upload story!": {
+		"translation": "There are problem in upload story!",
+		"origin": [["src/components/Stories/AddStories.jsx", 131]]
+	},
+	"There are required filed missing!": {
+		"translation": "There are required filed missing!",
+		"origin": [
+			["src/pages/CudyTranscribe/SubtitlesTable.jsx", 167],
+			["src/pages/CudyTranscribe/SubtitlesTable.jsx", 167],
+			["src/pages/CudyTranscribe/TranscribesTable.jsx", 371],
+			["src/pages/CudyTranscribe/TranscribesTable.jsx", 371]
+		]
+	},
+	"There's no tutors found": {
+		"translation": "There's no tutors found",
+		"origin": [["src/pages/Marketplace/index.jsx", 99]],
+		"obsolete": true
+	},
+	"There's something happened. You can try to confirm the assignment once again later.": {
+		"translation": "There's something happened. You can try to confirm the assignment once again later.",
+		"origin": [["src/pages/Tutor/Assignments/Acceptance.js", 22]],
+		"obsolete": true
+	},
+	"This action will deactivate your Cudy account forever. Are you sure you want to do this?": {
+		"translation": "This action will deactivate your Cudy account forever. Are you sure you want to do this?",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 317]]
+	},
+	"This assignment is not available in your country": {
+		"translation": "This assignment is not available in your country",
+		"origin": [["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 136]]
+	},
+	"This feature will be available soon": {
+		"translation": "This feature will be available soon",
+		"origin": [["src/pages/Tutor/Profile/AvatarCard.jsx", 289]],
+		"obsolete": true
+	},
+	"This is also required heheh": {
+		"translation": "This is also required heheh",
+		"origin": [["src/pages/Tutor/Profile/Subjects.js", 245]],
+		"obsolete": true
+	},
+	"This is required": {
+		"translation": "This is required",
+		"origin": [
+			["src/pages/CudyJobs/CompanyLoginAndRegister/CompanyLogin.jsx", 25],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/CompanyLogin.jsx", 27],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ResendVerification.jsx", 95],
+			["src/pages/ResendVerification/index.jsx", 87],
+			["src/pages/Signin/index.jsx", 178],
+			["src/pages/Signin/index.jsx", 180]
+		]
+	},
+	"This is required heheh": {
+		"translation": "This is required heheh",
+		"origin": [["src/pages/Tutor/Profile/Subjects.js", 249]],
+		"obsolete": true
+	},
+	"This is your first time for making a payment for tutoring. You will be charged": {
+		"translation": "This is your first time for making a payment for tutoring. You will be charged",
+		"origin": [["src/components/Payments/index.jsx", 240]]
+	},
+	"This is your first time for making payment, you will be charge for 8 time booking ahead with total {currency} {0}": {
+		"translation": "This is your first time for making payment, you will be charge for 8 time booking ahead with total {currency} {0}",
+		"origin": [["src/components/Payments/index.jsx", 123]],
+		"obsolete": true
+	},
+	"This section is not meant to fill in your social media accounts": {
+		"translation": "This section is not meant to fill in your social media accounts",
+		"origin": [["src/pages/Tutor/Profile/OtherPlatforms.jsx", 263]]
+	},
+	"This tutor didn't set any counselling experiences yet": {
+		"translation": "This tutor didn't set any counselling experiences yet",
+		"origin": [["src/pages/Tutor/Profile/Experiences.jsx", 287]]
+	},
+	"This tutor didn't set any counselling yet": {
+		"translation": "This tutor didn't set any counselling yet",
+		"origin": [
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 231],
+			["src/pages/Tutor/Profile/Subjects.jsx", 357]
+		]
+	},
+	"This tutor didn't set any subjects yet": {
+		"translation": "This tutor didn't set any subjects yet",
+		"origin": [
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 183],
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 203],
+			["src/pages/Tutor/Profile/Subjects.jsx", 292],
+			["src/pages/Tutor/Profile/Subjects.jsx", 325]
+		]
+	},
+	"This tutor didn't set any tutoring experiences yet": {
+		"translation": "This tutor didn't set any tutoring experiences yet",
+		"origin": [
+			["src/pages/Tutor/Profile/Experiences.jsx", 247],
+			["src/pages/Tutor/Profile/Experiences.jsx", 267]
+		]
+	},
+	"This tutor didn't set their description yet": {
+		"translation": "This tutor didn't set their description yet",
+		"origin": [["src/pages/Tutor/Profile/AboutMe.jsx", 142]]
+	},
+	"This tutor didn't specify any certifications yet": {
+		"translation": "This tutor didn't specify any certifications yet",
+		"origin": [["src/pages/Tutor/Profile/_RenderCertifications.jsx", 13]]
+	},
+	"This tutor didn't specify any skills yet": {
+		"translation": "This tutor didn't specify any skills yet",
+		"origin": [["src/pages/Tutor/Profile/Skills.jsx", 107]]
+	},
+	"This tutor didn't upload any introduction videos yet. Ask them to <0>complete this section</0>": {
+		"translation": "This tutor didn't upload any introduction videos yet. Ask them to <0>complete this section</0>",
+		"origin": [["src/pages/Tutor/Profile/IntroVideos.jsx", 152]]
+	},
+	"This tutor has no testimonials yet": {
+		"translation": "This tutor has no testimonials yet",
+		"origin": [["src/pages/Tutor/Profile/_RenderTestimonials.jsx", 90]]
+	},
+	"This tutor has not set any teaching schedule yet": {
+		"translation": "This tutor has not set any teaching schedule yet",
+		"origin": [["src/pages/Tutor/Profile/Calendar/index.jsx", 236]],
+		"obsolete": true
+	},
+	"This tutor haven't set their education yet": {
+		"translation": "This tutor haven't set their education yet",
+		"origin": [["src/pages/Tutor/Profile/Education.jsx", 66]]
+	},
+	"This tutor is exclusive to Cudy": {
+		"translation": "This tutor is exclusive to Cudy",
+		"origin": [["src/pages/Tutor/Profile/OtherPlatforms.jsx", 111]]
+	},
+	"This week": {
+		"translation": "This week",
+		"origin": [["src/pages/Tutor/Profile/WhoViewed.jsx", 73]]
+	},
+	"Title of the assignment": {
+		"translation": "Title of the assignment",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 171]]
+	},
+	"To": {
+		"translation": "To",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 102],
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 157]
+		]
+	},
+	"To <0/> <1>{0}</1>": {
+		"translation": "To <0/> <1>{0}</1>",
+		"origin": [["src/pages/Tutor/Profile/CudyEvents.jsx", 36]]
+	},
+	"Today": {
+		"translation": "Today",
+		"origin": [["src/pages/Tutor/Profile/WhoViewed.js", 74]],
+		"obsolete": true
+	},
+	"Transaction fee": {
+		"translation": "Transaction fee",
+		"origin": [
+			["src/components/Payments/index.jsx", 102],
+			["src/components/Payments/index.jsx", 126],
+			["src/pages/CudyTranscribe/BuyTranscribeServices/BuyForm.jsx", 290]
+		]
+	},
+	"Transaction fee 2.9%": {
+		"translation": "Transaction fee 2.9%",
+		"origin": [
+			["src/components/Payments/index.jsx", 79],
+			["src/pages/CudyTranscribe/BuyTranscribeServices/BuyForm.jsx", 264]
+		]
+	},
+	"Translate success": {
+		"translation": "Translate success",
+		"origin": [["src/pages/CudyTranscribe/TranscribeItem.jsx", 149]]
+	},
+	"Tuition center": {
+		"translation": "Tuition center",
+		"origin": [
+			["src/pages/StudyPlaces/StudyCenter/index.jsx", 118],
+			["src/pages/StudyPlaces/index.jsx", 89]
+		]
+	},
+	"Tuition's name": {
+		"translation": "Tuition's name",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 264],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 265],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 368],
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 369],
+			["src/pages/Tutor/Profile/Experiences.jsx", 338],
+			["src/pages/Tutor/Profile/Experiences.jsx", 339],
+			["src/pages/Tutor/Profile/Experiences.jsx", 440],
+			["src/pages/Tutor/Profile/Experiences.jsx", 441]
+		]
+	},
+	"Tutor": {
+		"translation": "Tutor",
+		"origin": [["src/pages/Signup/index.jsx", 241]],
+		"obsolete": true
+	},
+	"Tutor / Coach / Counsellor": {
+		"translation": "Tutor / Coach / Counsellor",
+		"origin": [["src/pages/Signup/index.jsx", 244]]
+	},
+	"Tutor / coach": {
+		"translation": "Tutor / coach",
+		"origin": [["src/pages/Signup/index.jsx", 244]],
+		"obsolete": true
+	},
+	"Tutor's experience": {
+		"translation": "Tutor's experience",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 219]]
+	},
+	"Tutor/coach": {
+		"translation": "Tutor/coach",
+		"origin": [["src/pages/Signup/index.jsx", 241]],
+		"obsolete": true
+	},
+	"Tutoring experiences": {
+		"translation": "Tutoring experiences",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 205],
+			["src/pages/Tutor/Profile/index.jsx", 802]
+		]
+	},
+	"Tutors Status": {
+		"translation": "Tutors Status",
+		"origin": [["src/pages/ReadsSection/index.jsx", 227]]
+	},
+	"Uh oh, there's something bad happened": {
+		"translation": "Uh oh, there's something bad happened",
+		"origin": [["src/helpers/index.js", 54]]
+	},
+	"Until": {
+		"translation": "Until",
+		"origin": [
+			["src/pages/Tutor/Profile/Education.jsx", 124],
+			["src/pages/Tutor/Profile/Education.jsx", 180]
+		]
+	},
+	"Update": {
+		"translation": "Update",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Experiences.jsx", 429],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 425],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 473],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 532],
+			["src/pages/Tutor/Profile/Education.jsx", 189],
+			["src/pages/Tutor/Profile/Experiences.jsx", 499],
+			["src/pages/Tutor/Profile/OtherPlatforms.jsx", 226],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 189],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 254],
+			["src/pages/Tutor/Profile/_SubjectsEditMode.jsx", 331]
+		]
+	},
+	"Update certificate": {
+		"translation": "Update certificate",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 285],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 110]
+		]
+	},
+	"Upload a new file": {
+		"translation": "Upload a new file",
+		"origin": [["src/pages/CudyTranscribe/TranscribesTable.jsx", 449]]
+	},
+	"Upload a new story": {
+		"translation": "Upload a new story",
+		"origin": [["src/components/Stories/AddStories.jsx", 137]]
+	},
+	"Upload another video": {
+		"translation": "Upload another video",
+		"origin": [["src/pages/Tutor/Profile/IntroVideos.jsx", 214]]
+	},
+	"Upload profile banner": {
+		"translation": "Upload profile banner",
+		"origin": [["src/pages/Tutor/Profile/ProfileCover.jsx", 124]]
+	},
+	"Upload profile picture": {
+		"translation": "Upload profile picture",
+		"origin": [
+			["src/pages/Tutor/Profile/AvatarCard.jsx", 263],
+			["src/pages/Tutor/Settings/index.jsx", 459]
+		]
+	},
+	"Upload this certificate now": {
+		"translation": "Upload this certificate now",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 193],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 176]
+		]
+	},
+	"Upload this content now": {
+		"translation": "Upload this content now",
+		"origin": [["src/pages/BrowseListing/index.jsx", 357]]
+	},
+	"Upload this video now": {
+		"translation": "Upload this video now",
+		"origin": [["src/pages/Tutor/Profile/IntroVideos.jsx", 264]]
+	},
+	"Upload your Content": {
+		"translation": "Upload your Content",
+		"origin": [
+			["src/pages/BrowseListing/index.jsx", 288],
+			["src/pages/BrowseListing/index.jsx", 433]
+		]
+	},
+	"Upload your introduction video": {
+		"translation": "Upload your introduction video",
+		"origin": [["src/pages/Tutor/Profile/IntroVideos.jsx", 228]]
+	},
+	"Upload your introduction videos": {
+		"translation": "Upload your introduction videos",
+		"origin": [["src/pages/Tutor/Profile/IntroVideos.js", 162]],
+		"obsolete": true
+	},
+	"Upload your introductions": {
+		"translation": "Upload your introductions",
+		"origin": [["src/pages/Tutor/Profile/IntroVideos.jsx", 176]]
+	},
+	"Upload your video now": {
+		"translation": "Upload your video now",
+		"origin": [["src/pages/Tutor/Profile/IntroVideos.jsx", 187]]
+	},
+	"Upload...": {
+		"translation": "Upload...",
+		"origin": [
+			["src/pages/Tutor/Profile/AvatarCard.jsx", 278],
+			["src/pages/Tutor/Profile/ProfileCover.jsx", 134],
+			["src/pages/Tutor/Settings/index.jsx", 481]
+		]
+	},
+	"View": {
+		"translation": "View",
+		"origin": [["src/pages/Tutor/Profile/DataList.jsx", 47]]
+	},
+	"Want to be the first to receive every new assignments?": {
+		"translation": "Want to be the first to receive every new assignments?",
+		"origin": [["src/pages/Tutor/Assignments/Public.jsx", 217]]
+	},
+	"We are working on fixing the problem<0/>Please try again later": {
+		"translation": "We are working on fixing the problem<0/>Please try again later",
+		"origin": [["src/components/common/ConditionalPage.jsx", 26]]
+	},
+	"We have expert consultants in your area ready to help you": {
+		"translation": "We have expert consultants in your area ready to help you",
+		"origin": [["src/pages/Home/index.jsx", 352]]
+	},
+	"We help students to prepare for examinations in <0><1>Singapore</1><2>Indonesia</2><3>Malaysia</3><4>India</4><5>Vietnam</5><6>Philippines</6><7>Sri Lanka</7></0>": {
+		"translation": "We help students to prepare for examinations in <0><1>Singapore</1><2>Indonesia</2><3>Malaysia</3><4>India</4><5>Vietnam</5><6>Philippines</6><7>Sri Lanka</7></0>",
+		"origin": [["src/pages/Home/index.jsx", 160]]
+	},
+	"We need a few details about yourself": {
+		"translation": "We need a few details about yourself",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 94]]
+	},
+	"We've been working hard for this schedule feature. Please stay tuned.": {
+		"translation": "We've been working hard for this schedule feature. Please stay tuned.",
+		"origin": [["src/pages/Tutor/Profile/Calendar/index.jsx", 292]],
+		"obsolete": true
+	},
+	"Welcome back!": {
+		"translation": "Welcome back!",
+		"origin": [["src/pages/Signin/index.jsx", 83]]
+	},
+	"Well done!": {
+		"translation": "Well done!",
+		"origin": [["src/pages/AccountActive.jsx", 31]]
+	},
+	"What curriculum and level are you currently on": {
+		"translation": "What curriculum and level are you currently on",
+		"origin": [["src/pages/OnboardingStudents/Curriculum.jsx", 40]]
+	},
+	"Where you can shop for study essentials, through our partners, and earn rebates on Cudy.": {
+		"translation": "Where you can shop for study essentials, through our partners, and earn rebates on Cudy.",
+		"origin": [["src/pages/StudyShop/index.jsx", 133]]
+	},
+	"Who's viewed me?": {
+		"translation": "Who's viewed me?",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 573]]
+	},
+	"Who's viewed you": {
+		"translation": "Who's viewed you",
+		"origin": [["src/pages/Tutor/Profile/WhoViewed.jsx", 66]]
+	},
+	"Write down your specific reason...": {
+		"translation": "Write down your specific reason...",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 592]]
+	},
+	"Write your reply...": {
+		"translation": "Write your reply...",
+		"origin": [["src/pages/Home/ModalReply.jsx", 127]]
+	},
+	"Year issued": {
+		"translation": "Year issued",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 234],
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 236],
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 278],
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 280],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 105],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 217],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 219]
+		]
+	},
+	"Yes, I'd like to delete my account now": {
+		"translation": "Yes, I'd like to delete my account now",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 319]]
+	},
+	"Yes, delete my account": {
+		"translation": "Yes, delete my account",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 180]],
+		"obsolete": true
+	},
+	"Yesterday": {
+		"translation": "Yesterday",
+		"origin": [["src/pages/Tutor/Profile/WhoViewed.js", 103]],
+		"obsolete": true
+	},
+	"You are almost done": {
+		"translation": "You are almost done",
+		"origin": [["src/pages/AdditionalInfoTutor/index.jsx", 295]]
+	},
+	"You are almost done!": {
+		"translation": "You are almost done!",
+		"origin": [["src/pages/OnboardingStudents/index.jsx", 161]]
+	},
+	"You are being redirected as the Tutor doesn't teach in": {
+		"translation": "You are being redirected as the Tutor doesn't teach in",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 491]]
+	},
+	"You are being redirected as the Tutor doesn't teach in {0}": {
+		"translation": "You are being redirected as the Tutor doesn't teach in {0}",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 246]],
+		"obsolete": true
+	},
+	"You are being redirected as the tutor doesn't teach in the country you selected": {
+		"translation": "You are being redirected as the tutor doesn't teach in the country you selected",
+		"origin": [["src/pages/Tutor/Profile/index.js", 224]],
+		"obsolete": true
+	},
+	"You are being redirected as the tutor doesn't teach in {0}": {
+		"translation": "You are being redirected as the tutor doesn't teach in {0}",
+		"origin": [["src/pages/Tutor/Profile/index.js", 225]],
+		"obsolete": true
+	},
+	"You are being referred by": {
+		"translation": "You are being referred by",
+		"origin": [
+			["src/pages/Counselling/Signup.jsx", 101],
+			["src/pages/Signup/index.jsx", 100]
+		]
+	},
+	"You are being referred by  <0><1/> {0} {1}</0>": {
+		"translation": "You are being referred by  <0><1/> {0} {1}</0>",
+		"origin": [["src/pages/Signup/index.js", 90]],
+		"obsolete": true
+	},
+	"You can change this later, or even you can teach both of these fields. However, for now, you need to choose first": {
+		"translation": "You can change this later, or even you can teach both of these fields. However, for now, you need to choose first",
+		"origin": [["src/pages/AdditionalInfoTutor/PreferField.jsx", 79]]
+	},
+	"You can only post an assignment in": {
+		"translation": "You can only post an assignment in",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 124]]
+	},
+	"You can refer your profile to your friend and get some extra benefits. Copy and share your referral link below to get started": {
+		"translation": "You can refer your profile to your friend and get some extra benefits. Copy and share your referral link below to get started",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 591]]
+	},
+	"You can search either tutor's name or city/province": {
+		"translation": "You can search either tutor's name or city/province",
+		"origin": [
+			["src/pages/Counselling/BrowseCounsellor/_FilteringPanel.jsx", 102],
+			["src/pages/Lifelong/BrowseCoaches/_FilteringPanel.jsx", 108],
+			["src/pages/Marketplace/FilteringPanel.jsx", 108]
+		]
+	},
+	"You can see testimonials of this tutor, if you are already logged in. Go login now.": {
+		"translation": "You can see testimonials of this tutor, if you are already logged in. Go login now.",
+		"origin": [["src/pages/Tutor/Profile/_RenderTestimonials.jsx", 66]]
+	},
+	"You didn't specify any skills yet": {
+		"translation": "You didn't specify any skills yet",
+		"origin": [["src/pages/Tutor/Profile/Skills.jsx", 125]]
+	},
+	"You don't have any balance in your account": {
+		"translation": "You don't have any balance in your account",
+		"origin": [["src/components/Payments/index.jsx", 128]],
+		"obsolete": true
+	},
+	"You don't have any credit in your account": {
+		"translation": "You don't have any credit in your account",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 139]],
+		"obsolete": true
+	},
+	"You have a new testimonial": {
+		"translation": "You have a new testimonial",
+		"origin": [["src/components/common/NotificationPanel.jsx", 106]]
+	},
+	"You have accepted the assignment. Wait until the student reaches you": {
+		"translation": "You have accepted the assignment. Wait until the student reaches you",
+		"origin": [["src/pages/Tutor/Assignments/Acceptance.jsx", 20]]
+	},
+	"You have no notifications at the moment. Enjoy your day!": {
+		"translation": "You have no notifications at the moment. Enjoy your day!",
+		"origin": [
+			["src/components/common/NotificationPanel.jsx", 49],
+			["src/components/common/NotificationPanel.jsx", 84]
+		]
+	},
+	"You have rejected the assignment. That's okay. Probably you'll get clicked with other future assignments.": {
+		"translation": "You have rejected the assignment. That's okay. Probably you'll get clicked with other future assignments.",
+		"origin": [["src/pages/Tutor/Assignments/Acceptance.jsx", 22]]
+	},
+	"You have successfully purchase some storage. Thanks! :)": {
+		"translation": "You have successfully purchase some storage. Thanks! :)",
+		"origin": [["src/pages/Dashboard/CloudStorage/index.js", 23]],
+		"obsolete": true
+	},
+	"You have to agree first": {
+		"translation": "You have to agree first",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 221]],
+		"obsolete": true
+	},
+	"You have to choose one of the curriculum": {
+		"translation": "You have to choose one of the curriculum",
+		"origin": [["src/pages/Tutor/Assignments/validation.js", 7]],
+		"obsolete": true
+	},
+	"You have to choose one of the subject": {
+		"translation": "You have to choose one of the subject",
+		"origin": [["src/pages/Tutor/Assignments/validation.js", 8]],
+		"obsolete": true
+	},
+	"You have to choose the subject": {
+		"translation": "You have to choose the subject",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 214]]
+	},
+	"You have to choose your tutor's preferred gender": {
+		"translation": "You have to choose your tutor's preferred gender",
+		"origin": [["src/pages/Tutor/Assignments/validation.js", 10]],
+		"obsolete": true
+	},
+	"You have to fill in the URL link": {
+		"translation": "You have to fill in the URL link",
+		"origin": [["src/pages/Tutor/Profile/OtherPlatforms.jsx", 255]]
+	},
+	"You have to fill in the title": {
+		"translation": "You have to fill in the title",
+		"origin": [["src/pages/Tutor/Assignments/validation.js", 6]],
+		"obsolete": true
+	},
+	"You have to fill in your curriculum": {
+		"translation": "You have to fill in your curriculum",
+		"origin": [["src/pages/Tutor/Profile/Experiences.jsx", 528]]
+	},
+	"You have to fill in your level/curriculum": {
+		"translation": "You have to fill in your level/curriculum",
+		"origin": [["src/pages/Tutor/Profile/Subjects.jsx", 404]]
+	},
+	"You have to fill in your password": {
+		"translation": "You have to fill in your password",
+		"origin": [
+			["src/pages/Counselling/Signup.jsx", 287],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/CompanyRegister.jsx", 75],
+			["src/pages/Signup/index.jsx", 322]
+		]
+	},
+	"You have to fill in your subject": {
+		"translation": "You have to fill in your subject",
+		"origin": [
+			["src/pages/Tutor/Profile/Experiences.jsx", 529],
+			["src/pages/Tutor/Profile/Experiences.jsx", 533],
+			["src/pages/Tutor/Profile/Experiences.jsx", 537],
+			["src/pages/Tutor/Profile/Subjects.jsx", 403]
+		]
+	},
+	"You have to set the price range": {
+		"translation": "You have to set the price range",
+		"origin": [["src/pages/Tutor/Assignments/validation.js", 9]],
+		"obsolete": true
+	},
+	"You have to specify the section first": {
+		"translation": "You have to specify the section first",
+		"origin": [["src/pages/Tutor/Profile/_CompleteProfileModal.jsx", 67]]
+	},
+	"You have to tell the issuer": {
+		"translation": "You have to tell the issuer",
+		"origin": [["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 243]]
+	},
+	"You have to tell the name of the certificate": {
+		"translation": "You have to tell the name of the certificate",
+		"origin": [["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 242]]
+	},
+	"You have to tell when the certificate is issued": {
+		"translation": "You have to tell when the certificate is issued",
+		"origin": [["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 244]]
+	},
+	"You have to tell your email": {
+		"translation": "You have to tell your email",
+		"origin": [
+			["src/pages/Counselling/Signup.jsx", 283],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/CompanyRegister.jsx", 71],
+			["src/pages/Signup/index.jsx", 318]
+		]
+	},
+	"You have to tell your friend's name": {
+		"translation": "You have to tell your friend's name",
+		"origin": [["src/pages/Signup/index.js", 427]],
+		"obsolete": true
+	},
+	"You have to tell your preferred location": {
+		"translation": "You have to tell your preferred location",
+		"origin": [["src/pages/Tutor/Assignments/Post.jsx", 229]]
+	},
+	"You haven't done anything for a while. Please refresh the page to restore your session.": {
+		"translation": "You haven't done anything for a while. Please refresh the page to restore your session.",
+		"origin": [["src/App.jsx", 136]]
+	},
+	"You haven't gained any testimonials yet": {
+		"translation": "You haven't gained any testimonials yet",
+		"origin": [["src/pages/Tutor/Profile/_RenderTestimonials.jsx", 92]]
+	},
+	"You haven't set any certifications yet": {
+		"translation": "You haven't set any certifications yet",
+		"origin": [["src/pages/Tutor/Profile/_RenderCertifications.jsx", 15]]
+	},
+	"You haven't set any counselling experiences yet": {
+		"translation": "You haven't set any counselling experiences yet",
+		"origin": [["src/pages/Tutor/Profile/Experiences.jsx", 289]]
+	},
+	"You haven't set any counselling yet": {
+		"translation": "You haven't set any counselling yet",
+		"origin": [
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 233],
+			["src/pages/Tutor/Profile/Subjects.jsx", 359]
+		]
+	},
+	"You haven't set any platforms yet": {
+		"translation": "You haven't set any platforms yet",
+		"origin": [["src/pages/Tutor/Profile/OtherPlatforms.jsx", 135]]
+	},
+	"You haven't set any schedule in this date": {
+		"translation": "You haven't set any schedule in this date",
+		"origin": [["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 83]],
+		"obsolete": true
+	},
+	"You haven't set any subjects yet": {
+		"translation": "You haven't set any subjects yet",
+		"origin": [
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 185],
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 205],
+			["src/pages/Tutor/Profile/Subjects.jsx", 294],
+			["src/pages/Tutor/Profile/Subjects.jsx", 327]
+		]
+	},
+	"You haven't set any teaching schedule yet": {
+		"translation": "You haven't set any teaching schedule yet",
+		"origin": [["src/pages/Tutor/Profile/Calendar/index.jsx", 239]],
+		"obsolete": true
+	},
+	"You haven't set any tutoring experiences yet": {
+		"translation": "You haven't set any tutoring experiences yet",
+		"origin": [
+			["src/pages/Tutor/Profile/Experiences.jsx", 249],
+			["src/pages/Tutor/Profile/Experiences.jsx", 269]
+		]
+	},
+	"You haven't set your description yet": {
+		"translation": "You haven't set your description yet",
+		"origin": [["src/pages/Tutor/Profile/AboutMe.jsx", 144]]
+	},
+	"You haven't set your education yet": {
+		"translation": "You haven't set your education yet",
+		"origin": [["src/pages/Tutor/Profile/Education.jsx", 68]]
+	},
+	"You need to choose photo!": {
+		"translation": "You need to choose photo!",
+		"origin": [
+			["src/components/Stories/AddHighlightStoriesModel.jsx", 31],
+			["src/components/Stories/AddHighlightStoriesModel.jsx", 31]
+		]
+	},
+	"You need to choose subject for your story": {
+		"translation": "You need to choose subject for your story",
+		"origin": [
+			["src/components/Stories/AddStories.jsx", 92],
+			["src/components/Stories/AddStories.jsx", 92]
+		]
+	},
+	"You only can be found after completing at least 80% of your profile. Come complete and make your profile easier to find!": {
+		"translation": "You only can be found after completing at least 80% of your profile. Come complete and make your profile easier to find!",
+		"origin": [["src/pages/Tutor/Profile/index.js", 238]],
+		"obsolete": true
+	},
+	"You only can be found after completing at least <0>60%</0> of your profile. Come complete and make your profile easier to find!": {
+		"translation": "You only can be found after completing at least <0>60%</0> of your profile. Come complete and make your profile easier to find!",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 334]],
+		"obsolete": true
+	},
+	"You only can be found after completing at least <0>80%</0> of your profile. Come complete and make your profile easier to find!": {
+		"translation": "You only can be found after completing at least <0>80%</0> of your profile. Come complete and make your profile easier to find!",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 330]],
+		"obsolete": true
+	},
+	"You only can be found after {0} {1}. Come complete and make your profile easier to find!": {
+		"translation": "You only can be found after {0} {1}. Come complete and make your profile easier to find!",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 512]]
+	},
+	"You posted an assignment": {
+		"translation": "You posted an assignment",
+		"origin": [["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 63]],
+		"obsolete": true
+	},
+	"You rejected it :(": {
+		"translation": "You rejected it :(",
+		"origin": [["src/pages/Tutor/Assignments/Acceptance.jsx", 17]]
+	},
+	"You will be redirected to the e-commerce page with a tracked URL": {
+		"translation": "You will be redirected to the e-commerce page with a tracked URL",
+		"origin": [["src/pages/StudyShop/HowtoModal.jsx", 40]]
+	},
+	"You're all set!": {
+		"translation": "You're all set!",
+		"origin": [["src/pages/AdditionalInfoTutor/Thankyou.jsx", 25]]
+	},
+	"You're almost there": {
+		"translation": "You're almost there",
+		"origin": [
+			["src/components/Navbar.jsx", 112],
+			["src/components/common/MenuDrawer.jsx", 136],
+			["src/components/common/ProfileCompletion.jsx", 59]
+		]
+	},
+	"You're playing too far. It's time to turn around and go back home.": {
+		"translation": "You're playing too far. It's time to turn around and go back home.",
+		"origin": [["src/components/common/ConditionalPage.jsx", 67]]
+	},
+	"You've been found!": {
+		"translation": "You've been found!",
+		"origin": [["src/components/common/NotificationPanel.jsx", 107]]
+	},
+	"You've completed your profile, and that's great!": {
+		"translation": "You've completed your profile, and that's great!",
+		"origin": [["src/components/common/ProfileCompletion.jsx", 61]]
+	},
+	"You've finished the test. And here's the result.": {
+		"translation": "You've finished the test. And here's the result.",
+		"origin": [["src/pages/Counselling/Assessment/Success.jsx", 60]]
+	},
+	"You've made it!": {
+		"translation": "You've made it!",
+		"origin": [
+			["src/components/Navbar.jsx", 112],
+			["src/components/common/MenuDrawer.jsx", 135],
+			["src/components/common/ProfileCompletion.jsx", 59]
+		]
+	},
+	"You've {0} this comment": {
+		"translation": "You've {0} this comment",
+		"origin": [["src/pages/Home/Feeds.jsx", 160]]
+	},
+	"Your Deleted successfully": {
+		"translation": "Your Deleted successfully",
+		"origin": [["src/pages/ReadsSection/index.jsx", 175]]
+	},
+	"Your account is active. Now start logging in to browse best tutors around us.": {
+		"translation": "Your account is active. Now start logging in to browse best tutors around us.",
+		"origin": [["src/pages/AccountActive.jsx", 32]]
+	},
+	"Your alrticle has been submitted.": {
+		"translation": "Your alrticle has been submitted.",
+		"origin": [["src/pages/ReadsSection/readSuccess.jsx", 28]]
+	},
+	"Your article has been sent to Team Dashboard for review.": {
+		"translation": "Your article has been sent to Team Dashboard for review.",
+		"origin": [
+			["src/pages/ReadsSection/createCudyRead.jsx", 97],
+			["src/pages/ReadsSection/editCudyRead.jsx", 127],
+			["src/pages/ReadsSection/index.jsx", 51]
+		]
+	},
+	"Your assignments": {
+		"translation": "Your assignments",
+		"origin": [["src/pages/Tutor/Assignments/index.jsx", 135]]
+	},
+	"Your balance is": {
+		"translation": "Your balance is",
+		"origin": [["src/components/Payments/index.jsx", 234]]
+	},
+	"Your balance {currency} {0}": {
+		"translation": "Your balance {currency} {0}",
+		"origin": [["src/components/Navbar.jsx", 91]],
+		"obsolete": true
+	},
+	"Your basic profile details": {
+		"translation": "Your basic profile details",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 360]]
+	},
+	"Your certificate has been added": {
+		"translation": "Your certificate has been added",
+		"origin": [["src/pages/AdditionalInfoTutor/Certifications.jsx", 87]]
+	},
+	"Your certificate has been deleted": {
+		"translation": "Your certificate has been deleted",
+		"origin": [["src/pages/AdditionalInfoTutor/Certifications.jsx", 105]]
+	},
+	"Your certificate has been updated": {
+		"translation": "Your certificate has been updated",
+		"origin": [["src/pages/AdditionalInfoTutor/Certifications.jsx", 96]]
+	},
+	"Your certificate is uploaded. Now please fill in the details of the certificate.": {
+		"translation": "Your certificate is uploaded. Now please fill in the details of the certificate.",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Certifications.jsx", 179],
+			["src/pages/Tutor/Profile/_RenderEditCertifications.jsx", 161]
+		]
+	},
+	"Your comment has been added": {
+		"translation": "Your comment has been added",
+		"origin": [["src/pages/Home/Feeds.jsx", 150]]
+	},
+	"Your comment was add successfully.": {
+		"translation": "Your comment was add successfully.",
+		"origin": [["src/pages/ReadsSection/Comments/CommentEditor.jsx", 123]]
+	},
+	"Your current curriculum and level...": {
+		"translation": "Your current curriculum and level...",
+		"origin": [["src/pages/OnboardingStudents/Curriculum.jsx", 54]]
+	},
+	"Your curriculum and level": {
+		"translation": "Your curriculum and level",
+		"origin": [["src/pages/OnboardingStudents/Curriculum.jsx", 39]]
+	},
+	"Your curriculum has been updated": {
+		"translation": "Your curriculum has been updated",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 274]]
+	},
+	"Your date of birth": {
+		"translation": "Your date of birth",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 406]]
+	},
+	"Your date of birth...": {
+		"translation": "Your date of birth...",
+		"origin": [["src/pages/OnboardingStudents/Basic.jsx", 101]]
+	},
+	"Your details has been updated": {
+		"translation": "Your details has been updated",
+		"origin": [["src/pages/Tutor/Profile/AboutMe.jsx", 30]]
+	},
+	"Your education has been deleted": {
+		"translation": "Your education has been deleted",
+		"origin": [["src/pages/Tutor/Profile/Education.jsx", 234]]
+	},
+	"Your education has been updated": {
+		"translation": "Your education has been updated",
+		"origin": [["src/pages/Tutor/Profile/Education.jsx", 230]]
+	},
+	"Your email": {
+		"translation": "Your email",
+		"origin": [
+			["src/pages/Counselling/Signup.jsx", 188],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/CompanyLogin.jsx", 65],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ForgetPassword.jsx", 58],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/ResendVerification.jsx", 71],
+			["src/pages/ForgotPassword/index.jsx", 60],
+			["src/pages/ResendVerification/index.jsx", 63],
+			["src/pages/Signin/index.jsx", 114],
+			["src/pages/Signup/index.jsx", 208],
+			["src/pages/Tutor/Profile/AddTestimonials.jsx", 127]
+		]
+	},
+	"Your feeds": {
+		"translation": "Your feeds",
+		"origin": [["src/pages/Home/Feeds.jsx", 272]]
+	},
+	"Your file has been successfully uploaded!": {
+		"translation": "Your file has been successfully uploaded!",
+		"origin": [
+			["src/pages/CudyTranscribe/SubtitlesTable.jsx", 181],
+			["src/pages/CudyTranscribe/TranscribesTable.jsx", 384]
+		]
+	},
+	"Your file has been un successfully uploaded!": {
+		"translation": "Your file has been un successfully uploaded!",
+		"origin": [
+			["src/pages/CudyTranscribe/SubtitlesTable.jsx", 170],
+			["src/pages/CudyTranscribe/SubtitlesTable.jsx", 170],
+			["src/pages/CudyTranscribe/TranscribesTable.jsx", 374],
+			["src/pages/CudyTranscribe/TranscribesTable.jsx", 374]
+		]
+	},
+	"Your file must be stupported format": {
+		"translation": "Your file must be stupported format",
+		"origin": [
+			["src/pages/CudyTranscribe/SubtitlesTable.jsx", 175],
+			["src/pages/CudyTranscribe/SubtitlesTable.jsx", 175],
+			["src/pages/CudyTranscribe/TranscribesTable.jsx", 379],
+			["src/pages/CudyTranscribe/TranscribesTable.jsx", 379]
+		]
+	},
+	"Your first name": {
+		"translation": "Your first name",
+		"origin": [
+			["src/pages/Tutor/Profile/AddTestimonials.jsx", 109],
+			["src/pages/Tutor/Profile/AddTestimonials.jsx", 110]
+		]
+	},
+	"Your first name...": {
+		"translation": "Your first name...",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Name.jsx", 51],
+			["src/pages/OnboardingStudents/Name.jsx", 52]
+		]
+	},
+	"Your friends": {
+		"translation": "Your friends",
+		"origin": [["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 239]]
+	},
+	"Your last name": {
+		"translation": "Your last name",
+		"origin": [
+			["src/pages/Tutor/Profile/AddTestimonials.jsx", 116],
+			["src/pages/Tutor/Profile/AddTestimonials.jsx", 117]
+		]
+	},
+	"Your last name...": {
+		"translation": "Your last name...",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Name.jsx", 54],
+			["src/pages/OnboardingStudents/Name.jsx", 55]
+		]
+	},
+	"Your location": {
+		"translation": "Your location",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/AboutMe.jsx", 134],
+			["src/pages/OnboardingStudents/Basic.jsx", 132],
+			["src/pages/Tutor/Profile/AboutMe.jsx", 95],
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 262]
+		]
+	},
+	"Your location in Singapore": {
+		"translation": "Your location in Singapore",
+		"origin": [["src/pages/AdditionalInfoTutor/AboutMe.js", 130]],
+		"obsolete": true
+	},
+	"Your location...": {
+		"translation": "Your location...",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/AboutMe.jsx", 133],
+			["src/pages/OnboardingStudents/Basic.jsx", 131],
+			["src/pages/Tutor/Profile/AboutMe.jsx", 94],
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 261]
+		]
+	},
+	"Your message to them": {
+		"translation": "Your message to them",
+		"origin": [["src/pages/Tutor/Profile/_CompleteProfileModal.jsx", 82]]
+	},
+	"Your mobile": {
+		"translation": "Your mobile",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/AboutMe.jsx", 111],
+			["src/pages/OnboardingStudents/Basic.jsx", 108]
+		]
+	},
+	"Your name": {
+		"translation": "Your name",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Name.jsx", 30],
+			["src/pages/OnboardingStudents/Name.jsx", 30]
+		]
+	},
+	"Your new password": {
+		"translation": "Your new password",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 542]]
+	},
+	"Your new password...": {
+		"translation": "Your new password...",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 541]]
+	},
+	"Your old password": {
+		"translation": "Your old password",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 554]]
+	},
+	"Your old password...": {
+		"translation": "Your old password...",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 553]]
+	},
+	"Your password": {
+		"translation": "Your password",
+		"origin": [
+			["src/pages/Counselling/Signup.jsx", 193],
+			["src/pages/CudyJobs/CompanyLoginAndRegister/CompanyLogin.jsx", 72],
+			["src/pages/Signin/index.jsx", 118],
+			["src/pages/Signup/index.jsx", 219]
+		]
+	},
+	"Your password has been changed": {
+		"translation": "Your password has been changed",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 289]]
+	},
+	"Your preferrable field": {
+		"translation": "Your preferrable field",
+		"origin": [["src/pages/AdditionalInfoTutor/PreferField.jsx", 66]]
+	},
+	"Your price per hour...": {
+		"translation": "Your price per hour...",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 272],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 310],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 419],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 467],
+			["src/pages/AdditionalInfoTutor/Subjects.jsx", 526]
+		]
+	},
+	"Your profile Picure": {
+		"translation": "Your profile Picure",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 439]]
+	},
+	"Your profile has been updated": {
+		"translation": "Your profile has been updated",
+		"origin": [["src/pages/Tutor/Settings/index.jsx", 281]]
+	},
+	"Your profile is complete": {
+		"translation": "Your profile is complete",
+		"origin": [
+			["src/components/Navbar.jsx", 113],
+			["src/components/common/MenuDrawer.jsx", 139]
+		]
+	},
+	"Your profile's URL": {
+		"translation": "Your profile's URL",
+		"origin": [
+			["src/pages/Tutor/Profile/OtherPlatforms.jsx", 192],
+			["src/pages/Tutor/Profile/OtherPlatforms.jsx", 222]
+		]
+	},
+	"Your purchase will be tracked and rebate will be credited to your Cudy account in a few weeks": {
+		"translation": "Your purchase will be tracked and rebate will be credited to your Cudy account in a few weeks",
+		"origin": [["src/pages/StudyShop/HowtoModal.jsx", 54]]
+	},
+	"Your race...": {
+		"translation": "Your race...",
+		"origin": [["src/pages/AdditionalInfoTutor/AboutMe.js", 124]],
+		"obsolete": true
+	},
+	"Your request has been sent. Thank you! :)": {
+		"translation": "Your request has been sent. Thank you! :)",
+		"origin": [["src/pages/Tutor/Profile/_CompleteProfileModal.jsx", 22]]
+	},
+	"Your school/college": {
+		"translation": "Your school/college",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 79],
+			["src/pages/AdditionalInfoTutor/Educations.jsx", 140],
+			["src/pages/Tutor/Profile/Education.jsx", 101],
+			["src/pages/Tutor/Profile/Education.jsx", 156]
+		]
+	},
+	"Your session is not active": {
+		"translation": "Your session is not active",
+		"origin": [["src/App.jsx", 134]]
+	},
+	"Your skills": {
+		"translation": "Your skills",
+		"origin": [["src/pages/Tutor/Profile/Skills.jsx", 82]]
+	},
+	"Your story has been successfully uploaded!": {
+		"translation": "Your story has been successfully uploaded!",
+		"origin": [["src/components/Stories/AddStories.jsx", 126]]
+	},
+	"Your students will receive an email for verification to activate your testimonial once submitted": {
+		"translation": "Your students will receive an email for verification to activate your testimonial once submitted",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 622]]
+	},
+	"Your testimonial has been sent": {
+		"translation": "Your testimonial has been sent",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 60]]
+	},
+	"Your testimonial has been submitted. And you are also successfully registered. See the email we've just sent you to get started.": {
+		"translation": "Your testimonial has been submitted. And you are also successfully registered. See the email we've just sent you to get started.",
+		"origin": [["src/pages/Tutor/Profile/TestimonialSuccess.jsx", 25]]
+	},
+	"Your testimonials": {
+		"translation": "Your testimonials",
+		"origin": [["src/pages/Tutor/Profile/AddTestimonials.jsx", 189]]
+	},
+	"Your video has been successfully uploaded!": {
+		"translation": "Your video has been successfully uploaded!",
+		"origin": [["src/pages/Tutor/Profile/IntroVideos.jsx", 128]]
+	},
+	"accepts the assignment": {
+		"translation": "accepts the assignment",
+		"origin": [["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 189]]
+	},
+	"added": {
+		"translation": "added",
+		"origin": [["src/pages/Tutor/Profile/Experiences.jsx", 157]],
+		"obsolete": true
+	},
+	"copied success": {
+		"translation": "copied success",
+		"origin": [
+			["src/components/HiddenPassword.jsx", 17],
+			["src/pages/CudyClasses/ClassesTable.jsx", 54]
+		]
+	},
+	"created successfully": {
+		"translation": "created successfully",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 356]]
+	},
+	"deleted successfully": {
+		"translation": "deleted successfully",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 368]]
+	},
+	"find our best tutors": {
+		"translation": "find our best tutors",
+		"origin": [["src/pages/AdditionalInfoTutor/Thankyou.jsx", 29]]
+	},
+	"for 8 lessons in advance, which will be stored as balance in your account": {
+		"translation": "for 8 lessons in advance, which will be stored as balance in your account",
+		"origin": [["src/components/Payments/index.jsx", 242]]
+	},
+	"go to your profile": {
+		"translation": "go to your profile",
+		"origin": [["src/pages/AdditionalInfoTutor/Thankyou.jsx", 29]]
+	},
+	"her": {
+		"translation": "her",
+		"origin": [
+			["src/pages/Tutor/Profile/_CompleteProfileModal.js", 38],
+			["src/pages/Tutor/Profile/_CompleteProfileModal.js", 39],
+			["src/pages/Tutor/Profile/_CompleteProfileModal.js", 40]
+		],
+		"obsolete": true
+	},
+	"him": {
+		"translation": "him",
+		"origin": [["src/pages/Tutor/Profile/_CompleteProfileModal.js", 39]],
+		"obsolete": true
+	},
+	"his": {
+		"translation": "his",
+		"origin": [
+			["src/pages/Tutor/Profile/_CompleteProfileModal.js", 38],
+			["src/pages/Tutor/Profile/_CompleteProfileModal.js", 40]
+		],
+		"obsolete": true
+	},
+	"in different subject": {
+		"translation": "in different subject",
+		"origin": [["src/pages/Home/index.jsx", 245]]
+	},
+	"or": {
+		"translation": "or",
+		"origin": [["src/components/common/MenuDrawer.jsx", 228]]
+	},
+	"rejects the assignment": {
+		"translation": "rejects the assignment",
+		"origin": [["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 189]]
+	},
+	"something went wrong": {
+		"translation": "something went wrong",
+		"origin": [
+			["src/pages/ReadsSection/public.jsx", 100],
+			["src/pages/ReadsSection/public.jsx", 107],
+			["src/pages/ReadsSection/public.jsx", 114]
+		]
+	},
+	"updated": {
+		"translation": "updated",
+		"origin": [["src/pages/Tutor/Profile/Experiences.jsx", 157]],
+		"obsolete": true
+	},
+	"when you purchase this item": {
+		"translation": "when you purchase this item",
+		"origin": [["src/pages/StudyShop/Modal.jsx", 71]]
+	},
+	"{0}": {
+		"translation": "{0}",
+		"origin": [
+			["src/pages/AdditionalInfoTutor/Thankyou.jsx", 38],
+			["src/pages/CudyTranscribe/BuyTranscribeServices/BuyForm.jsx", 194],
+			["src/pages/CudyTranscribe/SubtitlesTable.jsx", 204],
+			["src/pages/CudyTranscribe/TTSForm.jsx", 90],
+			["src/pages/CudyTranscribe/TTSForm.jsx", 106],
+			["src/pages/CudyTranscribe/TranscribeItem.jsx", 155],
+			["src/pages/CudyTranscribe/TranscribesTable.jsx", 404],
+			["src/pages/Home/index.jsx", 368],
+			["src/pages/Tutor/Assignments/index.jsx", 86]
+		]
+	},
+	"{0} <0/>": {
+		"translation": "{0} <0/>",
+		"origin": [["src/pages/OnboardingStudents/Name.jsx", 62]]
+	},
+	"{0} entries": {
+		"translation": "{0} entries",
+		"origin": [["src/pages/Home/Feeds.jsx", 279]]
+	},
+	"{0} file upload failed": {
+		"translation": "{0} file upload failed",
+		"origin": [["src/components/forms/UploadInput.jsx", 47]]
+	},
+	"{0} file uploaded successfully": {
+		"translation": "{0} file uploaded successfully",
+		"origin": [["src/components/forms/UploadInput.jsx", 45]]
+	},
+	"{0} years": {
+		"translation": "{0} years",
+		"origin": [
+			["src/pages/Tutor/Assignments/AssignmentDetails.jsx", 226],
+			["src/pages/Tutor/Assignments/index.jsx", 105]
+		]
+	},
+	"{0} {1} per hour": {
+		"translation": "{0} {1} per hour",
+		"origin": [
+			["src/pages/Tutor/Profile/Subjects.js", 341],
+			["src/pages/Tutor/Profile/Subjects.js", 360]
+		],
+		"obsolete": true
+	},
+	"{0} {pricePerHour} per hour": {
+		"translation": "{0} {pricePerHour} per hour",
+		"origin": [
+			["src/pages/Tutor/Profile/Subjects.js", 343],
+			["src/pages/Tutor/Profile/Subjects.js", 362]
+		],
+		"obsolete": true
+	},
+	"{0}y exp": {
+		"translation": "{0}y exp",
+		"origin": [["src/pages/Tutor/Profile/AvatarCard.jsx", 178]]
+	},
+	"{0}y experience": {
+		"translation": "{0}y experience",
+		"origin": [["src/pages/Tutor/Profile/index.jsx", 450]]
+	},
+	"{error}": {
+		"translation": "{error}",
+		"origin": [
+			["src/pages/ReadsSection/public.jsx", 42],
+			["src/pages/ReadsSection/public.jsx", 51],
+			["src/pages/ReadsSection/public.jsx", 60],
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 71],
+			["src/pages/Tutor/Profile/Calendar/DateModal.jsx", 108],
+			["src/pages/Tutor/Profile/index.jsx", 169],
+			["src/pages/Tutor/Profile/index.jsx", 217],
+			["src/pages/Tutor/Profile/index.jsx", 400],
+			["src/pages/Tutor/Profile/index.jsx", 407]
+		]
+	},
+	"{experienceYears} y exp": {
+		"translation": "{experienceYears} y exp",
+		"origin": [["src/components/common/TutorCard.jsx", 76]]
+	},
+	"{pricePerHour} per hour": {
+		"translation": "{pricePerHour} per hour",
+		"origin": [
+			["src/pages/Tutor/Profile/Subjects.js", 341],
+			["src/pages/Tutor/Profile/Subjects.js", 355]
+		],
+		"obsolete": true
+	},
+	"{symbol} {0} per hour": {
+		"translation": "{symbol} {0} per hour",
+		"origin": [
+			["src/pages/Tutor/Profile/Subjects.jsx", 310],
+			["src/pages/Tutor/Profile/Subjects.jsx", 342],
+			["src/pages/Tutor/Profile/Subjects.jsx", 370]
+		]
+	},
+	"{totalExp} experience": {
+		"translation": "{totalExp} experience",
+		"origin": [["src/pages/Tutor/Profile/Experiences.js", 107]],
+		"obsolete": true
+	},
+	"{totalExp}y experience": {
+		"translation": "{totalExp}y experience",
+		"origin": [["src/pages/Tutor/Profile/Experiences.jsx", 114]]
+	}
+}

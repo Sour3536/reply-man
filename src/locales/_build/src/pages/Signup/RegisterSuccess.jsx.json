@@ -1,0 +1,74 @@
+{
+  "Thank you! :)": {
+    "origin": [
+      [
+        "src/pages/Signup/RegisterSuccess.jsx",
+        46
+      ]
+    ]
+  },
+  "Hey, thank you for registering at Cudy! Now please take a look at your inbox and verify your account. Don't worry, won't take you long. We promise.": {
+    "origin": [
+      [
+        "src/pages/Signup/RegisterSuccess.jsx",
+        48
+      ]
+    ]
+  },
+  "Don't forget to check your spam/junk folder too :)": {
+    "origin": [
+      [
+        "src/pages/Signup/RegisterSuccess.jsx",
+        55
+      ]
+    ]
+  },
+  "Didn't receive the verification email?": {
+    "origin": [
+      [
+        "src/pages/Signup/RegisterSuccess.jsx",
+        59
+      ]
+    ]
+  },
+  "<0>Mind to spread some words?</0>": {
+    "origin": [
+      [
+        "src/pages/Signup/RegisterSuccess.jsx",
+        65
+      ]
+    ]
+  },
+  "Join Cutors! <0>🙋🏼‍♂️</0>": {
+    "origin": [
+      [
+        "src/pages/Signup/RegisterSuccess.jsx",
+        75
+      ]
+    ]
+  },
+  "If you are a tutor, don't forget to join our dedicated community of Tutors in {0} as well. We've been waiting for you.": {
+    "origin": [
+      [
+        "src/pages/Signup/RegisterSuccess.jsx",
+        83
+      ]
+    ]
+  },
+  "<0>Join now <1/></0>": {
+    "origin": [
+      [
+        "src/pages/Signup/RegisterSuccess.jsx",
+        89
+      ]
+    ]
+  },
+  "<0>Back to Home</0>": {
+    "origin": [
+      [
+        "src/pages/Signup/RegisterSuccess.jsx",
+        99
+      ]
+    ]
+  }
+}

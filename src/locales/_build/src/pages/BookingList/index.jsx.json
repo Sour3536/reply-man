@@ -1,0 +1,18 @@
+{
+  "Open Class": {
+    "origin": [
+      [
+        "src/pages/BookingList/index.jsx",
+        76
+      ]
+    ]
+  },
+  "Chat": {
+    "origin": [
+      [
+        "src/pages/BookingList/index.jsx",
+        96
+      ]
+    ]
+  }
+}
