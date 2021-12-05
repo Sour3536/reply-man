@@ -15,7 +15,7 @@ const StyledButton = styled(ButtonAntd)`
 				: type === 'default'
 				? 'rgba(0, 0, 0, 0.65)'
 				: type === 'link'
-				? '#5800FF'
+				? '#5AB9EA'
 				: 'inherit'};
 		background-color: ${({ social, type }) =>
 			social === 'facebook' ? '#3b5998' : social === 'google' ? '#ea4335' : type === 'link' ? '#e3e3e3' : ''};
@@ -27,7 +27,7 @@ const StyledButton = styled(ButtonAntd)`
 				: type === 'ghost' || type === 'dashed'
 				? '#d9d9d9'
 				: type === 'primary'
-				? '#5800ff'
+				? '#5AB9EA'
 				: type === 'default' || type === 'link'
 				? 'transparent'
 				: 'inherit'};

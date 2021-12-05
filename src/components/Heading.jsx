@@ -46,7 +46,7 @@ function Heading({
 	return (
 		<Typo {...props}>
 			{icon && <Icon type={icon} theme={iconTheme} style={{ fontSize: iconSize, verticalAlign: 'middle' }} />}
-			<StyledHeading className="title" reverse={props.reverse ? 'true' : 'false'} bold={bold} level={level} titlecolor={props.titleColor}>
+			<StyledHeading className="title" reverse={props.reverse ? 'true' : 'false'} bold={bold} level={level} titlecolor={props.title_color}>
 				{content}
 			</StyledHeading>
 			{subheader && (

@@ -16,6 +16,7 @@ const StyledFooter = styled(Layout.Footer)`
 		padding: 3em;
 		border-top: 1px solid #ddd;
 		background-color: #fff;
+		z-index: 1;
 		a {
 			color: ${baseStyles.greyColor};
 		}

@@ -7,113 +7,139 @@ export const my_variables = {
 	role: 'Front-End Intern',
 	company: 'Cudy Technologies'
 };
+export const general_variables = [
+	{
+		name: 'Your First Name',
+		val: 'Sourabh'
+	},
+	{
+		name: 'Your Last Name',
+		val: 'Singhal'
+	},
+	{
+		name: 'Your Full Name',
+		val: 'Sourabh Singhal'
+	},
+	{
+		name: 'Your Address',
+		val: '#123 B Block, Yamuna Aparts, Panipat, Haryana, India'
+	},
+	{
+		name: 'Your Email',
+		val: 'saurabhsinghal3536@gmail.com'
+	},
+	{
+		name: 'Your Role',
+		val: 'Front-End Intern'
+	},
+	{
+		name: 'Your Company',
+		val: 'Cudy Technologies'
+	}
+];
+export const dynamic_variables = ['Date', 'Time', 'Local TimeZone', 'Day'];
 export const replies = {
 	General: [
 		{
-			title: 'Get Started',
+			title: 'Name Example',
 			paragraphs: [
 				{
-					type: 'text',
-					value: 'Hello and welcome '
-				},
-				{
-					type: 'variable',
-					value: 'Your First Name'
-				},
-				{
-					type: 'text',
-					value: ''
-				},
-				{
-					type: 'text',
-					value: 'Here you can make replies that may help you.'
+					type: 'paragraph',
+					children: [
+						{
+							text: ''
+						},
+						{
+							type: 'link',
+							sub: 'daytime',
+							options: { morning: 'morning', evening: 'evening', afternoon: 'afternoon', night: 'night' },
+							children: [{ text: 'DayTime Conditional' }]
+						},
+						{
+							text: ' is very nice '
+						},
+						{
+							type: 'link',
+							sub: 'gender',
+							options: { male: 'his', female: 'her', neutral: 'its' },
+							children: [{ text: 'Gender Conditional' }]
+						},
+						{
+							text: ' reading skills are good '
+						}
+					]
 				}
 			],
-			reply: 'Hello and welcome. Here you can make replies that may help you.',
+			reply: 'Hello my name is .',
 			folder: 'General',
 			favourite: true
 		},
 		{
-			title: 'Get Started 1',
+			title: 'Address Example',
 			paragraphs: [
 				{
-					type: 'text',
-					value: 'Hello and welcome '
-				},
-				{
-					type: 'variable',
-					value: 'Your First Name'
-				},
-				{
-					type: 'text',
-					value: ''
-				},
-				{
-					type: 'text',
-					value: 'Here you can make replies that may help you.'
+					type: 'paragraph',
+					children: [
+						{
+							text: 'Hello I live in '
+						},
+						{
+							type: 'link',
+							sub: 'general',
+							children: [{ text: 'Your Address' }]
+						},
+						{
+							text: ''
+						}
+					]
 				}
 			],
-			reply: 'Hello and welcome. Here you can make replies that may help you.',
-			folder: 'General',
-			favourite: true
-		},
-		{
-			title: 'Get Started 2',
-			paragraphs: [
-				{
-					type: 'text',
-					value: 'Hello and welcome '
-				},
-				{
-					type: 'variable',
-					value: 'Your First Name'
-				},
-				{
-					type: 'text',
-					value: ''
-				},
-				{
-					type: 'text',
-					value: 'Here you can make replies that may help you.'
-				}
-			],
-			reply: 'Hello and welcome. Here you can make replies that may help you.',
+			reply: 'Hello I live in .',
 			folder: 'General',
 			favourite: true
 		}
 	],
-	Common: []
-	// Common: [
-	// 	{
-	// 		title: 'Lorem Ipsum',
-	// 		reply:
-	// 			'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
-	// 		folder: 'Common',
-	// 		favourite: false
-	// 	},
-	// 	{
-	// 		title: 'Best Regards',
-	// 		reply: 'Best Regards',
-	// 		folder: 'Common',
-	// 		favourite: true
-	// 	},
-	// 	{
-	// 		title: 'Need Help?',
-	// 		reply: 'Let me know if you need any further help.',
-	// 		folder: 'Common',
-	// 		favourite: false
-	// 	},
-	// 	{
-	// 		title: 'Thank you very much Thank you very much',
-	// 		reply: 'Thank you very much',
-	// 		folder: 'Common',
-	// 		favourite: false
-	// 	},
-	// 	{
-	// 		title: 'Thank you very much Thank you very much',
-	// 		reply: 'Thank you very much',
-	// 		folder: 'Common',
-	// 		favourite: false
-	// 	}
-	// ]
+	Common: [
+		{
+			title: 'An Example',
+			paragraphs: [
+				{
+					type: 'paragraph',
+					children: [
+						{
+							text: 'This example shows hyperlinks in action. It features two ways to add links. You can either add a link via the toolbar icon above, or if you want in on a little secret, copy a URL to your keyboard and paste it while a range of text is selected.'
+						}
+					]
+				},
+				{
+					type: 'paragraph',
+					children: [
+						{
+							text: 'In addition to block nodes, you can create inline nodes, like '
+						},
+						{
+							type: 'link',
+							sub: 'general',
+							children: [{ text: 'Your Company' }]
+						},
+						{
+							text: '!'
+						}
+					]
+				},
+				{
+					type: 'paragraph',
+					children: [
+						{
+							text: 'This example shows hyperlinks in action. It features two ways to add links. You can either add a link via the toolbar icon above, or if you want in on a little secret, copy a URL to your keyboard and paste it while a range of text is selected.'
+						}
+					]
+				}
+			],
+			reply: 'Hello and welcome. Here you can make replies that may help you.',
+			folder: 'Common',
+			favourite: true
+		}
+	],
+	New: []
 };

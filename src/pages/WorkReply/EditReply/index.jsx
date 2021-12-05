@@ -112,12 +112,12 @@ function EditReply({ language }) {
 						<Row justify="center">
 							<StyledCol span={24}>
 								<Row gutter={24}>
-									<Col lg={2}>
+									<Col lg={2} style={{ paddingLeft: '0', paddingRight: '0' }}>
 										<BackIcon>
 											<RollbackOutlined style={{ fontSize: '22px', lineHeight: '50px' }} />
 										</BackIcon>
 									</Col>
-									<Col lg={16}>
+									<Col lg={16} style={{ paddingLeft: '2px' }}>
 										<Input
 											autoFocus
 											value={titleVal}
@@ -468,10 +468,10 @@ const MainRow = styled(Row).attrs(() => ({
 `;
 
 const StyledTag = styled(Tag)`
-	color: #5800ff !important;
-	border: 1px solid #5800ff !important;
+	color: #8860d0 !important;
+	border: 1px solid #8860d0 !important;
 	border-radius: 4px !important;
-	font-size: 17px !important;
+	font-size: 16px !important;
 	padding: 4px 14px !important;
 	margin: 8px !important;
 	cursor: pointer !important;
@@ -481,9 +481,21 @@ const StyledTag = styled(Tag)`
 	-moz-user-select: none !important;
 	-ms-user-select: none !important;
 	user-select: none !important;
+	.val {
+		background: -webkit-linear-gradient(45deg, #8860d0, #8860d0, #5680e9, #5ab9ea) !important;
+		-webkit-background-clip: text !important;
+		-webkit-text-fill-color: transparent !important;
+	}
 	&:hover {
-		background-color: rgba(88, 0, 255, 0.2) !important;
+		background-image: linear-gradient(to right, #8860d0, #8860d0, #5680e9, #5ab9ea) !important;
+		color: #fff !important;
+		border: none !important;
 		transform: scale(1.05);
+		.val {
+			background: -webkit-linear-gradient(45deg, #fff, #fff) !important;
+			-webkit-background-clip: text !important;
+			-webkit-text-fill-color: transparent !important;
+		}
 	}
 `;
 
@@ -501,6 +513,7 @@ const BackIcon = styled.span`
 const StyledCol = styled(Col)`
 	overflow-y: scroll;
 	background-color: #fff;
+	box-shadow: ${baseStyles.boxShadow.mild};
 	border-radius: 8px;
 	height: 80vh;
 	padding: 2em;

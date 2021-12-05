@@ -31,7 +31,7 @@ function Layout({ breadcrumb = false, customBread = '', className, ...props }) {
 				<PageLayout>
 					<PageLayout>
 						<PageLayout.Content>{children}</PageLayout.Content>
-						{(footer || sidebar) && <Footer />}
+						{/* {(footer || sidebar) && <Footer />} */}
 					</PageLayout>
 				</PageLayout>
 			</PageLayout.Content>
@@ -42,7 +42,8 @@ function Layout({ breadcrumb = false, customBread = '', className, ...props }) {
 export default Layout;
 
 const PageLayoutStyled = styled(PageLayout)`
-	padding-top: 76.5px;
+	${'' /* padding-top: 76.5px; */}
+	padding-top: 58px;
 
 	${media.mobile`
 	padding-top:48px;

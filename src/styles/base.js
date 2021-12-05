@@ -5,8 +5,8 @@ export const boxShadow = [
 ];
 
 export const baseStyles = {
-	primaryColor: '#5800FF',
-	mainBackgroundColor: '#C8C6C5 ',
+	primaryColor: '#5AB9EA',
+	mainBackgroundColor: '#C1C8e4 ',
 	redColor: '#f50',
 	greyColor: '#999',
 	yellowColor: '#fbe126',
@@ -23,7 +23,7 @@ export const baseStyles = {
 		WHATSAPP: '#4dc247',
 		TELEGRAM: '#00aef0'
 	},
-	primaryColorRgba: 'rgba(88, 0, 255, 1)',
+	primaryColorRgba: 'rgba(90, 185, 234, 1)',
 	boxShadow: {
 		main: '0 12px 15px 0 rgba(0, 0, 0, 0.1), 0 17px 50px 0 rgba(0, 0, 0, 0.1)',
 		hover: '0 2px 5px rgba(0, 0, 0, .2)',

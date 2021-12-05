@@ -16,7 +16,7 @@ const Search = styled(Input.Search)`
 		.ant-input {
 			box-shadow: none;
 			border: none;
-			font-size: ${({ fontsize }) => fontsize || '14px'};
+			font-size: ${({ fontSize }) => fontSize || '14px'};
 			&:focus {
 				width: 100%;
 				box-shadow: none;
